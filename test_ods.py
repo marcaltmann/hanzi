@@ -1,34 +1,51 @@
 from pyexcel_ods3 import get_data
 import json
 from character import Character
+from translation import Translation
 
 data = get_data('characters.ods')
 rows = data['Sheet1']
 
-characters = []
+def create_characters(rows):
+    characters = []
 
-for index, row in enumerate(rows):
-    keyword = row.pop(0)
-    characters.append(Character(index + 1, keyword, row))
+    for index, row in enumerate(rows):
+        keyword = row[0]
+        characters.append(Character(index + 1, keyword))
 
-for c in characters:
-    print(c.index, c.keyword, c.num_translations())
+    return characters
+
+characters = create_characters(rows)
+
+def create_translations(rows, characters):
+    word_dict = {}
+
+    for index, row in enumerate(rows):
+        row.pop(0)
+
+        for word in row:
+            if word in word_dict:
+                word_dict[word].add_character(characters[index])
+            else:
+                translation = Translation(word)
+                translation.add_character(characters[index])
+                word_dict[word] = translation
+
+    return word_dict
 
 
-for row in rows:
-    row.pop(0)
+translations = create_translations(rows, characters)
 
-flat_list = [item for sublist in rows for item in sublist]
+def get_keyword(character):
+    return character.keyword
 
-word_dict = {}
+for translation, characters in translations.items():
+    print(characters)
+    #keywords = map(get_keyword, characters)
+    #print(keywords)
+    print(f"{translation}: ")
 
-for word in flat_list:
-    if word in word_dict:
-        word_dict[word] += 1
-    else:
-        word_dict[word] = 1
+#sort_orders = sorted(word_dict.items(), key=lambda x: x[1], reverse=True)
 
-sort_orders = sorted(word_dict.items(), key=lambda x: x[1], reverse=True)
-
-for i in sort_orders:
-    print(i[0], i[1])
+#for i in sort_orders:
+#    print(i[0], i[1])

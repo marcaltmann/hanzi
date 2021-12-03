@@ -1,8 +1,19 @@
 from pyexcel_ods3 import get_data
 import json
+from character import Character
 
 data = get_data('characters.ods')
 rows = data['Sheet1']
+
+characters = []
+
+for index, row in enumerate(rows):
+    keyword = row.pop(0)
+    characters.append(Character(index + 1, keyword, row))
+
+for c in characters:
+    print(c.index, c.keyword, c.num_translations())
+
 
 for row in rows:
     row.pop(0)

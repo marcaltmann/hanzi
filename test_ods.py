@@ -1,6 +1,7 @@
 from pyexcel_ods3 import get_data
 import json
 from character import Character
+from translations import Translations
 
 data = get_data('characters.ods')
 rows = data['Sheet1']
@@ -14,10 +15,18 @@ def create_characters(rows):
 
     return characters
 
-characters = create_characters(rows)
+def create_translations(rows):
+    translations = Translations()
 
-print('Unequivocal translations:')
+    for index, row in enumerate(rows):
+        keyword = row.pop(0)
 
-for c in characters:
-    if c.is_unequivocal():
-        print(f"{c.keyword}: {c.possible_translations[0]}")
+        for t in row:
+            translations.add_character(t, keyword)
+
+    return translations
+
+#characters = create_characters(rows)
+
+translations = create_translations(rows)
+translations.print()

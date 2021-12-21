@@ -29,4 +29,4 @@ def create_translations(rows):
 #characters = create_characters(rows)
 
 translations = create_translations(rows)
-translations.print()
+translations.print_more_than_one()

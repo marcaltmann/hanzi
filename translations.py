@@ -19,6 +19,7 @@ class Translations:
         keys = self.sorted_keys()
         filtered_keys = [key for key in keys if len(self.translations[key]) > 1]
         self.print(filtered_keys)
+        print(f'insgesamt {len(filtered_keys)}')
 
     def print_all(self):
         keys = self.sorted_keys()

@@ -3,8 +3,8 @@ import json
 from character import Character
 from translations import Translations
 
-data = get_data('characters.ods')
-rows = data['Sheet1']
+data = get_data('zeichen.ods')
+rows = data['Schlüsselwörter']
 
 def create_characters(rows):
     characters = []
@@ -19,6 +19,9 @@ def create_translations(rows):
     translations = Translations()
 
     for index, row in enumerate(rows):
+        if not row:
+            continue
+
         keyword = row.pop(0)
 
         for t in row:

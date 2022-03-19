@@ -791,24 +791,24 @@ come	kommen
 wheat	Weizen	Sammelname für Weizen, Gerste, Hafer usw.											
 drink (v.)	trinken												
 thirsty	durstig												
-appoint													
-royal court													
-court of law													
-by means of													
-similar													
-combine (v.)													
-piece together													
-spine													
-associate (n.)													
-glory (n.)													
-labor (n.)													
-camp													
-virtuous													
+appoint	ernennen	einsetzen	jn mit einem Amt betrauen	eine Funktion innehaben	eine Funktion ausüben								
+royal court	Hof eines feudalen Herrschers	Regierungssitz eines Monarchen											
+court of law	Gerichtshof												
+by means of	mit	mittels	durch										
+similar	ähnlich sein	ähneln											
+combine (v.)	verschmelzen	verbinden	zusammenlegen	zusammenfassen	zusammenschließen	fusionieren	vereinigen						
+piece together	zusammenstückeln	zusammensetzen											
+spine	???	Lü	musikalische Note										
+associate (n.)	Kamerad	Gefährte	Partner										
+glory (n.)	Ruhm	Glorie	Ehre	gedeihen	florieren								
+labor (n.)	Arbeit	arbeiten											
+camp	Lager	Feldquartier	Baracke	Kaserne	Truppenunterkunft								
+virtuous	gut	gutherzig	mildtätig										
 year	Jahr												
-night													
-liquid													
-call out (v.)													
-exchange (v.)													
+night	Nacht												
+liquid	Flüssigkeit	Saft											
+call out (v.)	laut rufen	herbeirufen											
+exchange (v.)	tauschen	austauschen	eintauschen	umwechseln	wechseln	tauschen							
 travel (v.)													
 execute													
 go swimming													
@@ -2019,7 +2019,7 @@ incline (v.)
 insult (v.)													
 times													
 mimic (v.)													
-haughty													
+haughty	stolz	überheblich	arrogant	hochnäsig	hochmütig								
 Buddhist monk													
 without haste													
 Russia													
@@ -2850,7 +2850,7 @@ numeral
 tame (adj./v.)													
 Mary													
 be stationed													
-arrogant													
+arrogant	Hochmut	Überheblichkeit	Arroganz	Dünkelhaftigkeit									
 gallop (v.)													
 leech-hopper													
 proof													

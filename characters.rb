@@ -18,7 +18,7 @@ data.shift # Remove header
 
 Character = Data.define(:id, :keyword, :translations)
 
-new_data = data.each_with_index.map do |row, index|
+characters = data.each_with_index.map do |row, index|
   row.delete(nil)
 
   id = index + 1
@@ -28,8 +28,17 @@ new_data = data.each_with_index.map do |row, index|
   Character.new(id, keyword, translations)
 end
 
-# Select characters with only one translation.
-data2 = new_data.select { |character| character.translations.size == 1 }
+all_translations = characters.inject([]) { |arr, c| arr << c.translations }
+all_translations.flatten!
+puts all_translations.inspect
+puts all_translations.size
 
-data2.each { |character| puts character.inspect }
-puts data2.size
+# Select characters with only one translation.
+characters_w_one_translation = characters.select { |character| character.translations.size == 1 }
+
+#characters_w_one_translation.each { |character| puts character.inspect }
+puts characters_w_one_translation.size
+
+chars_uniq_translations = characters_w_one_translation.select { |c| all_translations.count(c.translations[0]) == 1 }
+chars_uniq_translations.each { |c| puts c }
+puts chars_uniq_translations.size

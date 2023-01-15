@@ -8,13 +8,6 @@ class Array
       i != self.index(e)
     end
   end
-
-  def slow_find_duplicates
-    group_by { |e| e }.
-      each_with_object([]) do |i, arr|
-        arr << i.last.drop(1)
-      end.flatten
-  end
 end
 
 
@@ -23,20 +16,20 @@ data = all.read
 
 data.shift # Remove header
 
-new_data = data.map do |row|
+Character = Data.define(:id, :keyword, :translations)
+
+new_data = data.each_with_index.map do |row, index|
   row.delete(nil)
-  row.shift # Remove first item
-  row
+
+  id = index + 1
+  keyword = row.shift
+  translations = row
+
+  Character.new(id, keyword, translations)
 end
 
-data2 = new_data.select { |row| row.size == 1 }
-  .map { |row| row[0] }
+# Select characters with only one translation.
+data2 = new_data.select { |character| character.translations.size == 1 }
 
-data2.each { |row| puts row.inspect }
-
-puts "Ohne Alternativen:"
+data2.each { |character| puts character.inspect }
 puts data2.size
-puts data2.uniq.size
-
-puts "Duplikate ohne Alternativen:"
-puts data2.find_duplicates.inspect

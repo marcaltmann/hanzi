@@ -409,7 +409,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	standing up (adj.)	stehen												
 	weep	wimmern	schluchzen	weinen										
 	station (n.)	Haltestelle	Bahnhof	Station										
-	chapter	Kapitel	Abschnitt											
+	chapter	Kapitel												
 	compete	konkurrieren	wetteifern	streiten	kämpfen									
 	sovereign (n.)	Kaiser	Gott											
 	juvenile (n.)	Knabe	Kind											
@@ -600,7 +600,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	establish (v.)	einrichten	errichten	gründen	aufstellen									
 	thigh	Oberschenkel												
 	offshoot	Abzweigung	Ableger	Zweig	Seitenlinie									
-	skill	Können	Fertigkeit	Kunstfertigkeit	Fähigkeit									
+	skill	Technik												
 	branch	Ast	Zweig											
 	uncle	Onkel												
 	superintend	überwachen	beaufsichtigen	kontrollieren										
@@ -608,7 +608,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	against	gegen	anti-	gegen etw. sein										
 	plank	Brett	Platte	Planke										
 	go back	zurückkommen	zurückkehren	zurück										
-	faction	Gruppe	Fraktion	Schule										
+	faction	Fraktion												
 	blood vessels	Ader	Blutgefäß	Puls	Pulsschlag									
 	claw (n.)	Kralle	Klaue	Pfote	Tatze									
 	grab	packen	ergreifen	fassen	grapschen									
@@ -633,7 +633,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	flow (v.)	fließen	strömen	sich vom Wasser treiben lassen										
 	comb (n.)	Kamm	kämmen											
 	mountain	Berg												
-	exit (v.)	hinausgehen	herauskommen	verlassen										
+	exit (v.)	hinausgehen												
 	beat (v.)	schlagen	einen Schlag versetzen	einen Stoß austeilen	zuschlagen	angreifen	überfallen							
 	secret (adj.)	geheim	diskret	vertraulich	intim	innig	vertraut	dicht	eng					
 	enter	hineingehen	eintreten	hereinkommen										
@@ -693,7 +693,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	achievement	Verdienst	Leistung	Errungenschaft	Erfolg									
 	slave (n.)	Sklave	Knecht											
 	toil (v.)	sich anstrengen												
-	add	addieren	plus	zusammenzählen	hinzufügen									
+	add	addieren	plus	zusammenzählen	vermehren	steigern								
 	congratulate	gratulieren	beglückwünschen											
 	shelf (n.)	Regal	Gerüst	Gestell										
 	cooperate	kooperieren	zusammen arbeiten	gemeinsam	mit vereinten Kräften									
@@ -892,8 +892,8 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	upright	aufrecht	richtig	etw. waagerecht halten	etw. waagerecht tragen									
 	bent	krumm	gekrümmt	gebeugt										
 	Big Dipper	der Große Bär	der Große Wagen	Dou (10 Liter)	Dou-Maß									
-	material (n.)	Material	Stoff											
-	academic discipline	Wissensgebiet	wissenschaftliche Disziplin	Lehrfach										
+	material (n.)	Material												
+	academic discipline	wissenschaftliche Disziplin												
 	utilize	benutzen	anwenden	verwenden	gebrauchen									
 	times past	Vergangenheit												
 	borrow	entleihen	leihen	borgen										
@@ -938,7 +938,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	preface (n.)	Reihenfolge	Ordnung	Einleitung	Vorwort									
 	beforehand	vorher	im voraus											
 	wild (adj.)	wild	unkultiviert	ungezähmt	offenes Land	nicht an der Macht sein								
-	class (n.)	Klasse	Schulklasse	Team	Gruppe									
+	class (n.)	Klasse	Schulklasse	Team										
 	bow (n.)	Bogen												
 	draw (v.)	ziehen	anspannen											
 	strong	stark	kräftig											
@@ -995,7 +995,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	stairs	Stufe	Treppenstufe											
 	hole	Höhle	Nest	Loch	Akupunkturpunkt									
 	research (v.)	erforschen	untersuchen	einer Sache auf den Grund gehen										
-	abruptly	plötzlich	vorspringend	Kamin	stürmen	vorstürmen								
+	abruptly	plötzlich	vorspringend	Kamin										
 	empty	leer	hohl											
 	control (v.)	beherrschen	dominieren	herrschen										
 	border	Seite	Grenze	Grenzgebiet										
@@ -1133,17 +1133,17 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	land (n.)	Festland												
 	force (n.)	Macht	Einfluss	Stärke	Wucht	Trend	Tendenz							
 	heat (n./v.)	Wärme	heiß	warm										
-	technique	Geschicklichkeit	Kunstfertigkeit	Kunst										
+	technique	Kunstfertigkeit												
 	sign of the pig	Tierkreiszeichen Schwein												
 	nucleus	Kern	Stein											
 	tot	Kind												
 	carve	schnitzen	Viertelstunde	Moment										
 	should	sollen	müssen											
 	narrate	schildern	erzählen	darlegen	berichten									
-	art	Können	Kunst	Technik										
+	art	Kunst												
 	kill	töten												
 	aid (v.)	helfen	assistieren											
-	yield	lassen	nachgeben	jm einen Vorteil überlassen	jm den Vortritt lassen	zulassen	jm etw. überlassen	jm etw. abtreten	erlauben					
+	yield	lassen	jm einen Vorteil überlassen	jm den Vortritt lassen	zulassen	jm etw. überlassen	jm etw. abtreten	erlauben						
 	territory	Erdreich	Boden	Gebiet										
 	frigid	kalt												
 	competition	Wettkampf												
@@ -1201,7 +1201,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	south	Süden												
 	gate	Tor	Tür	Eingang										
 	(plural)	Plural	(Plural)											
-	leisure	unbeschäftigt	müßig	frei haben										
+	leisure	müßig												
 	ask	fragen	befragen	sich nach etw. erkundigen										
 	interval	Zwischenraum	Lücke	Zwischenzeit										
 	simple	einfach	unkompliziert											
@@ -1224,14 +1224,14 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	great	groß	bedeutend											
 	defend	verteidigen	beschützen	sichern	bewahren									
 	offend (v.)	jn verletzen	jn vor den Kopf stoßen	jm zu nahe treten	Schild									
-	shore	Ufer	Küste											
+	shore	Ufer												
 	trunk	Hauptteil	Stamm	Rumpf	Rückgrat	tun	machen							
 	drought	Trockenheit	Dürre											
 	hurry (v.)	einholen	aufholen	etw. zu erreichen versuchen	sich beeilen, um etw. nicht zu versäumen	sich beeilen								
 	Yu	Yu												
 	eaves	Dachtraufe	Dachrinne	Weltraum	Universum	Kosmos								
 	moi	ich												
-	excess	übrig	überflüssig	verbleibend	restlich	überschüssig								
+	excess	Rest												
 	eliminate	loswerden	entfernen	ausmerzen	beseitigen									
 	route (n.)	Weg	Strecke											
 	bundle up	binden	schnüren	Bündel	binden	beherrschen	zügeln	einschränken						
@@ -1297,17 +1297,17 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	comfort (v.)	trösten	Trost zusprechen											
 	moreover	für einen Moment	für eine lange Zeit	selbst	sogar	sowohl … als auch …								
 	older sister	ältere Schwester												
-	group (n.)	Gruppe	organisieren	gründen	bilden									
+	group (n.)	Gruppe	bilden											
 	ancestor	Vorfahr	Ahn	Großvater	Gründer	Urheber	Stifter							
 	assist (v.)	helfen	beistehen	unterstützen										
 	side by side	gleich	gleichzeitig	und										
 	universal	allgemein	universal											
 	profession	Branche	Wirtschaftszweig	Beruf	Beschäftigung	Gewerbe	Job							
 	that‘s right	gegenüberliegen	gegenüber	entgegengesetzt	richtig	korrekt	stimmen							
-	together	gemeinsam	gleich	allgemein	zusammen									
+	together	gemeinsam												
 	supply (n./v.)	liefern	versorgen	bereitstellen	anbieten	Angebot	Zufuhr							
 	different	verschieden												
-	lane	Gasse												
+TRUE	lane	Gasse												
 	port (n.)	Hafen												
 	choose	auswählen	auslesen	wählen	Wahl	ausgewählte Werke	Anthologie							
 	well (n.)	Brunnen												
@@ -1339,11 +1339,11 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	knowledgeable	reich	umfassend	groß	weit ausgedehnt	im Überfluss vorhanden	mit etw. reich ausgestattet	gewinnen	erlangen	finden				
 	wrestle	kämpfen	ringen	Kampf										
 	metropolis	Hauptstadt	Metropole	Großstadt										
-	department	Teil	Abschnitt	Einheit	Amt	Ministerium	Abteilung							
+	department	Teil	Einheit	Amt	Ministerium	Abteilung								
 	young man	(Anrede für Männer) Herr	Herr	Liebster	Geliebter									
 	countryside	Land	ländliche Gebiete	Dorf										
 	echo (n.)	Laut	Schall	Geräusch	Echo									
-	section (n.)	Abschnitt	Teil	Stück	Strecke									
+	section (n.)	Abschnitt												
 	forge (v.)	schmieden												
 	unreal	unwirklich	trügerisch	illusorisch	magisch	zauberhaft								
 	take charge of	führen	verwalten	bewirtschaften										
@@ -1538,7 +1538,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	cinnabar red	rot	Pille	Medikament (in Pillen- oder Pulverform9										
 	boisterous	laut	lärmend											
 	visitor	Gast												
-	water‘s edge	Ufer	Strand	Gestade	Rand eines Gewässers									
+	water's edge	Gestade	Rand eines Gewässers											
 	widowed	verwitwet	Witwe	wenig	karg	gering	spärlich	geschmacklos						
 	shed (n.)	Schutzdach	Sonnendach	Schuppen										
 	cypress	Zypresse												
@@ -1572,7 +1572,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	dude	männlich (von Tieren)	männlich											
 	jail	Gehege	Pferch	Viehhürde	Opfertier	Gefängnis	Kerker							
 	succor (v.)	helfen	beistehen	unterstützen										
-TRUE	abode	Hütte												
+TRUE	abode	Laube												
 	wha?	was	was?											
 	in agreement	einträchtig	harmonisch	einig	im Einvernehmen	verhandeln								
 	thriving	blühend	üppig											
@@ -1677,11 +1677,11 @@ TRUE	abode	Hütte
 	spoon (n.)	Löffel	Schöpfkelle											
 	well-behaved	brav	artig	manierlich										
 	hitch a ride	fahren												
-	leftover (adj.)	übrigbleiben	als Rest zurückbleiben											
+	leftover (adj.)	übrigbleiben												
 	club (n.)	Stange	Stock	Stab										
 	in accord	in Harmonie	in Übereinstimmung mit	zu einer Vereinbarung kommen	mit jm übereinkommen									
 	firewood	Brennholz												
-	quick-witted	flink	behende											
+	quick-witted	agil												
 	mildew (n.)	Schimmel	Schimmelpilz											
 	so far	bis jetzt	die ganze Zeit über											
 	chop (v.)	fällen	hacken	hauen	(einen Text u.ä.) kürzen									
@@ -1735,7 +1735,7 @@ TRUE	abode	Hütte
 	lay eyes on	sehen	schauen											
 	reef	Riff	Klippe											
 	banana	Banane	Bananengewächse											
-	sculpture	schnitzen	stechen	eingravieren	Schnitzarbeit	Schnitzerei	Geier							
+	sculpture	schnitzen	eingravieren	Skulptur	Geier	Adler								
 	lop off	abschneiden	zerschneiden											
 	allow	genehmigen	erlauben	bewilligen										
 	sparrow	Spatz												
@@ -1771,7 +1771,7 @@ TRUE	abode	Hütte
 	be bewildered	verwirrt	verblüfft	konfus										
 	terror-stricken	von Furcht gepackt werden	von panischem Schrecken ergriffen sein	stutzen										
 	be scared of	Angst	Furcht	vor etw. Angst haben										
-	augment	hinzufügen	ergänzen	gebären	ein Kind bekommen									
+	augment	hinzufügen												
 	be sorry about	bedauern	bereuen											
 	nervous	unruhig	nervös	konfus	verwirrt									
 	delighted	fröhlich	glücklich	erfreut	erfreuen	ergötzen	entzücken	Freude machen						
@@ -1892,7 +1892,7 @@ TRUE	abode	Hütte
 	elderly man	alter Mann	Greis											
 	abundant	reichlich	im Überfluss vorhanden											
 	banyan	Banyanbaum	Ficus bengalesis											
-	prize	jn etw. gnädig überreichen / zuwenden	Zuwendung	Geschenk	Auszeichnung	Prämie	prämieren	belohnen						
+	prize	Auszeichnung												
 	attempt (v.)	einst	einmal	ehemals	(versuchen)	(probieren)								
 	taste (v.)	kosten	schmecken	abschmecken										
 	palm of the hand	Handfläche												
@@ -2019,7 +2019,7 @@ TRUE	stay overnight	übernachten
 	insult (v.)	beleidigen	kränken	demütigen										
 	times	-fach	-mal											
 	mimic (v.)	nachahmen	imitieren	kopieren	nachbilden									
-	haughty	stolz	überheblich	arrogant	hochnäsig	hochmütig								
+	haughty	stolz												
 	Buddhist monk	buddhistischer Mönch												
 	without haste	gemächlich	sich lang erstrecken	fern										
 	Russia	Russland												
@@ -2087,7 +2087,7 @@ TRUE	stay overnight	übernachten
 	footwear	Schuh	Schritt											
 	excrement	Kot												
 	folding screen	Wandschirm	Paravent	spanische Wand										
-	knuckle under	biegen	krümmen	sich beugen	sich bücken	sich nachgiebig zeigen	nachgeben	erlittenes Unrecht						
+	knuckle under	nachgeben												
 	excavate	graben												
 	ruler	Lineal	Zollstock											
 	eyebrows	Augenbraue	Braue											
@@ -2283,7 +2283,7 @@ TRUE	stay overnight	übernachten
 	tunnel (n.)	Tunnel												
 	plunge (v.)	fallen	hinabstürzen	herabhängen	Gewicht									
 	undesirable	hässlich	garstig	abstoßend										
-	dig (v.)	graben	aushöhlen	ausbaggern										
+	dig (v.)	aushöhlen												
 	kiln	Brennofen												
 	peep (v.)	lugen	heimlich blicken	heimlich beobachten	verstohlen blicken	spannen?								
 	den	Felsenhöhle	Höhle	Grotte	Versteck									
@@ -2491,7 +2491,7 @@ TRUE	stay overnight	übernachten
 	translate	übersetzen												
 	select (v.)	auswählen	wählen	aussuchen										
 	swamp (n.)	Gebiet mit großer Wasseransammlung	Sumpf	Moor										
-	pad (n./v.)	Polster	Kissen	Wulst	Bausch	etw. unter etw. legen								
+	pad (n./v.)	Polster												
 	earnest	aufrichtig	ehrlich	echt	herzlich									
 	entangle	sich verwickeln	sich verstricken	zusammenrotten	zusammentrommeln									
 	bully (v.)	beleidigen	schikanieren	Eisscholle										
@@ -2532,7 +2532,7 @@ TRUE	stay overnight	übernachten
 	carry in both hands	etw. mit beiden Händen tragen	mit beiden Händen tragen											
 	sigh (v.)	seufzen												
 	arduous	hart	schwierig											
-	beach (n.)	Strand	Untiefe	Sandbank										
+	beach (n.)	Strand												
 	complete (v.)	beenden	beendigen	abschließen	vollenden	völlig	vollständig	ganz	sämtlich					
 	saliva	Speichel	Spucke											
 	recite	rezitieren	aufsagen	Gedichte aufsagen										
@@ -2850,7 +2850,7 @@ TRUE	stay overnight	übernachten
 	tame (adj./v.)	zahm	zähmen	bändigen	dressieren									
 	Mary	Marie												
 	be stationed	sich aufhalten	bleiben	verweilen	verbleiben	stationieren	Standort halten							
-	arrogant	Hochmut	Überheblichkeit	Arroganz	Dünkelhaftigkeit									
+	arrogant	hochmütig												
 	gallop (v.)	schnell fahren	galoppieren											
 	leech-hopper	Blutegel	Grashüpfer	Ameise	Bluthüpfer	Grasegel	Egelhüpfer							
 	proof	sich anlehnen	sich auf etw. verlassen	Beweis	gemäß	entsprechend								
@@ -2859,7 +2859,7 @@ TRUE	stay overnight	übernachten
 	drive (v.)	vorspannen	anspannen	fahren	lenken	steuern								
 	mule	Maultier	Maulesel											
 	refute	bestreiten	zurückweisen	widerlegen	widersprechen	Leichter	Lastkahn	mit einem Lastkahn transportieren						
-	rush (v.)	sich stürzen	stürmen	sich durchschlagen	sich durchkämpfen	sich durchs Leben schlagen								
+TRUE	rush (v.)	stürmen												
 	drive away	vertreiben	zerstreuen	ein Pferd lenken	einen Wagen lenken	rasen	schnell rennen							
 	cheat (v.)	betrügen	prellen	lügen	begaunern	beschwindeln								
 	trot (v.)	traben												

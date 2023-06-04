@@ -701,7 +701,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	law	Gesetz	Regel	Statut										
 	recover	sich umwälzen	sich hin- und her drehen	wiederherstellen	sich rächen	Rache								
 	must (aux. v.)	müssen												
-	treat (v.)	sich aufhalten	bleiben	verweilen	behandeln	mit jm umgehen								
+	treat (v.)	sich aufhalten	verweilen	behandeln	mit jm umgehen									
 	toward	(in Richtung) auf, nach, zu	gen	nach										
 	tiny	winzig												
 	street	Straße												
@@ -725,7 +725,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	rice	Reis												
 	lost	irregehen	verirren	herumirren	sich nicht orientieren können	für etw. schwärmen	Fan							
 	riddle	Rätsel	Mysterium	Geheimnis										
-	kind (n.)	Art	Sorte	Typ	Kategorie									
+	kind (n.)	Sorte	Typ	Kategorie										
 	bamboo	Bambus												
 	laugh (v.)	lachen												
 	box (n.)	Kiste	Kasten	Koffer										
@@ -1243,7 +1243,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	heavy	Gewicht	schwer	gewichtig	hoch	wichtig								
 	understand	verstehen	begreifen	kapieren	Bescheid wissen									
 	move (v.)	sich bewegen	sich rühren											
-	species	Art	Spezies	Sorte	Rasse	Typ								
+	species	Art	(Spezies)											
 	collide	Krach	Zusammenstoß	Kollision	Verkehrsader	Hauptverkehrsstraße								
 	illness	krank sein	erkranken	Krankheit	Beschwerde									
 	ache (v.)	Schmerz	Weh	Leiden										
@@ -1628,7 +1628,7 @@ TRUE	abode	Laube
 	forgive	verzeihen	entschuldigen	ich nehme an	ich gehe davon aus									
 	praise (v.)	loben	rühmen	preisen	Lobschrift	Lobrede								
 	II	II	Schreibweise der Zahl zwei auf Schecks, Banknoten etc.											
-	sick and tired of	fettig	ölig	einer Sache überdrüssig sein	etw. satt haben	peinlich genau								
+	sick and tired of	einer Sache überdrüssig sein	satt haben	fettig	ölig									
 	discharge (v.)	entweichen	ausströmen	ein Geheimnis preisgeben	preisgeben	Nachrichten offenbaren	offenbaren	Luft machen	freien Lauf lassen					
 	paddle (v.)	rudern	paddeln											
 	caw (n.)	krachen	quietschen	quaken										
@@ -2849,7 +2849,7 @@ TRUE	stay overnight	übernachten
 	numeral	Nummernbezeichnung	Ziffernbezeichnung	Gewichtsbezeichnung										
 	tame (adj./v.)	zahm	zähmen	bändigen	dressieren									
 	Mary	Marie												
-	be stationed	sich aufhalten	bleiben	verweilen	verbleiben	stationieren	Standort halten							
+	be stationed	sich aufhalten	verweilen	stationieren	Standort halten									
 	arrogant	hochmütig												
 	gallop (v.)	schnell fahren	galoppieren											
 	leech-hopper	Blutegel	Grashüpfer	Ameise	Bluthüpfer	Grasegel	Egelhüpfer							

@@ -372,7 +372,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	prolong	verlängern	ausdehnen	verschieben										
 	nativity	Geburt	Geburtstag	gebären										
 	clear (adj.)	klar	rein	ordentlich										
-	foundation	Sockel	Fundament											
+	foundation	Fundament												
 	clothing	Kleidung												
 	inside	innen	in											
 	grief	Trauer	Kummer											
@@ -582,7 +582,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	at	sich befinden	an, bei, auf, in											
 	only then	erst dann												
 	milk (n.)	Milch												
-	catch up with	gleichkommen	sich mit jm messen können											
+	catch up with	gleichkommen	so gut sein wie	sich messen können mit	erreichen									
 	inhale	einatmen	saugen											
 	history	Geschichte												
 	even more	noch mehr												
@@ -1048,10 +1048,10 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	slide (v.)	gleiten	rutschen	glatt										
 	chat (v.)	plaudern	sich unterhalten											
 	willow	Weide												
-	orders (n.)	Befehl	Erlass	Anordnung	Order									
+	orders (n.)	Befehl												
 	cold	kalt												
 	zero	null	Null											
-	collar (n.)	Kragen	Hals											
+	collar (n.)	Kragen												
 	communicate	verbinden	mit jm verkehren	in Verbindung stehen	benachrichtigen	informieren	bekanntgeben	jn von etw. in Kenntnis setzen						
 	courageous	mutig	kühn	tapfer	beherzt	verwegen								
 	criminal (n.)	gegen etw. verstoßen	übertreten	Verbrecher	begehen	verüben								
@@ -1287,7 +1287,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	such and such (adj.)	gewiss	bestimmt											
 	his-hers-its-theirs	sein	ihr											
 	period of time	Periode	Zeitraum	Phase										
-	base (n.)	Grundlage	Basis	Fundament										
+t	base (n.)	Grundlage												
 	Sphinx	dies	so	dann	Sphinx									
 	tremendously	sehr	äußerst	mehr als										
 	expensive	von hohem Preis	teuer	kostspielig										
@@ -1477,7 +1477,7 @@ TRUE	lane	Gasse
 	general (adj.)	zusammenfassen	zusammenstellen	allseitig	total	immer	stets							
 	verbose	Zhan												
 	assume	Lasten mit einer Schulterstange tragen	übernehmen	etw. auf sich nehmen										
-	number (n.)	Zahl	Anzahl	Nummer										
+	number (n.)	Zahl												
 	multistory building	Gebäude	Stockwerk	Etage	Turm									
 	alone	einzig	allein	in Einsamkeit	alt und kinderlos	kinderlose alte Leute								
 	belong to	Kategorie	gehören zu											
@@ -1628,7 +1628,7 @@ TRUE	abode	Laube
 	forgive	verzeihen	entschuldigen	ich nehme an	ich gehe davon aus									
 	praise (v.)	loben	rühmen	preisen	Lobschrift	Lobrede								
 	II	II	Schreibweise der Zahl zwei auf Schecks, Banknoten etc.											
-	sick and tired of	einer Sache überdrüssig sein	satt haben	fettig	ölig									
+	sick and tired of	satt haben												
 	discharge (v.)	entweichen	ausströmen	ein Geheimnis preisgeben	preisgeben	Nachrichten offenbaren	offenbaren	Luft machen	freien Lauf lassen					
 	paddle (v.)	rudern	paddeln											
 	caw (n.)	krachen	quietschen	quaken										
@@ -2533,8 +2533,8 @@ TRUE	stay overnight	übernachten
 	sigh (v.)	seufzen												
 	arduous	hart	schwierig											
 	beach (n.)	Strand												
-	complete (v.)	beenden	beendigen	abschließen	vollenden	völlig	vollständig	ganz	sämtlich					
-	saliva	Speichel	Spucke											
+	complete (v.)	beenden	beendigen	abschließen	vollenden									
+	saliva	Speichel												
 	recite	rezitieren	aufsagen	Gedichte aufsagen										
 	greedy	korrupt	bestechlich	gierig	unersättlich									
 	stringed instrument	Saiteninstrumente												

@@ -80,7 +80,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	sword	Messer	Schwert											
 	blade	Klinge	Schneide											
 	cut (v.)	schneiden	zerschneiden											
-	summon	rufen	zusammenrufen	einberufen										
+	summon	herbeirufen												
 	evident	hell	klar	offensichtlich	evident	deutlich								
 	rule (n.)	Richtschnur	Regel	Vorschrift										
 	vice-	Vize-	stellvertretend											
@@ -163,8 +163,8 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	disaster	Katastrophe												
 	illuminate	scheinen	leuchten	beleuchten	fotografieren									
 	fish (n.)	Fisch												
-	fishing (n.)	fischen	Fischfang	Fischen										
-	Yao	Yao	Kaiser Yao											
+	fishing (n.)	Fischfang												
+	Yao	Yao												
 	fever	Fieber	braten	schmoren	backen									
 	dawn (n.)	Morgendämmerung												
 	li	Li												
@@ -177,7 +177,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	same	gleich												
 	cave	Höhle	Grotte	Loch										
 	orientation	Richtung	gegen	nach										
-	esteem (v.)	schätzen	wertschätzen	berücksichtigen	respektieren									
+	esteem (v.)	wertschätzen	(berücksichtigen)											
 	character	Schriftzeichen												
 	guard (v.)	bewachen	schützen	verteidigen										
 	finish (v.)	enden	beenden	fertig										
@@ -221,7 +221,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	grave	Grabmal	Grab											
 	seedling	Spross	Trieb	Setzling	Impfstoff									
 	aim (v.)	zielen	anvisieren											
-	portent	Vorzeichen	Anzeichen	Omen										
+	portent	Vorzeichen	(Omen)											
 	peach	Pfirsich												
 	pooch	Hund												
 	remarkable	besonders	vornehmlich	vor allem										
@@ -556,7 +556,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	embrace	in die Arme nehmen	in den Armen halten	umarmen										
 	combat	Widerstand leisten	bekämpfen	verweigern	trotzen									
 	criticize	kritisieren	verurteilen											
-	beckon	winken	zu sich locken	anwerben										
+	beckon	winken												
 	strike (v.)	schlagen												
 	finger (n.)	Finger												
 	support (v.)	halten	aufrechterhalten	bewahren	wahren									
@@ -807,7 +807,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	year	Jahr												
 	night	Nacht												
 	liquid	Flüssigkeit	Saft											
-	call out (v.)	laut rufen	herbeirufen											
+	call out (v.)	laut rufen												
 	exchange (v.)	tauschen	austauschen	eintauschen	umwechseln	wechseln	tauschen							
 	travel (v.)	reisen												
 	execute	ausführen	durchführen											
@@ -1059,7 +1059,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	fragile	zerbrechlich	brüchig	spröde	knusprig	bröckelig								
 	print (n./v.)	drucken	kopieren	Abdruck	Siegel	Stempel								
 	excitement	Lust	Interesse	Freude										
-	liquor	alkoholische Getränke	Spirituosen											
+	liquor	Alkohol												
 	distribute	zusammenmischen	zusammenstellen	paaren	eine Ehe schließen									
 	chieftain	Stammeshäuptling	Anführer	Chef	Häuptling									
 	venerate (v.)	ehren	hochachten	respektieren	älter	ranghöher	dienstälter							
@@ -1105,7 +1105,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	evaluate	kommentieren	kritisieren	Kommentar	beurteilen	abschätzen								
 	level ground	ebene Fläche												
 	ooh!	Oh!												
-	shout (v.)	ausatmen	herausschreien	rufen	puffen	nennen	aufrufen							
+	shout (v.)	ausatmen	herausschreien	rufen										
 	hope (v.)	hoffen	wünschen	erwarten										
 	scarce	selten	wenig	rar	dünn	spärlich	licht							
 	study (v.)	lernen	studieren											
@@ -1171,7 +1171,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	plentiful	reichlich	üppig	im Überfluss										
 	springtime	Frühling												
 	tranquil	heil	friedlich	Thailand										
-	proffer (v.)	etw. höflich überreichen	etw. mit Ehrerbietung schenken	jm etw. mit höflicher Zurückhaltung anbieten										
+	proffer (v.)	etw. höflich überreichen	jm etw. mit höflicher Zurückhaltung anbieten											
 	cudgel (n.)	Stock	Stange	Knüppel	Keule									
 	diligent	fleißig	arbeitsam	emsig	unermüdlich									
 	careful	behutsam	vorsichtig	sorgfältig										
@@ -1537,7 +1537,7 @@ TRUE	lane	Gasse
 	Hey!	he	heda	hallo										
 	cinnabar red	rot	Pille	Medikament (in Pillen- oder Pulverform9										
 	boisterous	laut	lärmend											
-	visitor	Gast												
+	visitor	Gast	Besucher?											
 	water's edge	Gestade	Rand eines Gewässers											
 	widowed	verwitwet	Witwe	wenig	karg	gering	spärlich	geschmacklos						
 	shed (n.)	Schutzdach	Sonnendach	Schuppen										
@@ -1698,7 +1698,7 @@ TRUE	abode	Laube
 	interrogate	nach etw. fragen	ausfragen	verhören	vernehmen									
 	workshop	Werkstatt	Werkstätte	Betrieb										
 	aromatic	duftend	wohlriechend											
-	call on	besuchen	einen Besuch machen	aufsuchen										
+	call on	besuchen	jm einen Besuch abstatten	aufsuchen										
 	stew (v.)	langsam kochen	abkochen	auskochen	durchhalten	aushalten	ertragen	leiden	vegetieren					
 	tobacco	Tabak	Zigarette											
 	roster	Namensliste	öffentlich ausgehängte Namensliste											
@@ -1807,7 +1807,7 @@ TRUE	abode	Laube
 	smear on	streichen	aufstreichen	bestreichen	schmieren									
 	describe	etw. nach einer Vorlage zeichnen	abpausen	übermalen	retuschieren									
 	grope	betasten	berühren	befühlen	streicheln	tätscheln								
-	foment	schüren	anstiften	aufstechen	stochern	etw. mit einem Stock oder einer Stange hochheben								
+	foment	schüren												
 	tether (v.)	binden	anbinden											
 	tidy up	auflesen	finden	(vom Boden) aufheben										
 	put up	bauen	erbauen	errichten	etw. an, auf oder über etw. hängen									
@@ -2517,7 +2517,7 @@ TRUE	stay overnight	übernachten
 	visionless	blind	blindlings	vergeblich										
 	administer	Lünse	Achsnagel	regieren	verwalten	administrieren								
 	contract (n.)	gravieren	eingravieren	Kontrakt	Vertrag									
-	adore	beten	Ehrerbietung bezeigen	sich vor jn. niederwerfen										
+	adore	jm Ehrerbietung bezeigen												
 	spotless	rein	sauber	klar	makellos	fleckenlos								
 	bee	Biene	Wespe											
 	peak (n.)	Gipfel	Spitze											

@@ -838,7 +838,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	happiness	Glück	Segen	Glückseligkeit										
 	prohibit	verbieten	untersagen	Tabu										
 	front of a garment	Vorderteil eines Kleidungsstücks												
-	religion	Ahn	Ahnherr	Vorfahr	Sippe	Clan	Sekte	großer Meister	Schule					
+	religion	Religion	(Sekte)											
 	worship (v.)	hoch	aufragend	erhaben	hochschätzen	achten	verehren							
 	offer sacrifice	etw. zum Opfer bringen	opfern	eine Gedenkfeier veranstalten										
 	scrutinize	untersuchen	etw. genau prüfen	(prüfend) in etw. Einblick nehmen										
@@ -852,7 +852,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	extend	strecken	dehnen											
 	gods	Gott	Gottheit	Geist	Seele	Energie								
 	fruit	Frucht												
-	lesson	Unterricht	Vorlesung	Übung	Fach	Kursus	Lektion							
+	lesson	Unterricht	Lektion											
 	granule	Kügelchen	kleiner und runder Gegenstand	Körnchen	granulum	Korn								
 	catty (n.)	Pfund	Jin											
 	place (n.)	Sitz	Platz	Stelle										
@@ -956,7 +956,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	take an exam	eine Prüfung abhalten	eine Prüfung ablegen											
 	roast (v.)	backen	rösten	grillen										
 	filial piety	Kindespflicht	Pietät											
-	teach	lehren	unterrichten	beibringen	erziehen									
+	teach	lehren	unterrichten											
 	someone	jemand	jemand mit einer Eigenschaft	derjenige mit einer Eigenschaft										
 	-ing	gerade …	-nd											
 	pig	Schwein												
@@ -1094,8 +1094,8 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	high-quality (adj.)	gut	fein	gute Leute	von guter Qualität									
 	breakers	Welle	Woge	Brecher										
 	mom	Mutter	Frau	Tante	junge Frau									
-	food	essen	Mahlzeit	Essen	Essbare	Genießbare	Nahrungsmittel							
-	meal	Mahlzeit	tischfertig zubereitete Speisen	Nahrung	Essen									
+	food	Essen												
+	meal	Mahlzeit												
 	dine	essen	speisen	eine Mahlzeit einnehmen	Nahrung zu sich nehmen									
 	Bldg.	Unterkunft für Gäste	Laden	Geschäft	Stätte für kulturelle Aktivitäten									
 	raise (v.)	ernähren	züchten	großziehen										
@@ -1148,7 +1148,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	frigid	kalt												
 	competition	Wettkampf												
 	poison (n.)	Gift												
-	vegetarian diet	pflanzliche Nahrungsmittel												
+	vegetarian diet	vegetarische Kost												
 	blue or green	blau	grün	grün-blau										
 	refined	raffiniert	verfeinert	erlesen	ausgesucht	Extrakt	Essenz							
 	invite	bitten	ersuchen	engagieren	einladen									
@@ -1253,7 +1253,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	hub	Türangel	Zentrum	Zentrale	Knotenpunkt									
 	Europe	Europa												
 	physician	Arzt	Doktor	Medizin	Gesundheitswesen									
-	look up to	das Gesicht nach oben richten	zu jm aufschauen	respektieren	bewundern									
+	look up to	zu jm aufschauen	aufschauen											
 	greet	entgegenkommen	abholen	empfangen	begrüßen									
 	ascend	in die Höhe gehen	nach oben steigen	besteigen	ersteigen									
 	lamp	Leuchte	Lampe	Laterne										
@@ -1885,7 +1885,7 @@ TRUE	abode	Laube
 	await hopefully	sich nach etw. sehnen	nach etw. verlangen	hoffen	blicken	schauen								
 	promulgate	erlassen	verkünden	bekanntmachen										
 	essence	Wohlgeruch	Duft											
-	play the part of	schmücken	sich verkleiden	sich kostümieren	eine Rolle spielen	darstellen	mimen							
+	play the part of	mimen												
 	diverge	abzweigen	sich gabeln	sich seitwärts wenden										
 	extol	rühmen	preisen	Loblied	Hymne	Ode								
 	litigate	einen Rechtsstreit bei Gericht anhängig machen	prozessieren											
@@ -2393,7 +2393,7 @@ TRUE	stay overnight	übernachten
 	popular	öffentlich	die Öffentlichkeit vertretend	Fahrzeug mit Rädern	Wagen	Sänfte								
 	reward (n./v.)	eine Toast ausbringen	auf jn/etw. trinken	Belohnung	Vergütung									
 	pour wine	einschenken												
-	brutal	grausam	tyrannisch	unmenschlich	brutal									
+	brutal	brutal												
 	mellow wine	edler Wein												
 	vinegar	Essig												
 	drunk	betrunken												
@@ -2438,7 +2438,7 @@ TRUE	stay overnight	übernachten
 	view (v.)	anschauen	ansehen	besichtigen	überblicken									
 	take on	etw. an sich ziehen	übernehmen	heranziehen	alles an sich reißen	etw. an sich reißen	jn in die Arme nehmen	befestigen						
 	cable (n.)	Tau	Seil	Kabel	Trosse	Schiffstau								
-	ruthless	grausam	brutal	unbarmherzig	sich überwinden	sich ein Herz fassen	energisch	entschlossen						
+	ruthless	grausam	unbarmherzig	sich überwinden	sich ein Herz fassen	energisch	entschlossen							
 	hate (v.)	hassen	Hass											
 	upper crust	Adelswürde	Adelstitel	Adelsrang										
 	chew (v.)	kauen	zerkauen											
@@ -2696,7 +2696,7 @@ TRUE	stay overnight	übernachten
 	warm by a fire	etw. am Feuer trocknen	etw. am Feuer wärmen											
 	respectful	respektvoll	voller Respekt	ehrerbietig	ehrfurchtsvoll									
 	arch (n./v.)	die Hände in Brusthöhe gewölbt aufeinanderlegen	gewölbt	sich krümmen	überwölbt	sich biegen	sich verbiegen							
-	violent	stürmisch	ungestüm	grausam	brutal	jähzornig	cholerisch	jäh	hitzköpfig					
+	violent	stürmisch	ungestüm	grausam	jähzornig	cholerisch	jäh	hitzköpfig						
 	waterfall	Wasserfall												
 	explode	platzen	bersten	explodieren										
 	ceremonial hall	Tempelhalle	Palasthalle											
@@ -2865,7 +2865,7 @@ TRUE	rush (v.)	stürmen
 	trot (v.)	traben												
 	hand over	überreichen	übergeben	aushändigen	der Reihe nach	nacheinander								
 	take captive	Kriegsgefangener	gefangennehmen											
-	despotic	grausam	tyrannisch	unmenschlich	brutal	misshandeln								
+	despotic	grausam	tyrannisch	unmenschlich	misshandeln									
 	skin (n.)	Haut												
 	Louvre	Louvre												
 	stove	Ofen	Herd	Backofen										
@@ -2949,7 +2949,7 @@ TRUE	rush (v.)	stürmen
 	smart	Hörvermögen	ein feines Gehör	hellhörig	klug	gescheit	intelligent							
 	onion	Zwiebelgemüse	Zwiebel											
 	gall bladder	Gallenblase												
-	look upward	geradeaus oder nach oben blicken	ansehen	zu etw. aufschauen	nach vorn oder nach oben schauen									
+	look upward	geradeaus oder nach oben blicken	ansehen	nach vorn oder nach oben schauen										
 	cuddle	jn in die Arme nehmen	umfassen	umarmen	jn auf den Schoß nehmen	Armlänge								
 	time and again	oft	häufig	wiederholt										
 	turbid	trübe	schlammig											

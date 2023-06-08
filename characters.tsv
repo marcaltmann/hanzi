@@ -776,7 +776,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	convenient	bequem	günstig	dienlich	angenehm	nicht formell	zwanglos							
 	100 Chinese inches	Zhang	3 1/3 Meter	100 chinesische Zoll										
 	use (v.)	anwenden	verwenden	gebrauchen	einsetzen	lassen	bewirken							
-	long time	lange	lange Zeit											
+	long time	lange Zeit												
 	Chinese acre	Mu	1/15 Hektar	chinesischer Morgen										
 	third	das dritte	der dritte der zehn Himmelsstämme											
 	handle (n.)	Griff	Stiel											
@@ -1115,7 +1115,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	cruel	böse	furchterregend	Gewalttat	Mordtat									
 	bosom	Brust	Busen											
 	leave (v.)	verlassen	trennen	sich entfernen										
-	fowl	Vögel												
+	fowl	Geflügel												
 	peppery	scharf	beißend	hart	mühsam	Leiden								
 	manage	handeln	erledigen	besorgen	veranstalten	verwalten								
 	dispute (v.)	erörtern	disputieren	debattieren										
@@ -1743,7 +1743,7 @@ TRUE	abode	Laube
 	exert oneself	sich anstrengen	sich aufraffen	aufheben	erheben									
 	take by force	etw. gewaltsam wegnehmen	etw. an sich reißen	rauben	entreißen									
 	turn upward	sich an einem Ende in die Höhe heben	sich nach oben biegen (od. krümmen)											
-	fall down	einstürzen	zusammenbrechen	zusammenfallen	einsinken	einfallen								
+	fall down	einstürzen	zusammenbrechen	zusammenfallen	einsinken									
 	writing brush	Pinsel	Feder	Schreiben	Brief									
 	throat	Rachen												
 	in-law (adj.)	angeheiratete Verwandschaft												
@@ -1841,7 +1841,7 @@ TRUE	abode	Laube
 	fork (n.)	Gabel	gabeln	aufgabeln										
 	mulberry tree	Maulbeerbaum												
 	voicebox	Kehle	Hals											
-	outlaw (n.)	Bandit	Eindringling	Feind	eindringen	einfallen	überfallen							
+	outlaw (n.)	Bandit	Eindringling	Feind	eindringen	überfallen								
 	knock (v.)	schlagen	klopfen	abluchsen										
 	pour into	bewässern	berieseln	füllen	eingießen									
 	authority	Recht	Berechtigung	Macht	Befugnis									
@@ -2183,7 +2183,7 @@ TRUE	stay overnight	übernachten
 	wall	Wand	Mauer											
 	old cooking pot	antikes Kochgefäß	Dreifuß	Vierfuß										
 	get some shuteye	Schlafzimmer	Mausoleum	Grabzimmer	schlafen									
-	invade	einfallen	eindringen	eingreifen	herfallen									
+	invade	einfallen	eindringen											
 	immerse	einweichen	wässern	eintauchen	eintunken	tränken								
 	stolen goods	Diebesgut	gestohlenes Gut	Diebesbeute										
 	hide (v.)	verbergen	verstecken	weglegen	verdecken	verheimlichen								
@@ -2270,7 +2270,7 @@ TRUE	stay overnight	übernachten
 	show off (v.)	loben	rühmen	prahlen	scheinen	leuchten	blenden							
 	cunning	schlau	listig											
 	marrow	Knochenmark												
-	dirty	schmutzig	dreckig	beschmutzt										
+	dirty	dreckig												
 	whirlpool	Wirbel	Strudel	Vertiefung										
 	pot	Topf	Kochtopf	Kessel										
 	snail	Schnecke												
@@ -2345,7 +2345,7 @@ TRUE	stay overnight	übernachten
 	secluded	abgelegen	tief und dunkel	verborgen	heimlich	zurückgezogen								
 	wet	nass	feucht											
 	mysterious	schwerverständlich	tiefgründig	profund	schwarz	unglaubhaft	unglaubwürdig	mystisch	geheimnisvoll					
-	livestock	Haustier	Vieh											
+	livestock	Vieh												
 	save up	speichern	ansammeln	sein Haar wachsen lassen										
 	lead along	jn mit sich ziehen	an der Leine führen											
 	bowstring	Bogensehne	Sehne	Saite										
@@ -2453,7 +2453,7 @@ TRUE	stay overnight	übernachten
 	spare (v.)	begnadigen	jm etw. nachsehen	jm etw. verzeihen	reich	viel	voll							
 	ornaments	Schmuck	Ornament	Zierart										
 	beverage	Getränk												
-	eat away	beschädigen	anfressen	zerfressen										
+	eat away	zerfressen												
 	sated	satt	gesättigt											
 	bread	Dampfbrötchen												
 	cookie	runder flacher Kuchen	Fladen	Keks										
@@ -2702,7 +2702,7 @@ TRUE	stay overnight	übernachten
 	ceremonial hall	Tempelhalle	Palasthalle											
 	have on	aufhaben	anhaben	tragen	aufsetzen	anziehen								
 	wings	Flügel	Flanke											
-	dung	Dung	Kot	Exkremente	Ausscheidungen	Mist								
+	dung	Mist												
 	compose	verfassen	schreiben											
 	mute (adj.)	stumm	heiser											
 	kettle	Kanne	Kessel											
@@ -2872,7 +2872,7 @@ TRUE	rush (v.)	stürmen
 	reeds	Schilf												
 	donkey	Esel												
 	loss	Verluste haben	Verluste erleiden	verlieren	Geld verlieren									
-	filthy	Schmutz	Dreck	schmutzig	dreckig	verunreinigen	beschmutzen							
+	filthy	schmutzig												
 	stunned	verblüfft	erstaunt	bestürzt	in Staunen versetzt									
 	brag	übertreiben	aufbauschen	sich übertrieben ausdrücken	preisen	loben								
 	collapse (v.)	zusammenbrechen	einstürzen	zu Fall kommen										

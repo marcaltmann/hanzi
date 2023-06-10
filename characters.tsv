@@ -115,7 +115,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	stone	Stein												
 	gravel	Kies												
 	wonderful	wunderbar	wundervoll	ausgezeichnet										
-	resemble	ähnlich	ähnlich sein	gleichen	ähneln									
+	resemble	ähneln												
 	peel (v.)	schälen												
 	ray	Licht	Strahl											
 	overly	allzu	übermäßig											
@@ -140,7 +140,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	tide	Gezeiten	Ebbe und Flut											
 	source	Quelle	Ursprung	Ursprung eines Flusses										
 	lively	lebendig	leben											
-	extinguish	aufbrauchen	verbrauchen	verschwinden	zerstreuen	vertreiben								
+	extinguish	beseitigen	entfernen	zerstreuen										
 	situation	Situation	Zustand	Lage										
 	river	Fluss	Strom											
 	lake	See												
@@ -1843,7 +1843,7 @@ TRUE	abode	Laube
 	voicebox	Kehle	Hals											
 	outlaw (n.)	Bandit	Eindringling	Feind	eindringen	überfallen								
 	knock (v.)	schlagen	klopfen	abluchsen										
-	pour into	bewässern	berieseln	füllen	eingießen									
+	pour into	eingießen												
 	authority	Recht	Berechtigung	Macht	Befugnis									
 	resolute	standhaft	fest entschlossen											
 	limb	Glied	Glied (eines Körpers)	Gliedmaße										
@@ -2752,7 +2752,7 @@ TRUE	stay overnight	übernachten
 	ardent	leidenschaftlich	heftig	heiß										
 	longevity	langes Leben												
 	large waves	große Welle	Woge	Brandung										
-	cast (v.)	Metall gießen	gießen											
+	cast (v.)	Metall gießen												
 	pray	beten												
 	make arrangements	Spielmarke	Jeton	vorbereiten	planen	Vorbereitungen treffen								
 	attend to	bedienen	aufwarten	jm aufwarten										
@@ -2794,7 +2794,7 @@ TRUE	stay overnight	übernachten
 	auntie	Tante	Ehefrau eines jüngeren Bruders des Vaters											
 	blanket (n.)	Bettdecke												
 	milli-	feines Härchen	Pinsel	Milli-										
-	consume	verbrauchen	kosten											
+	consume	verbrauchen												
 	till (v.)	das Land bebauen	bewirtschaften	ackern	pflügen									
 	records	Buch	Werk	Eintragung	Register									
 	excuse (n.)	Ausrede												

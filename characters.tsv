@@ -920,7 +920,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	attire (n.)	schmücken	sich verkleiden	Kleidung	Tracht									
 	General	General												
 	of	von												
-	weary	mangeln	müde	matt	erschöpft	abgespannt	abgenutzt	verbraucht						
+	weary	mangeln	müde	matt	erschöpft	abgespannt								
 	blink (v.)	zwinkern	blinzeln											
 	no	nein	nicht											
 	negate	verneinen	nein sagen	nein										
@@ -944,15 +944,15 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	strong	stark	kräftig											
 	weak	schwach												
 	bullet	Kugel	Kügelchen	Geschoss	Bombe									
-	Buddha	Buddha	Buddhismus											
-	expense	Gebühr	Kosten											
+	Buddha	Buddha												
+	expense	Kosten	Gebühr											
 	younger brother	jüngerer Bruder												
 	No.	Ordnungszahl												
 	adroit	geschickt	gewandt											
 	somebody	Rumpf	Körper	selbst	persönlich									
 	shoot (v.)	schießen	feuern											
 	thank	danken	sich bedanken											
-	old man	alt	betagt	Alte(r)	älterer Herr									
+	old man	älterer Herr	betagt											
 	take an exam	eine Prüfung abhalten	eine Prüfung ablegen											
 	roast (v.)	backen	rösten	grillen										
 	filial piety	Kindespflicht	Pietät											
@@ -1259,7 +1259,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	lamp	Leuchte	Lampe	Laterne										
 	evidence	nachweisen	beweisen	belegen	Beweis	Zeugenaussage	Zeugnis	Ausweis	Bescheinigung	Schein	Zertifikat			
 	send out	senden	absenden	aufgeben	schießen	abfeuern	ausstrahlen							
-	discard (v.)	aufgeben	fallenlassen	abschaffen	etw. ungültig machen									
+	discard (v.)	abschaffen	unbrauchbar	gebraucht	nutzlos	benutzt	abgenutzt							
 	shape (n.)	Form	Gestalt											
 	shadow (n.)	Schatten												
 	hue	Farbe	Buntheit	Farbigkeit	Färbung	vielfarbig	farbig							
@@ -1445,7 +1445,7 @@ TRUE	lane	Gasse
 	dragon	Drache	Symbol des Kaisers	kaiserlich										
 	raid (v.)	überfallen	überrumpeln	über jn herfallen										
 	youngster	Jugendlicher	Sohn	Kind										
-	old	alt	veraltet	überholt	altmodisch	abgenutzt	abgetragen	verbraucht						
+	old	alt												
 	write	schreiben												
 	diarrhea	Durchfall	dahinströmen	herabströmen	schnell abfließen									
 	dos	zwei	zwo											
@@ -1495,7 +1495,7 @@ TRUE	lane	Gasse
 	peculiar	merkwürdig	seltsam	sonderbar	wunderlich	kurios								
 	crimson	rot	treu	loyal	ergeben	nackt	bar							
 	likewise	auch	ebenso											
-	extreme (n.)	Extrem	Pol	extrem										
+	extreme (n.)	Extrem												
 	miscellaneous	verschiedenartig	mannigfaltig	divers	gemischt	vermischt								
 	sayeth	sagen	nennen	bezeichnen	einen Namen geben									
 	chaos	Unordnung	Verwirrung	Chaos										

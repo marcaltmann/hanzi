@@ -233,7 +233,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	dog	Hund												
 	detest	verabscheuen	ablehnen	etw. nicht leiden können										
 	pressure (n.)	Druck	pressen	drücken	niederhalten									
-	cow	Rind	Kuh											
+	cow	Rind												
 	special (adj.)	ungewöhnlich	eigenartig	speziell	sonderbar									
 	declare	sagen	mitteilen	informieren	bekanntgeben									
 	vast	sehr groß	ausgedehnt	grandios										
@@ -306,7 +306,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	circumference	Umfang	Umkreis	Zirkel										
 	week	Woche												
 	soldier	Soldat	Gelehrter	Intellektueller										
-	lucky	glückverheißend	glücklich	günstig										
+	lucky	glückverheißend												
 	buy (v.)	kaufen												
 	sell	verkaufen												
 	book (n.)	Buch												
@@ -319,7 +319,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	revere	achten	respektieren	ehren	verehren									
 	spacious	geräumig	weit	weitläufig	offen									
 	say	sagen	sprechen	Wort										
-	police (n.)	Polizei	Polizist											
+	police (n.)	Polizei												
 	plan (n.)	rechnen	kalkulieren	List	Taktik	Plan								
 	prison	Gefängnis	Kerker	Zuchthaus										
 	condemn	verurteilen	tadeln	verlangen	fordern	diskutieren								
@@ -333,10 +333,10 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	this	dies												
 	style (n.)	Typ	Stil											
 	test (n./v.)	experimentieren	versuchen	probieren	testen									
-	halberd	Hellebarde	Hiebaxt											
+	halberd	Hellebarde												
 	or	oder												
 	burglar	Dieb	Räuber											
-	laden	beladen	mit etw. beladen sein	befördern										
+	laden	mit etw. beladen sein												
 	iron (n.)	Eisen												
 	lush	üppig	reichlich	prächtig										
 	turn into	zu etw. werden	sich zu etw. entwickeln	beenden	vollenden									
@@ -348,7 +348,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	reduce	reduzieren	senken	vermindern	minus	abziehen								
 	list (n.)	Liste												
 	war (n.)	Krieg												
-	coin (n.)	Münze	Kupfermünze	Geld										
+	coin (n.)	Münze	Geld											
 	shallow	seicht	flach	oberflächlich										
 	cheap	billig												
 	stop (v.)	stoppen	anhalten	aufhören										
@@ -357,7 +357,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	repeatedly	wiederholt	Frequenz	häufig	immer wieder									
 	agree	übereinstimmen	zustimmen	einwilligen										
 	look forward to	auf Zehenspitzen stehen	herbeisehnen	sich erhoffen										
-	years of age	Lebensjahr	Alter											
+	years of age	Lebensjahr												
 	military (adj.)	militärisch	martialisch	kriegerisch	kämpferisch									
 	levy (n.)	erteilen	verleihen	Grundsteuer	besteuern									
 	correct (v./adj.)	aufrecht	senkrecht	berichtigen	korrigieren	korrekt								
@@ -413,7 +413,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	compete	konkurrieren	wetteifern	streiten	kämpfen									
 	sovereign (n.)	Kaiser	Gott											
 	juvenile (n.)	Knabe	Kind											
-	bell	Glocke	Uhr	Uhrzeit										
+	bell	Glocke												
 	salesman	Kaufmann	Geschäft	Geschäftsleben										
 	suitable	geeignet	angemessen	brauchbar	passend									
 	enemy	Feind	Gegner											
@@ -472,7 +472,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	increase (v.)	vermehren	steigern	zunehmen										
 	make a present of	schenken	überreichen	Geschenke machen										
 	east	Osten												
-	building	Gebäude	First	Dachfirst										
+	building	Gebäude												
 	freeze (v.)	frieren	gefrieren	einfrieren	Gelee									
 	also	auch												
 	she	sie												
@@ -507,7 +507,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	vend	verkaufen	absetzen											
 	although	obwohl	zwar											
 	reliable	fest	wirklich	tatsächlich										
-	noon	Mittag	Jahr des Pferdes											
+	noon	Mittag												
 	permit (v.)	erlauben	gestatten	genehmigen	versprechen									
 	feathers	Feder	Gefieder											
 	learn	üben	lernen	Gewohnheit										
@@ -631,7 +631,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	sufficient	ausreichend	reichlich	voll										
 	education	erziehen	Erziehung	pflegen	großziehen	züchten	aufziehen							
 	flow (v.)	fließen	strömen	sich vom Wasser treiben lassen										
-	comb (n.)	Kamm	kämmen											
+	comb (n.)	Kamm												
 	mountain	Berg												
 	exit (v.)	hinausgehen												
 	beat (v.)	schlagen	einen Schlag versetzen	einen Stoß austeilen	zuschlagen	angreifen	überfallen							
@@ -644,13 +644,13 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	public (adj.)	öffentlich	staatlich	gemeinschaftlich	metrisch									
 	pine tree	Kiefer												
 	valley	Tal												
-	bathe	baden	Bad											
+	bathe	baden												
 	desire (v.)	mögen	wollen	wünschen	begehren									
 	lust (n.)	Begierde	Lust	Wunsch	Verlangen	Trieb								
 	contain	enthalten	fassen											
 	dissolve	sich auflösen	sich lösen in											
 	work as	als … tätig sein	ebenbürtig	entsprechend	gerade als	als … fungieren								
-	files (n.)	Akte	Aktenschrank	Archiv										
+	files (n.)	Akte												
 	political party	Partei	politische Partei											
 	often	oft	häufig											
 	main room	Halle	Saal	Hauptraum										
@@ -738,7 +738,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	prisoner	Gefangener	Häftling	einkerkern	einsperren	ins Gefängnis stecken								
 	portion	Teil	Anteil	Portion										
 	occupy	einnehmen	ausmachen	innehaben	etw. in Besitz nehmen	erobern	sich aneignen							
-	furniture	Möbel	Mobiliar	Hausrat										
+	furniture	Möbel												
 	you	du												
 	you (respectful)	Sie												
 	what?	was												
@@ -782,13 +782,13 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	handle (n.)	Griff	Stiel											
 	meat	Fleisch												
 	rotten	verfaulen	verderben	Bohnenkäse										
-	multitude	eine Menge Menschen	Massen											
+	multitude	Menschenmasse												
 	sit	sitzen												
 	seat (n.)	Sitz	Platz											
 	examine	prüfen	untersuchen	sich zügeln	Selbstdisziplin haben									
 	face (n.)	Gesicht												
 	come	kommen												
-	wheat	Weizen	Sammelname für Weizen, Gerste, Hafer usw.											
+	wheat	Weizen												
 	drink (v.)	trinken												
 	thirsty	durstig												
 	appoint	ernennen	einsetzen	jn mit einem Amt betrauen	eine Funktion innehaben	eine Funktion ausüben								
@@ -802,11 +802,11 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	associate (n.)	Kamerad	Gefährte	Partner										
 	glory (n.)	Ruhm	Glorie	Ehre	gedeihen	florieren								
 	labor (n.)	Arbeit	arbeiten											
-	camp	Lager	Feldquartier	Baracke	Kaserne	Truppenunterkunft								
+	camp	Feldquartier												
 	virtuous	gut	gutherzig	mildtätig										
 	year	Jahr												
 	night	Nacht												
-	liquid	Flüssigkeit	Saft											
+	liquid	Flüssigkeit												
 	call out (v.)	laut rufen												
 	exchange (v.)	tauschen	austauschen	eintauschen	umwechseln	wechseln	tauschen							
 	travel (v.)	reisen												
@@ -850,7 +850,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	pawn (v.)	verpfänden	etw. als Pfand geben	unterschreiben	unterzeichnen	eskortieren								
 	express (v.)	erzählen	erklären	aussprechen	Tierkreiszeichen Affe									
 	extend	strecken	dehnen											
-	gods	Gott	Gottheit	Geist	Seele	Energie								
+	gods	Gott	Gottheit											
 	fruit	Frucht												
 	lesson	Unterricht	Lektion											
 	granule	Kügelchen	kleiner und runder Gegenstand	Körnchen	granulum	Korn								
@@ -877,7 +877,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	contend	kämpfen	ringen	wetteifern	streben	streiten								
 	clean (adj.)	sauber	rein											
 	matter	Sache	Angelegenheit											
-	Tang	Tang-Dynastie	Tang											
+	Tang	Tang												
 	sugar	Zucker												
 	hale (adj.)	Gesundheit	Wohlbefinden											
 	overseer	Obervorsteher	Ortsvorsteher (in der alten Zeit)											
@@ -905,12 +905,12 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	mat	Matte	Strohmatte	Sitz	Platz									
 	degrees	Grad												
 	ferry (n./v.)	übersetzen	überqueren	Fährstelle	Übergang									
-	half (n./adj.)	Hälfte	halb											
+	half (n./adj.)	Hälfte												
 	partner	Gefährte	Partner	Begleiter	Gesellschafter									
 	fat (adj.)	dick	beleibt	korpulent	dickleibig									
 	judge (v.)	unterscheiden	auseinanderhalten	beurteilen	entscheiden	verurteilen	ein Urteil fällen							
 	dependents	Familienangehörige(r)												
-	boxing (n.)	Faust	Boxen	Faustkampf										
+	boxing (n.)	Faustkampf												
 	victory	Sieg	die Oberhand gewinnen											
 	slice (n.)	Scheibe	Platte	kleines, flaches Stück										
 	printing plate	Druckplatte	Druckstock	Klischee	Matrize	Auflage	Ausgabe							
@@ -975,7 +975,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	run (v.)	laufen	rennen											
 	jump (v.)	springen	hüpfen											
 	path	Weg	Straße	Pfad										
-	dew	Tau	Saft	Sirup										
+	dew	Tau												
 	skeleton	Knochen	Gerüst	Gestell	Gerippe	Rückgrat	Wesensart	Charakter						
 	slippery	glatt	rutschig	schlüpfrig	gleiten	rutschen								
 	cross (v.)	hinübergehen	überschreiten	überqueren	passieren									
@@ -1699,7 +1699,7 @@ TRUE	abode	Laube
 	workshop	Werkstatt	Werkstätte	Betrieb										
 	aromatic	duftend	wohlriechend											
 	call on	besuchen	jm einen Besuch abstatten	aufsuchen										
-	stew (v.)	langsam kochen	abkochen	auskochen	durchhalten	aushalten	ertragen	leiden	vegetieren					
+	stew (v.)	langsam kochen	abkochen	auskochen	durchhalten	aushalten	leiden	vegetieren						
 	tobacco	Tabak	Zigarette											
 	roster	Namensliste	öffentlich ausgehängte Namensliste											
 	pound (n.)	Pfund	(englisches Pfund?)											
@@ -2261,7 +2261,7 @@ TRUE	stay overnight	übernachten
 	kick (v.)	einen Fußtritt versetzen	mit dem Fuß stoßen	nach jm/etw. treten	treten									
 	impetuous	hitzig	aufbrausend	hitzköpfig	reizbar									
 	chirping (n.)	zirpen	laut zwitschern	zwitschern										
-	bath	baden	Bad											
+	bath	Bad												
 	algae	Alge												
 	exercise (n.)	drillen	üben	exerzieren	trainieren	Drill	Übung							
 	parched	trocken												

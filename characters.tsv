@@ -181,7 +181,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	character	Schriftzeichen												
 	guard (v.)	bewachen	schützen	verteidigen										
 	finish (v.)	enden	beenden	fertig										
-	reality	Tatsache	tatsächlich	real	wirklich	Realität								
+	reality	Tatsache	Realität											
 	proclaim	verkünden	veröffentlichen	verbreiten	erklären	anmelden								
 	nighttime	Nacht												
 	peaceful	friedlich	ruhig	Ruhe	Sicherheit									
@@ -242,7 +242,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	introduce	vorstellen	jn. bekannt machen											
 	world	Welt	Bereich	Reich	Kreise									
 	tea	Tee												
-	meeting	können	Sitzung	Konferenz	Chance	Gelegenheit								
+	meeting	können	Sitzung	Konferenz	Chance									
 	fit (v.)	passen	zusammen											
 	ha!	ha, ha												
 	pagoda	Pagode	Turm	Säule										
@@ -559,7 +559,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	beckon	winken												
 	strike (v.)	schlagen												
 	finger (n.)	Finger												
-	support (v.)	halten	aufrechterhalten	bewahren	wahren									
+	support (v.)	aufrechterhalten	bewahren											
 	include	einschließen	umfassen											
 	bring up	erwähnen	etw. mit einer Hand tragen	etw. ins Gespräch bringen	etw. aufs Tapet bringen	vorlegen								
 	brandish	schwingen	schwenken											
@@ -684,7 +684,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	feudal official	Beamter												
 	be about to	kurz vor	gerade bei											
 	worthy	tugendhaft	pflichtgetreu	fähig	würdig									
-	firm (adj.)	straff	dicht	eng										
+	firm (adj.)	standhaft												
 	power	Kraft	Stärke	Fähigkeit										
 	another	anders	anderer											
 	don‘t	nicht tun!	nicht …!											
@@ -926,7 +926,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	negate	verneinen	nein sagen	nein										
 	cup	Becher	Tasse	Glas	Pokal									
 	dart (n.)	Pfeil												
-	tribe	Stamm	Sippschaft	Clan	Todesstrafe im alten China									
+	tribe	ethnische Gruppe												
 	know	wissen	kennen	Bescheid wissen	Wissen	Kenntnis								
 	wisdom	Weisheit	Klugheit	weise	klug									
 	spear (n.)	Speer	Lanze											
@@ -981,7 +981,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	cross (v.)	hinübergehen	überschreiten	überqueren	passieren									
 	Apollo	Alpen												
 	aah!	Ah!												
-	occasion	Gelegenheit	aus Anlass	anlässlich	Grenze	Rand								
+	occasion	Gelegenheit	Grenze	Rand										
 	perilous	Gefahr	Risiko	schwer passierbare Stelle	enger Pass	Barriere								
 	as you wish	nach Belieben	beiläufig	nebenbei	folgen	sich fügen								
 	Yang	Yang												
@@ -1005,7 +1005,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	troops	Waffe	Kampfgerät	Soldat	Armee	Truppe								
 	silk	Seide												
 	line (n.)	Linie	Faden	Garn	Zwirn	Draht	Faser							
-	maintain	wahren	bewahren	aufrechterhalten	binden	zusammenhalten								
+	maintain	bewahren	zusammenhalten											
 	silk gauze	Vogelnetz	Fangnetz	mit einem Netz Vögel fangen	sieben (V.)	feines Sieb	dünner gazeartiger Seidenstoff							
 	continue	fortsetzen	fortfahren	weiterführen										
 	continuum	komplexes System	Zusammenhang											
@@ -1222,7 +1222,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	tanned hide	Leder												
 	surround	umschließen												
 	great	groß	bedeutend											
-	defend	verteidigen	beschützen	sichern	bewahren									
+	defend	verteidigen	beschützen	sichern										
 	offend (v.)	jn verletzen	jn vor den Kopf stoßen	jm zu nahe treten	Schild									
 	shore	Ufer												
 	trunk	Hauptteil	Stamm	Rumpf	Rückgrat	tun	machen							
@@ -1332,7 +1332,7 @@ TRUE	lane	Gasse
 	marriage	heiraten	sich verheiraten	Ehe										
 	low	niedrig	tief											
 	bottom	Boden	Sohle	Grund	wahrer Grund	innere Zusammenhänge								
-	people	Volk	Bevölkerung											
+	people	Volk												
 	slumber (n.)	schlafen	Schlaf											
 	Fu	Fu	höflicher Anrede- oder Namenszusatz											
 	patch (v.)	flicken	reparieren	ausbessern										
@@ -1845,7 +1845,7 @@ TRUE	abode	Laube
 	knock (v.)	schlagen	klopfen	abluchsen										
 	pour into	eingießen												
 	authority	Recht	Berechtigung	Macht	Befugnis									
-	resolute	standhaft	fest entschlossen											
+	resolute	fest entschlossen												
 	limb	Glied	Glied (eines Körpers)	Gliedmaße										
 	prostitute	Prostituierte	Dirne	Freudenmädchen										
 	fork in the road	sich gabeln	sich verästeln	sich in Zweige spalten										
@@ -2438,7 +2438,7 @@ TRUE	stay overnight	übernachten
 	view (v.)	anschauen	ansehen	besichtigen	überblicken									
 	take on	etw. an sich ziehen	übernehmen	heranziehen	alles an sich reißen	etw. an sich reißen	jn in die Arme nehmen	befestigen						
 	cable (n.)	Tau	Seil	Kabel	Trosse	Schiffstau								
-	ruthless	grausam	unbarmherzig	sich überwinden	sich ein Herz fassen	energisch	entschlossen							
+	ruthless	grausam	unbarmherzig	sich überwinden	sich ein Herz fassen	energisch								
 	hate (v.)	hassen	Hass											
 	upper crust	Adelswürde	Adelstitel	Adelsrang										
 	chew (v.)	kauen	zerkauen											

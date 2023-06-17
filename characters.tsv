@@ -341,7 +341,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	lush	üppig	reichlich	prächtig										
 	turn into	zu etw. werden	sich zu etw. entwickeln	beenden	vollenden									
 	city	Stadt	Stadtmauer											
-	sincere	aufrichtig	ehrlich	wahr										
+	sincere	aufrichtig	ehrlich											
 	might (n.)	Macht	Gewalt	Ansehen										
 	destroy	löschen	ausmachen	vernichten										
 	everybody	all	alle											
@@ -582,7 +582,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	at	sich befinden	an, bei, auf, in											
 	only then	erst dann												
 	milk (n.)	Milch												
-	catch up with	gleichkommen	so gut sein wie	sich messen können mit	erreichen									
+	catch up with	gleichkommen	so gut sein wie											
 	inhale	einatmen	saugen											
 	history	Geschichte												
 	even more	noch mehr												
@@ -714,7 +714,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	shift (v.)	versetzen	wegrücken	bewegen	verlagern	verlegen	verschieben							
 	autumn	Herbst												
 	gloomy	besorgt	beunruhigt	bekümmert	betrübt	Sorge	Kummer							
-	profit (n.)	Profit	Gewinn	Vorteil	Nutzen	scharf	spitz	günstig	vorteilhaft					
+	profit (n.)	Gewinn												
 	perfume (n.)	wohlriechend	aromatisch	duftend	Parfüm									
 	seasons (n.)	Jahreszeit	Saison	Ernte										
 	committee	jm. mit etw. beauftragen	Komitee	Kommission	betrauen									
@@ -838,7 +838,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	happiness	Glück	Segen	Glückseligkeit										
 	prohibit	verbieten	untersagen	Tabu										
 	front of a garment	Vorderteil eines Kleidungsstücks												
-	religion	Religion	(Sekte)											
+	religion	Religion												
 	worship (v.)	hoch	aufragend	erhaben	hochschätzen	achten	verehren							
 	offer sacrifice	etw. zum Opfer bringen	opfern	eine Gedenkfeier veranstalten										
 	scrutinize	untersuchen	etw. genau prüfen	(prüfend) in etw. Einblick nehmen										
@@ -1062,7 +1062,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	liquor	Alkohol												
 	distribute	zusammenmischen	zusammenstellen	paaren	eine Ehe schließen									
 	chieftain	Stammeshäuptling	Anführer	Chef	Häuptling									
-	venerate (v.)	ehren	hochachten	respektieren	älter	ranghöher	dienstälter							
+	venerate (v.)	ehren	hochachten	respektieren										
 	abide by	folgen	befolgen	einhalten										
 	beans	Bohne												
 	head (n.)	Kopf												
@@ -1179,7 +1179,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	Han	Han	Han-Nationalität	Han-Dynastie										
 	difficult	schwer	schwierig											
 	vendor‘s stand	ausbreiten	auslegen	offener Verkaufsstand	Stand	Verkaufsstand	einen Anteil tragen							
-	splendor	prächtig	prunkvoll	luxuriös	extravagant	China								
+	splendor	prächtig	prunkvoll	luxuriös	gedeihend	blühend								
 	clamor (n.)	Lärm	Geräusch	Getöse										
 	droop	herabhängen	nach unten hängen											
 	hammer (n.)	Hammer												
@@ -1222,7 +1222,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	tanned hide	Leder												
 	surround	umschließen												
 	great	groß	bedeutend											
-	defend	verteidigen	beschützen	sichern										
+	defend	verteidigen												
 	offend (v.)	jn verletzen	jn vor den Kopf stoßen	jm zu nahe treten	Schild									
 	shore	Ufer												
 	trunk	Hauptteil	Stamm	Rumpf	Rückgrat	tun	machen							
@@ -1272,7 +1272,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	mosquito	Mücke												
 	erudite	intelligenter und ehrenhafter Mensch												
 	countenance (n.)	Gesicht	Gesichtsausdruck	Ansehen	Prestige	Reputation								
-	products	gebären	zur Welt bringen	entbunden werden	Produkt	Ertrag	Erzeugnis	produzieren	erzeugen	herstellen				
+	products	Produkt												
 	rate (n.)	Proportion	Rate	Quote										
 	tumble (v.)	auf den Boden fallen	stürzen	abstürzen										
 	center	Zentrum												
@@ -1302,7 +1302,7 @@ t	base (n.)	Grundlage
 	assist (v.)	helfen	beistehen	unterstützen										
 	side by side	gleich	gleichzeitig	und										
 	universal	allgemein	universal											
-	profession	Branche	Wirtschaftszweig	Beruf	Beschäftigung	Gewerbe	Job							
+	profession	Beruf	Beschäftigung	Gewerbe	Job									
 	that‘s right	gegenüberliegen	gegenüber	entgegengesetzt	richtig	korrekt	stimmen							
 	together	gemeinsam												
 	supply (n./v.)	liefern	versorgen	bereitstellen	anbieten	Angebot	Zufuhr							
@@ -1331,7 +1331,7 @@ TRUE	lane	Gasse
 	dusk	Abenddämmerung	verwirrt	konfus										
 	marriage	heiraten	sich verheiraten	Ehe										
 	low	niedrig	tief											
-	bottom	Boden	Sohle	Grund	wahrer Grund	innere Zusammenhänge								
+	bottom	Boden	Sohle											
 	people	Volk												
 	slumber (n.)	schlafen	Schlaf											
 	Fu	Fu	höflicher Anrede- oder Namenszusatz											
@@ -1355,7 +1355,7 @@ TRUE	lane	Gasse
 	relocate	etw. an einen anderen Platz legen	etw. an einen anderen Platz tragen	fortschaffen	befördern	umlegen	umstellen	umziehen	den Wohnsitz wechseln	übersiedeln				
 	melon	Kürbis	Gurke	Melone										
 	orphan	vaterlos	elternlos	verwaist										
-	benefit (n.)	Vorteil	Nutzen	Überlegenheit										
+	benefit (n.)	Vorteil	Nutzen											
 	vacation (n.)	Urlaub	Ferien											
 	shrimp	Garnele	Krabbe											
 	air (n.)	Gas	Luft	Lebensenergie										
@@ -1844,7 +1844,7 @@ TRUE	abode	Laube
 	outlaw (n.)	Bandit	Eindringling	Feind	eindringen	überfallen								
 	knock (v.)	schlagen	klopfen	abluchsen										
 	pour into	eingießen												
-	authority	Recht	Berechtigung	Macht	Befugnis									
+	authority	Recht												
 	resolute	fest entschlossen												
 	limb	Glied	Glied (eines Körpers)	Gliedmaße										
 	prostitute	Prostituierte	Dirne	Freudenmädchen										
@@ -2147,7 +2147,7 @@ TRUE	stay overnight	übernachten
 	dislike (v.)	Verdacht	Groll	Hass	Feindschaft	nicht mögen	eine Abneigung hegen	verabscheuen	einer Sache überdrüssig sein					
 	unassuming	bescheiden												
 	apology	Gefühl des Bedauerns	sich beschämt fühlen	Missernte										
-	inexpensive	wohlfeil	billig	preiswert	ehrlich	redlich	unbestechlich							
+	inexpensive	wohlfeil	billig	preiswert										
 	sickle	Sichel												
 	drapes	Vorhang	Fenstervorhang	Gardine										
 	unshut (v.)	die Augen öffnen	aufschlagen											
@@ -2308,7 +2308,7 @@ TRUE	stay overnight	übernachten
 	down (n.)	Flaum	Daune											
 	conclude	schließen	Vertrag abschließen	Freundschaft schließen										
 	purple	purpur	violett											
-	numerous	zahlreich	massenhaft	kompliziert	verwickelt	umständlich								
+	numerous	zahlreich	massenhaft											
 	spin (v.)	spinnen												
 	cocoon	Kokon												
 	wind around	wickeln	winden	Wollfaden aufwickeln	jn in etw. verwickeln									

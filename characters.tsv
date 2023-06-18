@@ -207,7 +207,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	younger sister	jüngere Schwester												
 	investigate	prüfen	kontrollieren	untersuchen	nachschlagen	überprüfen								
 	sediment	Bodensatz	Abschaum	Rückstand										
-	dye (v.)	färben	anstecken	abtönen										
+	dye (v.)	färben												
 	plum	Pflaume												
 	table	Tisch												
 	as if	wie	als ob											
@@ -269,7 +269,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	way	Dao	Weg											
 	guide (v.)	leiten	führen											
 	speedy	rasch	rapid	rapide										
-	create	machen	bauen	erbauen	erzeugen	erfinden								
+	create	kreieren	erschaffen	schaffen	erzeugen									
 	patrol (v.)	patrouillieren												
 	stroll (v.)	spazieren	bummeln	flanieren										
 	car	Wagen	Fahrzeug											
@@ -392,7 +392,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	stagnant	stocken	stagnieren	zähflüssig	blockieren	stauen								
 	thorn	Dorn	Stachel	stechen	pieksen									
 	system	System												
-	manufacture (v.)	herstellen	produzieren	erzeugen										
+	manufacture (v.)	herstellen												
 	utter (v.)	sagen												
 	rain (n.)	Regen												
 	cloud (n.)	Wolke												
@@ -582,7 +582,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	at	sich befinden	an, bei, auf, in											
 	only then	erst dann												
 	milk (n.)	Milch												
-	catch up with	gleichkommen	so gut sein wie											
+	catch up with	gleichkommen												
 	inhale	einatmen	saugen											
 	history	Geschichte												
 	even more	noch mehr												
@@ -708,7 +708,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	morality	Tugend	Moral	Sittlichkeit	Deutschland									
 	listen	hören	anhören	zuhören										
 	hall	Halle	großer Raum											
-	standing grain	auf dem Feld stehendes Getreide	Getreide											
+	standing grain	auf dem Feld stehendes Getreide												
 	journey (n.)	Reise	Reiseabschnitt	Reiseroute	Entfernung	Strecke								
 	harmony	Harmonie	Frieden	mild	mäßig	gemäßigt								
 	shift (v.)	versetzen	wegrücken	bewegen	verlagern	verlegen	verschieben							
@@ -744,7 +744,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	what?	was												
 	strip (n.)	Streifen	schmaler und langer Gegenstand											
 	value (n.)	Wert												
-	make	machen	herstellen											
+	make	machen												
 	however	aber	doch	dennoch										
 	dwell	wohnen	leben											
 	position (n.)	Stand	Stellung	Rang										
@@ -1124,7 +1124,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	new	neu												
 	fuel	Brennholz	Reisig											
 	relatives	Elternteil	Blutsverwandter	Verwandter										
-	inner garments	füttern	Futterstoff einnähen	Futterstoff										
+	inner garments	Futterstoff einnähen	Futterstoff											
 	good fortune	sich gratulieren können	zum Glück	glücklicherweise	Glück									
 	clench (v.)	halten	packen	etw. in der Hand haben	innehaben	ausüben								
 	newspaper	Zeitung	mitteilen	Bericht erstatten	benachrichtigen									
@@ -1144,7 +1144,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	kill	töten												
 	aid (v.)	helfen	assistieren											
 	yield	lassen	jm einen Vorteil überlassen	jm den Vortritt lassen	zulassen	jm etw. überlassen	jm etw. abtreten	erlauben						
-	territory	Erdreich	Boden	Gebiet										
+	territory	Gebiet	Erdreich											
 	frigid	kalt												
 	competition	Wettkampf												
 	poison (n.)	Gift												
@@ -1346,7 +1346,7 @@ TRUE	lane	Gasse
 	section (n.)	Abschnitt												
 	forge (v.)	schmieden												
 	unreal	unwirklich	trügerisch	illusorisch	magisch	zauberhaft								
-	take charge of	führen	verwalten	bewirtschaften										
+	take charge of	führen	verwalten	managen										
 	word (n.)	Wort												
 	boat	Boot	Kahn											
 	ship (n.)	Schiff	Boot											
@@ -1954,14 +1954,14 @@ TRUE	abode	Laube
 	draft (n.)	flüchtige Niederschrift bzw. Zeichnung	Manuskript	Original	Urtext	Getreidehalm	Stroh							
 	clever	klug	gescheit	Spelze	Kornschale									
 	tax (n.)	Steuer	Steuerabgabe											
-	crops	anbauen	säen	Getreide										
+	crops	anbauen	säen											
 	fungus	Pilz												
 	immature	klein	jung	kindlich	kindisch									
 	harvest (v.)	ernten												
 	private (adj.)	privat	persönlich											
 	order (n.)	Ordnung	Reihenfolge	Dekade										
 	shell (n.)	Schale	Hülse	Hülle	Gehäuse									
-	cereal	Getreide	Korn	Hirse										
+	cereal	Getreide												
 	shovel (n.)	Spaten	Schaufel											
 	hold tight	ergreifen	packen	fassen	festhalten	heftig ziehen								
 	pear	Birne												
@@ -1970,7 +1970,7 @@ TRUE	abode	Laube
 	cake	Kuchen												
 	batter	Kleister	Klebstoff	Kleber	kleben	kleistern								
 	glue (v.)	kleben	an etw. haften											
-	provisions	Körner	Getreide	Verpflegung	Getreidesoll	Getreideabgabe								
+	provisions	Körner	Verpflegung	Getreidesoll	Getreideabgabe									
 	chrysanthemum	Chrysantheme												
 	rough	roh	grob	rauh										
 	grain	Korn	Körnchen											
@@ -2085,7 +2085,7 @@ TRUE	stay overnight	übernachten
 	leak (v.)	leck sein	undicht sein	sickern										
 	fart (n.)	Furz												
 	footwear	Schuh	Schritt											
-	excrement	Kot												
+	excrement	Scheiße	Kot											
 	folding screen	Wandschirm	Paravent	spanische Wand										
 	knuckle under	nachgeben												
 	excavate	graben												
@@ -2702,7 +2702,7 @@ TRUE	stay overnight	übernachten
 	ceremonial hall	Tempelhalle	Palasthalle											
 	have on	aufhaben	anhaben	tragen	aufsetzen	anziehen								
 	wings	Flügel	Flanke											
-	dung	Mist												
+	dung	Exkrement	Dung	Kot										
 	compose	verfassen	schreiben											
 	mute (adj.)	stumm	heiser											
 	kettle	Kanne	Kessel											
@@ -2756,7 +2756,7 @@ TRUE	stay overnight	übernachten
 	pray	beten												
 	make arrangements	Spielmarke	Jeton	vorbereiten	planen	Vorbereitungen treffen								
 	attend to	bedienen	aufwarten	jm aufwarten										
-	rear (v.)	füttern	Futter geben											
+	rear (v.)	füttern												
 	liner	Ozeandampfer												
 	navigate	steuern	navigieren	segeln	schiffen	fliegen								
 	light boat	leichtes Boot												

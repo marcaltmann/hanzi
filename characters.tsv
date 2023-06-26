@@ -165,7 +165,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	fish (n.)	Fisch												
 	fishing (n.)	Fischfang												
 	Yao	Yao												
-	fever	Fieber	braten	schmoren	backen									
+	fever	Fieber												
 	dawn (n.)	Morgendämmerung												
 	li	Li												
 	quantity	Menge	Quantität											
@@ -660,7 +660,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	break (v.)	zerschlagen	beschädigen	kaputt machen										
 	quilt (n.)	Bettdecke	Steppdecke	Oberbett										
 	malicious	schlecht	übel	gemein	schurkisch	böse								
-	line up	aufreihen	Reihe											
+	line up	einordnen	eine Aufstellung machen											
 	intense	heftig	brennend	intensiv										
 	death	sterben	bis zum Tod	Tod										
 	inter (v.)	bestatten	beerdigen	begraben										
@@ -775,7 +775,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	whatwhichwhowherewhy?	werwelchewannwowarum?												
 	convenient	bequem	günstig	dienlich	angenehm	nicht formell	zwanglos							
 	100 Chinese inches	Zhang	3 1/3 Meter	100 chinesische Zoll										
-	use (v.)	anwenden	verwenden	gebrauchen	einsetzen	lassen	bewirken							
+	use (v.)	anwenden	verwenden	gebrauchen	einsetzen									
 	long time	lange Zeit												
 	Chinese acre	Mu	1/15 Hektar	chinesischer Morgen										
 	third	das dritte	der dritte der zehn Himmelsstämme											
@@ -794,7 +794,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	appoint	ernennen	einsetzen	jn mit einem Amt betrauen	eine Funktion innehaben	eine Funktion ausüben								
 	royal court	Hof eines feudalen Herrschers	Regierungssitz eines Monarchen											
 	court of law	Gerichtshof												
-	by means of	mit	mittels	durch										
+	by means of	mittels												
 	similar	ähnlich sein	ähneln											
 	combine (v.)	verschmelzen	verbinden	zusammenlegen	zusammenfassen	zusammenschließen	fusionieren	vereinigen						
 	piece together	zusammenstückeln	zusammensetzen											
@@ -954,7 +954,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	thank	danken	sich bedanken											
 	old man	älterer Herr	betagt											
 	take an exam	eine Prüfung abhalten	eine Prüfung ablegen											
-	roast (v.)	backen	rösten	grillen										
+	roast (v.)	backen												
 	filial piety	Kindespflicht	Pietät											
 	teach	lehren	unterrichten											
 	someone	jemand	jemand mit einer Eigenschaft	derjenige mit einer Eigenschaft										
@@ -1042,7 +1042,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	grandchild	Enkel												
 	withdraw	sich zurückziehen	rückwärts gehen											
 	foot	Fuß												
-	apparel	Kleidung	Kleid	Anzug	(Medizin) einnehmen	etw. auf sich nehmen	übernehmen							
+	apparel	Kleidung	Kleid	Anzug										
 	fate	Leben	Schicksal	Los	Geschick									
 	stay (v.)	bleiben	verweilen	sich aufhalten										
 	slide (v.)	gleiten	rutschen	glatt										
@@ -1143,7 +1143,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	art	Kunst												
 	kill	töten												
 	aid (v.)	helfen	assistieren											
-	yield	lassen	jm einen Vorteil überlassen	jm den Vortritt lassen	zulassen	jm etw. überlassen	jm etw. abtreten	erlauben						
+	yield	lassen												
 	territory	Gebiet	Erdreich											
 	frigid	kalt												
 	competition	Wettkampf												
@@ -1211,7 +1211,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	gun	Gewehr	Büchse	Feuerwaffe										
 	initiate (v.)	(erstmals) erzielen	erzielen	erreichen	etw. zustande bringen									
 	non-	nicht entsprechen	nicht in Einklang stehen	nicht										
-	row (n.)	reihen	ordnen	Reihe										
+	row (n.)	Reihe												
 	guilt	Verbrechen	Sünde	Schuld										
 	lean on	an … lehnen	sich anlehnen	sich auf … stützen										
 	marquis	Fürst	zweithöchster Adelsrang unter den fünf Rängen in alter Zeit											
@@ -1322,7 +1322,7 @@ TRUE	lane	Gasse
 	frame (v.)	konstruieren	formen	bilden	zusammensetzen									
 	flat (adj.)	flach	platt											
 	piece of writing	Aufsatz	Schrift	ein beschriebenes oder bedrucktes Papier	Blatt	(Schriftstück)								
-	compile	flechten	organisieren	einordnen	zusammenstellen	etw. redaktionell bearbeiten	verfassen	komponieren						
+	compile	flechten	organisieren	zusammenstellen	etw. redaktionell bearbeiten	verfassen	komponieren							
 	theory	analysieren	besprechen	Theorie										
 	wheel	Rad												
 	canon	Maßstab	Gesetz	Kanon	Standardwerk	Anspielung auf eine klassische Literaturstelle								
@@ -1370,7 +1370,7 @@ TRUE	lane	Gasse
 	Wu	Wu	das Reich Wu											
 	amusement	jm Vergnügen bereiten	amüsieren	Freude	Spaß	Unterhaltung								
 	error	falsch	irrig	Fehler	Irrtum									
-	undertake	tragen	auffangen	übernehmen	etw. auf sich nehmen									
+	undertake	übernehmen	sich einer Aufgabe stellen	annehmen										
 	steam (v.)	dämpfen	verdampfen	verdunsten										
 	tooth	Zahn												
 	pass through	bohren	durchlöchern	durch etw. gehen	anziehen	ankleiden	anhaben	tragen						
@@ -1476,7 +1476,7 @@ TRUE	lane	Gasse
 	window	Fenster												
 	general (adj.)	zusammenfassen	zusammenstellen	allseitig	total	immer	stets							
 	verbose	Zhan												
-	assume	Lasten mit einer Schulterstange tragen	übernehmen	etw. auf sich nehmen										
+	assume	etw. mit einer Schulterstange tragen	übernehmen	etw. auf sich nehmen	tragen									
 	number (n.)	Zahl												
 	multistory building	Gebäude	Stockwerk	Etage	Turm									
 	alone	einzig	allein	in Einsamkeit	alt und kinderlos	kinderlose alte Leute								
@@ -1530,7 +1530,7 @@ TRUE	lane	Gasse
 	inch	Zoll	englisches Zoll											
 	elbow (n.)	Ellbogen												
 	scorch	brennen	verbrennen											
-	stir-fry (v.)	etw. in der Pfanne kurz braten	sautieren											
+	stir-fry (v.)	pfannenrühren												
 	sprinkle	etw. mit Wasser besprengen	durchnässen	gießen	bewässern	berieseln								
 	mile	Meile	englische Meile											
 	carp (n.)	Flusskarpfen												
@@ -1598,7 +1598,7 @@ TRUE	abode	Laube
 	rails	Gleis	Schiene											
 	flatten	rollen	walzen	verdrängen	ausstoßen									
 	spokes	Speiche												
-	sauté (v.)	etw. in wenig Öl braten	kochen	Kräuteraufguss										
+	sauté (v.)	braten												
 	figure of speech	Beispiel	Analogie	erläutern	erklären	informieren	jn über etw. in Kenntnis setzen							
 	elm	Sibirische Ulme	Ulme											
 	abbreviation	knapp	kurz und bündig	kurze Darstellung	Abriss	Umriss	auslassen	weglassen						
@@ -2436,7 +2436,7 @@ TRUE	stay overnight	übernachten
 	indulge in	verzögern	verschieben	für etw. schwärmen	schwärmen									
 	pillow	Kopfkissen												
 	view (v.)	anschauen	ansehen	besichtigen	überblicken									
-	take on	etw. an sich ziehen	übernehmen	heranziehen	alles an sich reißen	etw. an sich reißen	jn in die Arme nehmen	befestigen						
+	take on	etw. an sich ziehen	heranziehen	alles an sich reißen	etw. an sich reißen	jn in die Arme nehmen	befestigen							
 	cable (n.)	Tau	Seil	Kabel	Trosse	Schiffstau								
 	ruthless	grausam	unbarmherzig	sich überwinden	sich ein Herz fassen	energisch								
 	hate (v.)	hassen	Hass											
@@ -2693,7 +2693,7 @@ TRUE	stay overnight	übernachten
 	musical score	Musiknoten	Noten zu einem Musikstück	Partitur (nur mehrstimmig)										
 	fool (v.)	betrügen	täuschen	übertölpeln	jn um etw. prellen									
 	deluge	Hochwasser	Flut											
-	warm by a fire	etw. am Feuer trocknen	etw. am Feuer wärmen											
+	warm by a fire	etw. am Feuer trocknen	etw. am Feuer wärmen	backen	rösten									
 	respectful	respektvoll	voller Respekt	ehrerbietig	ehrfurchtsvoll									
 	arch (n./v.)	die Hände in Brusthöhe gewölbt aufeinanderlegen	gewölbt	sich krümmen	überwölbt	sich biegen	sich verbiegen							
 	violent	stürmisch	ungestüm	grausam	jähzornig	cholerisch	jäh	hitzköpfig						

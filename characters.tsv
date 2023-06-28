@@ -315,7 +315,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	attack (v.)	angreifen												
 	fail	unterliegen	verlieren	misslingen	scheitern									
 	deliberately	mit Absicht	absichtlich	vorsätzlich										
-	rescue (v.)	retten	helfen	Beistand leisten										
+	rescue (v.)	retten	Beistand leisten											
 	revere	achten	respektieren	ehren	verehren									
 	spacious	geräumig	weit	weitläufig	offen									
 	say	sagen	sprechen	Wort										
@@ -353,7 +353,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	cheap	billig												
 	stop (v.)	stoppen	anhalten	aufhören										
 	footstep	Schritt												
-	ford (v.)	durchwaten	waten	ein Gewässer überqueren	übersetzen									
+	ford (v.)	durchwaten	waten	ein Gewässer überqueren										
 	repeatedly	wiederholt	Frequenz	häufig	immer wieder									
 	agree	übereinstimmen	zustimmen	einwilligen										
 	look forward to	auf Zehenspitzen stehen	herbeisehnen	sich erhoffen										
@@ -612,8 +612,8 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	blood vessels	Ader	Blutgefäß	Puls	Pulsschlag									
 	claw (n.)	Kralle	Klaue	Pfote	Tatze									
 	grab	packen	ergreifen	fassen	grapschen									
-	pluck (v.)	Aussehen	Miene	Gesichtsausdruck										
-	pick (v.)	pflücken	abnehmen	zusammenlesen	auswählen	anwenden	verwenden							
+	pluck (v.)	pflücken	sammeln	abbauen										
+	pick (v.)	pflücken	zusammenlesen	lesen	sammeln	abbauen								
 	vegetable	Gemüse	Gericht	Gang	Speise									
 	accept	entgegennehmen	annehmen	erhalten	bekommen	erleiden	ertragen	dulden	aushalten					
 	confer	überreichen	verleihen	geben	lehren	unterrichten	vermitteln	jm. etw. beibringen						
@@ -1142,7 +1142,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	narrate	schildern	erzählen	darlegen	berichten									
 	art	Kunst												
 	kill	töten												
-	aid (v.)	helfen	assistieren											
+	aid (v.)	helfen	assistieren	unterstützen	fördern									
 	yield	lassen												
 	territory	Gebiet	Erdreich											
 	frigid	kalt												
@@ -1300,7 +1300,7 @@ t	base (n.)	Grundlage
 	group (n.)	Gruppe	bilden											
 	ancestor	Vorfahr	Ahn	Großvater	Gründer	Urheber	Stifter							
 	assist (v.)	helfen	beistehen	unterstützen										
-	side by side	gleich	gleichzeitig	und										
+	side by side	Seite an Seite												
 	universal	allgemein	universal											
 	profession	Beruf	Beschäftigung	Gewerbe	Job									
 	that‘s right	gegenüberliegen	gegenüber	entgegengesetzt	richtig	korrekt	stimmen							
@@ -1698,7 +1698,7 @@ TRUE	abode	Laube
 	interrogate	nach etw. fragen	ausfragen	verhören	vernehmen									
 	workshop	Werkstatt	Werkstätte	Betrieb										
 	aromatic	duftend	wohlriechend											
-	call on	besuchen	jm einen Besuch abstatten	aufsuchen										
+	call on	aufsuchen												
 	stew (v.)	langsam kochen	abkochen	auskochen	durchhalten	aushalten	leiden	vegetieren						
 	tobacco	Tabak	Zigarette											
 	roster	Namensliste	öffentlich ausgehängte Namensliste											
@@ -1919,7 +1919,7 @@ TRUE	abode	Laube
 	lend a hand	(mit der Hand) stützen	stützen	Halt geben	jm unter die Arme greifen	Hilfe leisten	behilflich sein	aufrichten						
 	splendid	licht	hell	gedeihend	voller Leben	aufblühend	blühend							
 	kidneys	Niere												
-	recruit (v.)	sammeln	anwerben	rekrutieren										
+	recruit (v.)	anwerben	rekrutieren											
 	threaten	seitlicher Teil des menschlichen Oberkörpers	Brustkorbseite	zwingen	drohen									
 	inferior	schlecht	minderwertig	von geringer Qualität										
 	merit (n.)	Verdienst	verdienstvolle Tat	Ruhmestat										
@@ -2141,7 +2141,7 @@ TRUE	stay overnight	übernachten
 	nimble	flink	geschickt	prompt	geschwind	agil	Sieg	Triumph						
 	wield	fassen	halten	festhalten	etw. in Händen haben	vorsitzen	den Vorsitz ausüben	leiten						
 	peel off	abstreifen	abschälen	abrinden										
-	collection	Kollektion	Sammlung	Ansammlung	sammeln									
+	collection	Kollektion	Sammlung	Ansammlung										
 	double (adj.)	doppelt	zweifach	zweimal										
 	earn	verdienen	Geld verdienen	profitieren	Gewinn machen									
 	dislike (v.)	Verdacht	Groll	Hass	Feindschaft	nicht mögen	eine Abneigung hegen	verabscheuen	einer Sache überdrüssig sein					

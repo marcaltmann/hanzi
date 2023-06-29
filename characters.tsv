@@ -144,7 +144,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	situation	Situation	Zustand	Lage										
 	river	Fluss	Strom											
 	lake	See												
-	fathom (v.)	messen	schätzen	ausloten	sondieren									
+	fathom (v.)	messen												
 	soil (n.)	Erde												
 	equal	gleich	gleichmäßig	ausgewogen										
 	belly	Bauch												
@@ -320,7 +320,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	spacious	geräumig	weit	weitläufig	offen									
 	say	sagen	sprechen	Wort										
 	police (n.)	Polizei												
-	plan (n.)	rechnen	kalkulieren	List	Taktik	Plan								
+	plan (n.)	Plan												
 	prison	Gefängnis	Kerker	Zuchthaus										
 	condemn	verurteilen	tadeln	verlangen	fordern	diskutieren								
 	instruction	Belehrung	Unterweisung	Norm	Standard	trainieren								
@@ -339,7 +339,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	laden	mit etw. beladen sein												
 	iron (n.)	Eisen												
 	lush	üppig	reichlich	prächtig										
-	turn into	zu etw. werden	sich zu etw. entwickeln	beenden	vollenden									
+	turn into	zu etw. werden	sich zu etw. entwickeln											
 	city	Stadt	Stadtmauer											
 	sincere	aufrichtig	ehrlich											
 	might (n.)	Macht	Gewalt	Ansehen										
@@ -1179,7 +1179,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	Han	Han	Han-Nationalität	Han-Dynastie										
 	difficult	schwer	schwierig											
 	vendor‘s stand	ausbreiten	auslegen	offener Verkaufsstand	Stand	Verkaufsstand	einen Anteil tragen							
-	splendor	prächtig	prunkvoll	luxuriös	gedeihend	blühend								
+	splendor	Pracht												
 	clamor (n.)	Lärm	Geräusch	Getöse										
 	droop	herabhängen	nach unten hängen											
 	hammer (n.)	Hammer												
@@ -1993,7 +1993,7 @@ TRUE	abode	Laube
 	start (v.)	etw. ins Leben rufen und fördern	etw. einführen und sich dafür einsetzen											
 	father‘s older brother	älterer Bruder des Vaters												
 	mid-	Mitt-												
-	estimate (v.)	schätzen	taxieren	veranschlagen										
+	estimate (v.)	schätzen												
 	detect	erkunden	erspähen	auskundschaften	aufklären	nachspüren								
 	altogether (adv.)	all	ganz	sämtlich	komplett	vollständig								
 	lateral (adj.)	Seite	seitlich	seitwärts	an der Seite	auf der Seite								
@@ -2161,7 +2161,7 @@ TRUE	stay overnight	übernachten
 	mess around	vorführen	zum Narren halten	spielen	jonglieren									
 	-proof	ertragen können	aushalten können	vertragen	-fest									
 	wheeze	schnaufen	außer Atem sein	schwer atmen	um Luft ringen	Asthma								
-	conjecture (v.)	schätzen	vermuten	mutmaßen										
+	conjecture (v.)	mutmaßen												
 	messed up	Reisweintrester	faul	morsch	mürbe	in jämmerlichem Zustand	in völliger Unordnung	verpfuscht						
 	meet with	auf etw. stoßen	erleiden	durchmachen										
 	trough	Krippe	Futterkrippe	Trog	Viehtrog									
@@ -2533,7 +2533,7 @@ TRUE	stay overnight	übernachten
 	sigh (v.)	seufzen												
 	arduous	hart	schwierig											
 	beach (n.)	Strand												
-	complete (v.)	beenden	beendigen	abschließen	vollenden									
+	complete (v.)	vollenden												
 	saliva	Speichel												
 	recite	rezitieren	aufsagen	Gedichte aufsagen										
 	greedy	korrupt	bestechlich	gierig	unersättlich									
@@ -2665,7 +2665,7 @@ TRUE	stay overnight	übernachten
 	pliers	Zange												
 	matchmaker	Ehevermittler	Ehestifter	Kupplerin										
 	coal	Kohle												
-	scheme (v.)	planen	beraten	Idee	Geistesblitz	Einfall	Plan	Strategem	Vorhaben	List				
+	scheme (v.)	aushecken												
 	chess	Schach	Brettspiel											
 	dupe (v.)	betrügen	täuschen	hinters Licht führen	schikanieren	bedrängen	tyrannisieren							
 	flag (n.)	Fahne	Flagge	Banner										

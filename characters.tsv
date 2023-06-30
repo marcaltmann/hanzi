@@ -63,7 +63,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	uniform (adj.)	gleichmäßig	gleich											
 	sentence (n.)	Satz												
 	decameron	Dekameron	Dekade											
-	ladle	Kelle	Löffel	Schöpfkelle										
+	ladle	Schöpflöffel	Schöpfkelle											
 	bull‘s eye	Ziel	Schwarze (auf der Schießscheibe)											
 	heads	Haupt												
 	straight	gerade												
@@ -417,7 +417,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	salesman	Kaufmann	Geschäft	Geschäftsleben										
 	suitable	geeignet	angemessen	brauchbar	passend									
 	enemy	Feind	Gegner											
-	ancient spoon	altertümlicher Löffel	Löffel											
+	ancient spoon	altertümlicher Löffel	Dolch											
 	north	Norden												
 	back (n.)	Rücken												
 	compare	vergleichen												
@@ -485,7 +485,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	mock (v.)	spotten	verspotten	höhnen	verhöhnen	eine Satire auf etw. verfassen								
 	self	selbst	sich	persönlich										
 	alter	ändern	verändern	korrigieren	verwandeln									
-	remember	sich erinnern	aufschreiben	niederschreiben	sich merken									
+	remember	sich merken												
 	already	schon	bereits											
 	wrap (v.)	einwickeln	einpacken	Paket	Beutel	Tasche								
 	bubbles	Blase												
@@ -1004,7 +1004,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	hill	Erdhügel	Hügelchen											
 	troops	Waffe	Kampfgerät	Soldat	Armee	Truppe								
 	silk	Seide												
-	line (n.)	Linie	Faden	Garn	Zwirn	Draht	Faser							
+	line (n.)	Linie					Faser							
 	maintain	bewahren	zusammenhalten											
 	silk gauze	Vogelnetz	Fangnetz	mit einem Netz Vögel fangen	sieben (V.)	feines Sieb	dünner gazeartiger Seidenstoff							
 	continue	fortsetzen	fortfahren	weiterführen										
@@ -1015,7 +1015,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	rank (n.)	Rang	Ebene	Stufe	Grad	Klasse	Treppenstufe							
 	epoch	Zeitalter	Epoche	Periode										
 	red	rot												
-	make an appointment	sich verabreden	vereinbaren	abmachen	eine Verabredung treffen	Vereinbarung	Übereinkunft	Verabredung						
+	make an appointment	einen Termin vereinbaren												
 	fine (adj.)	dünn	schmal	fein	winzig									
 	tight	straff	fest	dicht	hart									
 	weave (v.)	weben	flechten	stricken										
@@ -1782,7 +1782,7 @@ TRUE	abode	Laube
 	troubles	Unheil	Katastrophe	sich sorgen	sich kümmern	an einer Krankheit leiden								
 	provoke	hervorrufen	veranlassen	verursachen	herbeiführen	reizen	necken	foppen						
 	kindness	Wohltat	Gunst	Güte	Gnade									
-	recall (v.)	sich erinnern	zurückdenken	sich etw. ins Gedächtnis zurückrufen										
+	recall (v.)	sich erinnern												
 	daughter-in-law	Schwiegertochter												
 	put out	löschen	erlöschen	auslöschen										
 	Chinese harp	zitherähnliches Zupfinstrument	chinesisches Saiteninstrument	chinesische Harfe										

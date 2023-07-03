@@ -62,13 +62,13 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	defeated	besiegt werden	verlieren	sich etw. zuziehen	etw. auf dem Rücken tragen									
 	uniform (adj.)	gleichmäßig	gleich											
 	sentence (n.)	Satz												
-	decameron	Dekameron	Dekade											
+	decameron	Zehntagezeitraum												
 	ladle	Schöpflöffel	Schöpfkelle											
-	bull‘s eye	Ziel	Schwarze (auf der Schießscheibe)											
+	bull‘s eye	die Mitte einer Zielscheibe												
 	heads	Haupt												
 	straight	gerade												
 	set up	legen	stellen	unterbringen	installieren	einbauen								
-	tool	Werkzeug	Gebrauchsgerät	Gerät	Zeug									
+	tool	Werkzeug												
 	true	wahr												
 	work (n.)	Arbeit	Arbeiter											
 	left (n./adj.)	links												
@@ -182,16 +182,16 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	guard (v.)	bewachen	schützen	verteidigen										
 	finish (v.)	enden	beenden	fertig										
 	reality	Tatsache	Realität											
-	proclaim	verkünden	veröffentlichen	verbreiten	erklären	anmelden								
+	proclaim	verkünden	öffentlich machen	bekanntgeben										
 	nighttime	Nacht												
 	peaceful	friedlich	ruhig	Ruhe	Sicherheit									
 	banquet	Festmahl	Festgelage											
 	mail (v.)	verschicken	versenden	abschicken	absenden	schicken								
-	wealthy	Reichtum	reich	wohlhabend										
+	wealthy	reich	wohlhabend											
 	store up	speichern	aufbewahren											
-	tree	Baum	Holz	Nutzholz										
-	woods	Wald	Forst	Hain	Wäldchen									
-	forest	Wald	Forst											
+	tree	Holz	Baum											
+	woods	Wald												
+	forest	Urwald	Dickicht											
 	plant (v.)	pflanzen	anbauen	setzen										
 	apricot	Aprikose												
 	dim-witted	dumm	dämlich	blöde	blöd									
@@ -235,7 +235,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	pressure (n.)	Druck	pressen	drücken	niederhalten									
 	cow	Rind												
 	special (adj.)	ungewöhnlich	eigenartig	speziell	sonderbar									
-	declare	sagen	mitteilen	informieren	bekanntgeben									
+	declare	mitteilen	benachrichtigen											
 	vast	sehr groß	ausgedehnt	grandios										
 	before	eher	zuerst	erst	voraus									
 	wash (v.)	waschen	reinigen											
@@ -417,7 +417,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	salesman	Kaufmann	Geschäft	Geschäftsleben										
 	suitable	geeignet	angemessen	brauchbar	passend									
 	enemy	Feind	Gegner											
-	ancient spoon	altertümlicher Löffel	Dolch											
+	ancient spoon	altertümlicher Löffel												
 	north	Norden												
 	back (n.)	Rücken												
 	compare	vergleichen												
@@ -484,7 +484,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	wind (n.)	Wind												
 	mock (v.)	spotten	verspotten	höhnen	verhöhnen	eine Satire auf etw. verfassen								
 	self	selbst	sich	persönlich										
-	alter	ändern	verändern	korrigieren	verwandeln									
+	alter	ändern												
 	remember	sich merken												
 	already	schon	bereits											
 	wrap (v.)	einwickeln	einpacken	Paket	Beutel	Tasche								
@@ -534,7 +534,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	aspiration	Wille	Ideal	Ziel	Ambition									
 	annals	Annalen	Chronik											
 	consider	überlegen	denken											
-	idea	Bedeutung	Idee	Sinn										
+	idea	Idee	Sinn											
 	think	denken	glauben	annehmen	meinen	wollen	möchten	sich nach jm./etw. sehnen	vermissen					
 	breath	Atem	Botschaft	Nachricht										
 	fear (v.)	fürchten	Angst vor etw. haben	sich ängstigen	erschrecken	einschüchtern	jm. einen Schreck einjagen							
@@ -769,7 +769,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	bow one‘s head	den Kopf neigen												
 	substitute for	an js Stelle treten	ersetzen	geschichtliche Periode	Zeitalter	Generation								
 	bag (n.)	Tasche	Beutel	Sack	Tüte									
-	transform	verändern	umwandeln	verwandeln	zu etw. werden									
+	transform	umwandeln	verwandeln											
 	flower (n.)	Blume												
 	commodities	Ware	Artikel	Güter										
 	whatwhichwhowherewhy?	werwelchewannwowarum?												
@@ -803,7 +803,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	glory (n.)	Ruhm	Glorie	Ehre	gedeihen	florieren								
 	labor (n.)	Arbeit	arbeiten											
 	camp	Feldquartier												
-	virtuous	gut	gutherzig	mildtätig										
+	virtuous	tugendhaft	wohlwollend	gutherzig	mildtätig									
 	year	Jahr												
 	night	Nacht												
 	liquid	Flüssigkeit												
@@ -862,7 +862,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	gradually	allmählich	nach und nach	zunehmend										
 	quality (n.)	Qualität	Natur	Eigenschaft	Charakter	Wesen								
 	reprimand (v.)	tadeln	jn/etw. öffentlich rügen	brandmarken	vorwerfen									
-	accuse	mitteilen	informieren	seinem Herzen Luft machen	beschuldigen	anklagen								
+	accuse	anklagen	beschuldigen											
 	for the first time	anfänglich	zu Anfang	zu Beginn	zum ersten Mal									
 	how?	wie	warum											
 	yesterday	gestern												
@@ -1004,8 +1004,8 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	hill	Erdhügel	Hügelchen											
 	troops	Waffe	Kampfgerät	Soldat	Armee	Truppe								
 	silk	Seide												
-	line (n.)	Linie					Faser							
-	maintain	bewahren	zusammenhalten											
+	line (n.)	Linie												
+	maintain	bewahren	zusammenhalten	aufrechterhalten										
 	silk gauze	Vogelnetz	Fangnetz	mit einem Netz Vögel fangen	sieben (V.)	feines Sieb	dünner gazeartiger Seidenstoff							
 	continue	fortsetzen	fortfahren	weiterführen										
 	continuum	komplexes System	Zusammenhang											
@@ -1024,12 +1024,12 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	curved (adj.)	krumm	gekrümmt	gebogen	gewunden									
 	bay (n.)	Flussbiegung	Flusskrümmung	Bucht	Meerbusen	Golf								
 	be enamored of	lieben	sich verlieben											
-	change (v.)	sich verändern	sich wandeln	ändern	verändern	umwandeln	zu etw. werden							
-	scripture	heilige Schrift	Kanon	kanonische Bücher	klassische Werke	Kette	Längsfaden	Kettenfaden	geografische Länge					
+	change (v.)	sich verändern	verändern	sich verwandeln										
+	scripture	klassische Schrift												
 	lightweight (adj.)	leicht												
 	behind	hinten	hinter	nach	danach	später								
 	how many?	wie viele												
-	machine	Maschine	mechanisches Werkzeug	Apparat	Gerät									
+	machine	Maschine												
 	sever	abbrechen	abschneiden	brechen	zerbrechen	knicken								
 	carry on	fortsetzen	nachfolgen											
 	obvious	sichtbar	deutlich	offensichtlich										
@@ -1072,7 +1072,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	drum	Trommel												
 	joyful	Freude	sich freuen	glückliches Ereignis	fröhliche Feier	Freudentag	Schwangerschaft							
 	kitchen	Küche												
-	timber	Baum	pflanzen	anbauen										
+	timber	Baum												
 	blood	Blut												
 	exhausted	zu Ende	erschöpft	am Ende	nicht mehr weiter	äußerst								
 	to the utmost	möglichst	mit allen Mitteln	mit aller Kraft	ganz	äußerst	höchstens	innerhalb von						
@@ -1128,7 +1128,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	good fortune	sich gratulieren können	zum Glück	glücklicherweise	Glück									
 	clench (v.)	halten	packen	etw. in der Hand haben	innehaben	ausüben								
 	newspaper	Zeitung	mitteilen	Bericht erstatten	benachrichtigen									
-	call (v.)	rufen	ausrufen	schreien	heißen	bedeuten	nennen	anreden						
+	call (v.)	rufen	ausrufen	schreien	heißen									
 	receive	entgegennehmen	aufnehmen	annehmen	empfangen									
 	land (n.)	Festland												
 	force (n.)	Macht	Einfluss	Stärke	Wucht	Trend	Tendenz							
@@ -1486,7 +1486,7 @@ TRUE	lane	Gasse
 	follow	aus	von	ab	folgen	befolgen	sich fügen	gehorchen						
 	vertical	von Norden nach Süden	senkrecht	vertikal										
 	identical	Qi-Reich	ordentlich	gleichmäßig	in Reih und Glied	gleich hoch sein	gleich	in gleicher Weise	gleichermaßen					
-	relieve (v.)	übersetzen	einen Fluss überqueren	helfen	unterstützen									
+	relieve (v.)	Linderung geben	erleichtern	helfen*										
 	clown	Tierkreiszeichen Büffel	Clown	hässlich	garstig	unansehnlich	abscheulich	scheußlich						
 	twist (v.)	sich wenden	sich drehen	verdrehen	verrenken									
 	lowly	gemein	minderwertig											
@@ -1618,7 +1618,7 @@ TRUE	abode	Laube
 	rose	Rose												
 	candid	ehrlich	aufrichtig	anständig	bieder									
 	promise (n.)	Versprechen	Zusage											
-	meaning	Sinn	Bedeutung	sagen	nennen	heißen								
+	meaning	Bedeutung	bedeuten											
 	inquire	nach etw. fragen	sich nach etw. erkundigen											
 	penalize	strafen	rügen	Strafe										
 	place an order	bestellen	buchen	abonnieren										
@@ -1828,7 +1828,7 @@ TRUE	abode	Laube
 	tremble	zittern	beben	vibrieren										
 	rude	üppiges Gras	waghalsig	draufgängerisch										
 	take precautions against	sich vor etw./jm hüten	sich vor etw./jm in acht nehmen	auf etw. achtgeben	vorbeugen	warnen	mahnen	ermahnen						
-	weapon	Werkzeug	Gerät	Waffe	Straf- und Folterinstrumente									
+	weapon	Gerät	Waffe											
 	warn	warnen	verwarnen	ermahnen	Gebot									
 	dash (v.)	schnell laufen	rennen	eilen										
 	spurt (v.)	sprühen	speihen	spritzen	sprengen									
@@ -2770,7 +2770,7 @@ TRUE	stay overnight	übernachten
 	spare time	Muße	freie Zeit											
 	red sky	von der Sonne gefärbte Wolken	Morgenrot	Abendrot	Morgen- oder Abendrot									
 	oxygen	Sauerstoff												
-	atmosphere	Atmosphäre	Stimmung	(Bedeutung?)										
+	atmosphere	Atmosphäre	Stimmung											
 	chlorine	Chlor												
 	hydrogen	Wasserstoff												
 	strengthen	festigen	konsolidieren											

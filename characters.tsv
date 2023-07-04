@@ -76,9 +76,9 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	possess	haben												
 	bribe (n.)	bestechen												
 	tribute	Tribut												
-	item	Punkt												
-	sword	Messer	Schwert											
-	blade	Klinge	Schneide											
+	item	Projekt	Punkt	Nacken	Eintrag									
+	sword	Messer												
+	blade	Klinge												
 	cut (v.)	schneiden	zerschneiden											
 	summon	herbeirufen												
 	evident	hell	klar	offensichtlich	evident	deutlich								
@@ -422,7 +422,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	back (n.)	Rücken												
 	compare	vergleichen												
 	descendants	Abkomme	Abkömmling	Nachkommenschaft	Nachkömmling									
-	mix (v.)	mischen	vermischen	vermengen										
+	mix (v.)	mischen												
 	all	alle	jeder	allgemein	ganz									
 	this (literary)	dies	dieser	(literarisch od. gehobenes, Schriftsprache)										
 	somewhat	einige	etwas											
@@ -604,7 +604,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	branch	Ast	Zweig											
 	uncle	Onkel												
 	superintend	überwachen	beaufsichtigen	kontrollieren										
-	lonely	still	ruhig	einsam	verlassen									
+	lonely	still	ruhig											
 	against	gegen	anti-	gegen etw. sein										
 	plank	Brett	Platte	Planke										
 	go back	zurückkommen	zurückkehren	zurück										
@@ -679,7 +679,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	give back	noch	zurückgeben	zurückkommen	zurückkehren									
 	husband	Ehemann	Gatte											
 	regulations	Gepflogenheit	Regel	Vorschrift	Satzung	Zirkel								
-	replace	ersetzen	an js Stelle treten	in js Namen	um js willen									
+	replace	ersetzen												
 	lose	verlieren	abhanden kommen	verlorengehen										
 	feudal official	Beamter												
 	be about to	kurz vor	gerade bei											
@@ -696,7 +696,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	add	addieren	plus	zusammenzählen	vermehren	steigern								
 	congratulate	gratulieren	beglückwünschen											
 	shelf (n.)	Regal	Gerüst	Gestell										
-	cooperate	kooperieren	zusammen arbeiten	gemeinsam	mit vereinten Kräften									
+	cooperate	kooperieren	zusammen arbeiten	mit vereinten Kräften										
 	line of business	Geschäftsbereich	Branche											
 	law	Gesetz	Regel	Statut										
 	recover	sich umwälzen	sich hin- und her drehen	wiederherstellen	sich rächen	Rache								
@@ -767,7 +767,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	pay (v.)	zahlen	bezahlen	geben	übergeben	überlassen								
 	government office	Regierungssitz	Residenz											
 	bow one‘s head	den Kopf neigen												
-	substitute for	an js Stelle treten	ersetzen	geschichtliche Periode	Zeitalter	Generation								
+	substitute for	vertreten												
 	bag (n.)	Tasche	Beutel	Sack	Tüte									
 	transform	umwandeln	verwandeln											
 	flower (n.)	Blume												
@@ -808,7 +808,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	night	Nacht												
 	liquid	Flüssigkeit												
 	call out (v.)	laut rufen												
-	exchange (v.)	tauschen	austauschen	eintauschen	umwechseln	wechseln	tauschen							
+	exchange (v.)	austauschen												
 	travel (v.)	reisen												
 	execute	ausführen	durchführen											
 	go swimming	schwimmen												
@@ -1056,7 +1056,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	courageous	mutig	kühn	tapfer	beherzt	verwegen								
 	criminal (n.)	gegen etw. verstoßen	übertreten	Verbrecher	begehen	verüben								
 	danger	Gefahr												
-	fragile	zerbrechlich	brüchig	spröde	knusprig	bröckelig								
+	fragile	brüchig	spröde	knusprig										
 	print (n./v.)	drucken	kopieren	Abdruck	Siegel	Stempel								
 	excitement	Lust	Interesse	Freude										
 	liquor	Alkohol												
@@ -1110,7 +1110,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	scarce	selten	wenig	rar	dünn	spärlich	licht							
 	study (v.)	lernen	studieren											
 	senses (n.)	empfinden	fühlen	spüren										
-	stir (v.)	umrühren	mischen	stören	belästigen									
+	stir (v.)	umrühren												
 	sinister	unheildrohend	verhängnisvoll	unheilvoll	schlechte Ernte									
 	cruel	böse	furchterregend	Gewalttat	Mordtat									
 	bosom	Brust	Busen											
@@ -1479,7 +1479,7 @@ TRUE	lane	Gasse
 	assume	etw. mit einer Schulterstange tragen	übernehmen	etw. auf sich nehmen	tragen									
 	number (n.)	Zahl												
 	multistory building	Gebäude	Stockwerk	Etage	Turm									
-	alone	einzig	allein	in Einsamkeit	alt und kinderlos	kinderlose alte Leute								
+	alone	einzeln	allein	einsam										
 	belong to	Kategorie	gehören zu											
 	spoiled	verderben	faulen	verwesen	verfault									
 	orchid	Orchidee	Cymbidium goeringii											
@@ -1562,7 +1562,7 @@ TRUE	lane	Gasse
 	bud (v.)	keimen	sprießen	knospen										
 	exacting	zu streng	zu genau	zu hart	rücksichtslos									
 	membrane	Membran	Folie	Film	dünner Überzug									
-	solitary	einsam	verlassen											
+	solitary	einsam	verlassen	öde										
 	sunset	Abend	Abenddämmerung	bei Sonnenuntergang	am Ende	gegen Ende hin	spät							
 	ignite	brennen	anbrennen	anzünden										
 	curse (v.)	Zauberformel	beschimpfen	verfluchen										
@@ -2005,7 +2005,7 @@ TRUE	abode	Laube
 	count on	sich an etw. anlehnen	sich an jn anlehnen	sich auf etw. verlassen	sich auf jn verlassen	auf etw. gestützt	auf jn gestützt							
 	superb	gut	schön	ausgezeichnet										
 	serve	jm aufwarten	jn bedienen											
-	mate (n.)	Gefährte	Partner	Gemeinschaft	Partnerschaft	gemeinsam								
+	mate (n.)	Gefährte	Partner	Gemeinschaft	Partnerschaft									
 TRUE	stay overnight	übernachten												
 	bend over	sich beugen	auf dem Bauch liegen	jährliche Hitzeperiode	Hundstage									
 	wrapping cloth	Einschlagtuch	Packtuch											
@@ -2175,7 +2175,7 @@ TRUE	stay overnight	übernachten
 	swallow (n.)	Schwalbe												
 	screen (v.)	bedecken	zudecken	verdecken	verschleiern	Schutz gegen etw. bieten	vor etw. schützen							
 	littoral (n.)	Feldrand	an der Seite	dicht an										
-	blend (v.)	mischen	mengen	vermengen	rühren									
+	blend (v.)	vermengen												
 	betray	verraten	rebellieren	meutern										
 	voucher	Karte	Schein	Ticket										
 	rattan	Rattan	Peddigrohr											
@@ -2636,7 +2636,7 @@ TRUE	stay overnight	übernachten
 	bench	Bank	Hocker											
 	transparent	durchsichtig	klar	hell										
 	splash (v.)	mit Wasser bespritzen	besprengen	ausschütten										
-	allocate	zuteilen	zuweisen	bereitstellen	(mit der Hand, dem Fuß, einem Stock usw.) rühren	rühren	rücken	drehen	bewegen					
+	allocate	zuteilen	zuweisen	bereitstellen	(mit der Hand, dem Fuß, einem Stock usw.) rühren	rücken	drehen	bewegen						
 	fir tree	Tanne												
 	well-mannered	höflich	vornehm	vornehm und liebenswürdig	liebenswürdig	zuvorkommend								
 	shirt	Hemd	ungefüttertes Gewand											

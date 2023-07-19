@@ -273,7 +273,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	patrol (v.)	patrouillieren												
 	stroll (v.)	spazieren	bummeln	flanieren										
 	car	Wagen	Fahrzeug											
-	one after another	aufeinanderfolgend	eins nach dem anderen	fortwährend	verbinden									
+	one after another	aufeinanderfolgend	eins nach dem anderen	fortwährend										
 	lotus	Lotus												
 	in front	vor	vorne	bevor										
 	shears	Schere												
@@ -796,7 +796,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	court of law	Gerichtshof												
 	by means of	mittels												
 	similar	ähnlich sein	ähneln											
-	combine (v.)	verschmelzen	verbinden	zusammenlegen	zusammenfassen	zusammenschließen	fusionieren	vereinigen						
+	combine (v.)	verschmelzen	verbinden	zusammenlegen										
 	piece together	zusammenstückeln	zusammensetzen											
 	spine	???	Lü	musikalische Note										
 	associate (n.)	Kamerad	Gefährte	Partner										
@@ -912,7 +912,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	dependents	Familienangehörige(r)												
 	boxing (n.)	Faustkampf												
 	victory	Sieg	die Oberhand gewinnen											
-	slice (n.)	Scheibe	Platte	kleines, flaches Stück										
+	slice (n.)	Scheibe												
 	printing plate	Druckplatte	Druckstock	Klischee	Matrize	Auflage	Ausgabe							
 	put on makeup	Make-up auflegen	sich schminken											
 	robust	stark	kräftig	verstärken	kräftigen									
@@ -1030,7 +1030,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	behind	hinten	hinter	nach	danach	später								
 	how many?	wie viele												
 	machine	Maschine												
-	sever	abbrechen	abschneiden	brechen	zerbrechen	knicken								
+	sever	abbrechen	abschneiden											
 	carry on	fortsetzen	nachfolgen											
 	obvious	sichtbar	deutlich	offensichtlich										
 	music	Musik												
@@ -1060,7 +1060,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	print (n./v.)	drucken	kopieren	Abdruck	Siegel	Stempel								
 	excitement	Lust	Interesse	Freude										
 	liquor	Alkohol												
-	distribute	zusammenmischen	zusammenstellen	paaren	eine Ehe schließen									
+	distribute	zusammenmischen	paaren	eine Ehe schließen										
 	chieftain	Stammeshäuptling	Anführer	Chef	Häuptling									
 	venerate (v.)	ehren	hochachten	respektieren										
 	abide by	folgen	befolgen	einhalten										
@@ -1125,8 +1125,8 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	fuel	Brennholz	Reisig											
 	relatives	Elternteil	Blutsverwandter	Verwandter										
 	inner garments	Futterstoff einnähen	Futterstoff											
-	good fortune	sich gratulieren können	zum Glück	glücklicherweise	Glück									
-	clench (v.)	halten	packen	etw. in der Hand haben	innehaben	ausüben								
+	good fortune	zum Glück	glücklicherweise	Glück										
+	clench (v.)	halten	packen	etw. in der Hand haben	festhalten									
 	newspaper	Zeitung	mitteilen	Bericht erstatten	benachrichtigen									
 	call (v.)	rufen	ausrufen	schreien	heißen									
 	receive	entgegennehmen	aufnehmen	annehmen	empfangen									
@@ -1322,7 +1322,7 @@ TRUE	lane	Gasse
 	frame (v.)	konstruieren	formen	bilden	zusammensetzen									
 	flat (adj.)	flach	platt											
 	piece of writing	Aufsatz	Schrift	ein beschriebenes oder bedrucktes Papier	Blatt	(Schriftstück)								
-	compile	flechten	organisieren	zusammenstellen	etw. redaktionell bearbeiten	verfassen	komponieren							
+	compile	zusammenstellen												
 	theory	analysieren	besprechen	Theorie										
 	wheel	Rad												
 	canon	Maßstab	Gesetz	Kanon	Standardwerk	Anspielung auf eine klassische Literaturstelle								
@@ -1439,26 +1439,26 @@ TRUE	lane	Gasse
 	agriculture	Landwirtschaft	Ackerbau	Bauer	Landwirt									
 	concentrated	dicht	dick	stark	dickflüssig	konzentriert								
 	deliver	senden	schicken	bringen	schenken									
-	ghost	Geist	Gespenst	Spuk										
-	demon	Teufel	Dämon	Monster	böser Geist									
-	lump (n.)	Klotz	Klumpen	Stück										
+	ghost	Geist	Gespenst											
+	demon	Dämon	Teufel	Monster	Höllenwesen									
+	lump (n.)	Klotz	Klumpen	Stück	Block									
 	dragon	Drache	Symbol des Kaisers	kaiserlich										
 	raid (v.)	überfallen	überrumpeln	über jn herfallen										
 	youngster	Jugendlicher	Sohn	Kind										
 	old	alt												
 	write	schreiben												
 	diarrhea	Durchfall	dahinströmen	herabströmen	schnell abfließen									
-	dos	zwei	zwo											
-	duo	beide	zwei											
+	dos	zwo												
+	duo	beide												
 	full	voll	erfüllt											
 	you (literary)	du	ihr	Ihr	du (literarisch)									
 	fill (v.)	übervoll sein	überfüllen	bedecken	zudecken	verstopfen	abdichten							
 	false	leer	nichtig	umsonst	vergebens	vergeblich	falsch	scheinbar	vorgetäuscht	bescheiden	nicht überheblich			
-	unite	vereinigen	verbinden	gemeinschaftlich	verbunden									
+	unite	vereinen	vereinigen											
 	shut (v.)	zumachen	schließen	verschließen	ausmachen	abstellen	abschalten							
 	that	das	jenes	jener	in diesem Fall	dann								
 	which?	welcher	welches											
-	witch	Hexenmeister	Hexe	Schamane										
+	witch	Hexe												
 	spirit	Geist	Seele	Intelligenz	geistreich	gewandt	geschickt	flink	wirkungsvoll	effektiv				
 	county	Kreis	Kreis (Gebiet)	Bezirk	Landkreis									
 	suspend	hängen	aufhängen	ungelöst	ergebnislos	schwebend								
@@ -1474,7 +1474,7 @@ TRUE	lane	Gasse
 	extensive	weit	breit	ausgedehnt	extensiv	Guangzhou	Guangdong							
 	horizontal	horizontal	quer	längs	waagerecht									
 	window	Fenster												
-	general (adj.)	zusammenfassen	zusammenstellen	allseitig	total	immer	stets							
+	general (adj.)	zusammenfassen	allseitig	total	immer	stets								
 	verbose	Zhan												
 	assume	etw. mit einer Schulterstange tragen	übernehmen	etw. auf sich nehmen	tragen									
 	number (n.)	Zahl												
@@ -1488,9 +1488,9 @@ TRUE	lane	Gasse
 	identical	Qi-Reich	ordentlich	gleichmäßig	in Reih und Glied	gleich hoch sein	gleich	in gleicher Weise	gleichermaßen					
 	relieve (v.)	Linderung geben	erleichtern	helfen*										
 	clown	Tierkreiszeichen Büffel	Clown	hässlich	garstig	unansehnlich	abscheulich	scheußlich						
-	twist (v.)	sich wenden	sich drehen	verdrehen	verrenken									
-	lowly	gemein	minderwertig											
-	brand (n.)	Schild	Platte	Tafel	Marke	Warenzeichen	Spielkarten	Dominosteine						
+	twist (v.)	verdrehen	verwinden											
+	lowly	nieder												
+	brand (n.)	Marke	Warenzeichen	Schild	Tafel	Spielkarte								
 	appellation	Name	Bezeichnung	Tag										
 	peculiar	merkwürdig	seltsam	sonderbar	wunderlich	kurios								
 	crimson	rot	treu	loyal	ergeben	nackt	bar							
@@ -1666,7 +1666,7 @@ TRUE	abode	Laube
 	jujube	Jujube	Chinesische Dattel											
 	flower bud	Knospe												
 	gulp down	verschlingen	schlucken	verschlucken										
-	bewitching	lasziv	aufreizend	liederlich	boshaft und tückisch	Dämon	Gespenst							
+	bewitching	Zauberwesen	betörend	lasziv										
 	fertile	fruchtbar	ertragreich	bewässern										
 	sedan chair	Sänfte												
 	garbage	Abfall	Müll	Kehricht										
@@ -1791,7 +1791,7 @@ TRUE	abode	Laube
 	rub (v.)	reiben	schaben	studieren	nach etw. forschen	über etw. nachgrübeln								
 	moth	Motte												
 	pick pockets (v.)	zusammenrechen	zusammenharken	auf kleiner Flamme weich kochen	schmoren									
-	button (n./v.)	zuknöpfen	zuschnallen											
+	button (n./v.)	zuknöpfen	zuschnallen	Knopf	Schnalle									
 	contribute	spenden	stiften	beisteuern	verzichten	aufgeben	hingeben	opfern						
 	racquet	Schläger	klatschen	klopfen	leicht schlagen	etw. mit einer Kamera aufnehmen								
 	clapping sound	knall	klapp	peng	Klatschgeräusch									
@@ -1885,7 +1885,7 @@ TRUE	abode	Laube
 	await hopefully	sich nach etw. sehnen	nach etw. verlangen	hoffen	blicken	schauen								
 	promulgate	erlassen	verkünden	bekanntmachen										
 	essence	Wohlgeruch	Duft											
-	play the part of	mimen												
+	play the part of	mimen	sich verkleiden	sich kostümieren	sich als jemanden ausgeben									
 	diverge	abzweigen	sich gabeln	sich seitwärts wenden										
 	extol	rühmen	preisen	Loblied	Hymne	Ode								
 	litigate	einen Rechtsstreit bei Gericht anhängig machen	prozessieren											
@@ -1913,7 +1913,7 @@ TRUE	abode	Laube
 	crack (v.)	spalten	platzen	zerfallen	Ritze	Fissur								
 	dedicated	rechtschaffen	aufrichtig	licht	glänzend									
 	shame (n.)	Scham	Schande	sich schämen										
-	edit	kompilieren	zusammenstellen	edieren	redigieren									
+	edit	bearbeiten	redigieren	editieren	edieren									
 	take a photo	fotografieren	knipsen	aufnehmen	absorbieren	assimilieren								
 	take a wife	eine Frau heiraten	jn zur Frau nehmen											
 	lend a hand	(mit der Hand) stützen	stützen	Halt geben	jm unter die Arme greifen	Hilfe leisten	behilflich sein	aufrichten						
@@ -2099,7 +2099,7 @@ TRUE	stay overnight	übernachten
 	fan (n.)	Fächer	Flügel											
 	can‘t help but	ertragen	zurechtkommen mit	?										
 	funds	Geldmittel	Gelder	Geldsumme										
-	evil spirit	Gespenst	böser Geist	böse Geister										
+	evil spirit	böser Geist	böse Geister											
 	wish well	wünschen	Gutes wünschen	jn etw. Gutes wünschen										
 	propitious	günstig	glückverheißend											
 	confidential	geheim	heimlich	vertraulich	verborgen	geheimhalten								
@@ -2118,7 +2118,7 @@ TRUE	stay overnight	übernachten
 	nest (n.)	Nest												
 	flora	Flora	Pflanzenwelt											
 	naked	nackt	unbekleidet	unverhüllt										
-	envelop	einwickeln	einhüllen	verbinden	umwickeln									
+	envelop	einwickeln	einhüllen	umwickeln										
 	analyze	analysieren	spalten	trennen										
 	distinct	klar	deutlich											
 	celery	Sellerie												
@@ -2313,11 +2313,11 @@ TRUE	stay overnight	übernachten
 	cocoon	Kokon												
 	wind around	wickeln	winden	Wollfaden aufwickeln	jn in etw. verwickeln									
 	delicate	fein	sorgfältig											
-	fasten	zubinden	zuknöpfen											
+	fasten	zubinden	zuknöpfen	umbinden	verbinden	festbinden	anbinden	verknoten						
 	let in	einlassen	aufnehmen											
 	disorderly	verwirrt	durcheinander	unordentlich										
 	shrink (v.)	schrumpfen	eingehen	sich zusammenziehen										
-	sum up	zusammensetzen	zusammenstellen	zusammenfassen										
+	sum up	zusammensetzen	zusammenfassen											
 	gentry	Gentry	Landadel											
 	reason (n.)	Grund	Ursache	Anlass										
 	inception	Anfang	Beginn	Tat	Werk	Anfang einer Seidenfaser								
@@ -2393,13 +2393,13 @@ TRUE	stay overnight	übernachten
 	popular	öffentlich	die Öffentlichkeit vertretend	Fahrzeug mit Rädern	Wagen	Sänfte								
 	reward (n./v.)	eine Toast ausbringen	auf jn/etw. trinken	Belohnung	Vergütung									
 	pour wine	einschenken												
-	brutal	brutal												
+	brutal	cool	brutal											
 	mellow wine	edler Wein												
 	vinegar	Essig												
 	drunk	betrunken												
 	unmixed	pur	rein	Essenz										
 	emerald green	smaragdgrün	Eisvogel											
-	shattered	zerbröckelt	zerstückelt	zersplittert										
+	shattered	zerbrochen	zerschmettert	zersplittert										
 	sour	sauer	Säure											
 	shuttle (n.)	Webschiffchen												
 	lofty	hoch	steil aufragend											
@@ -2732,7 +2732,7 @@ TRUE	stay overnight	übernachten
 	slight (adj.)	dünn	klein	leicht	gering	kleinlich	knauserig	nicht freigebig						
 	register (n.)	Heft	Buch	Rechnungsbuch	Verzeichnis									
 	mentor	Meister	Lehrer	lehren	unterrichten									
-	bind fast	binden	festbinden	fesseln										
+	bind fast	fesseln												
 	outer walls	äußerer Wall einer Stadt												
 	limitless	weit	geräumig	ausgedehnt	Umriss	Kontur	Außenlinie							
 	despicable	verachten	geringschätzen	gemein	niederträchtig	vulgär								
@@ -2776,7 +2776,7 @@ TRUE	stay overnight	übernachten
 	strengthen	festigen	konsolidieren											
 	tyrant	Tyrann	Despot	Führer des Bundes der Herzöge im alten China	Hegemon									
 	dam (n.)	Staudamm	Sperrmauer	Talsperre	Damm	Deich	Schutzdamm gegen Hochwasser							
-	tighten	straffziehen	zuschnüren	festbinden	zubinden									
+	tighten	straffziehen	zuschnüren	zubinden										
 	bow respectfully	Fellball	ernähren	großziehen	sich beugen	sich verbeugen								
 	boots	Stiefel												
 	whip (n./v.)	Peitsche	peitschen											
@@ -2893,7 +2893,7 @@ TRUE	rush (v.)	stürmen
 	cease	eine Tätigkeit einstellen	mit etw. aufhören	aufhören										
 	put in order	Pendel	schwenken	hin und her bewegen	stellen	setzen	legen							
 	lips	Lippe												
-	disgrace (n./v.)	Schmach	Schande											
+	disgrace (n./v.)	Schmach	Schande	Demütigung										
 	quake (v.)	beben	erschüttern	vibrieren										
 	vibrate	flattern	schütteln	rütteln	schwingen	sich regen	sich aufraffen	anregen						
 	vigor	Seele	Energie	Geist	(Vitalität)	Vitalität								
@@ -2963,12 +2963,12 @@ TRUE	rush (v.)	stürmen
 	pharmaceutical (n.)	pharmazeutisches Präparat	Dosis											
 	abstain from food	fasten												
 	squeeze (v.)	pressen	auspressen											
-	push button (n.)	Knopf												
-	shy	sich schämen	Scham empfinden	beschämen	Scham	Schande	etw. als eine Schande empfinden							
-	New York	New York	Knopf	Griff	Aufhängung									
+	push button (n.)	Knopf	Schalter	Taster										
+	shy	schüchtern	sich schämen											
+	New York	New York												
 	spleen	Milz												
 	beer	Bier												
-	stele	Denkmal	Gedenktafel	Grabstein	Gedenkstein									
+	stele	Stele	Steintafel	Gedenktafel	Gedenkstein									
 	illustrious	prominent	hervorragend	auffällig	bemerkenswert	Hertz								
 	terrify	schrecken	erschrecken	einschüchtern	verblüffen									
 	radiating vitality	Kraft und Energie ausstrahlen												

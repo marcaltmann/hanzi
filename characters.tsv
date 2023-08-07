@@ -60,7 +60,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	ordinary	gewöhnlich	alltäglich	ordinär										
 	muscle	Muskel												
 	defeated	besiegt werden	verlieren	sich etw. zuziehen	etw. auf dem Rücken tragen									
-	uniform (adj.)	gleichmäßig	gleich											
+	uniform (adj.)	gleichmäßig												
 	sentence (n.)	Satz												
 	decameron	Zehntagezeitraum												
 	ladle	Schöpflöffel	Schöpfkelle											
@@ -120,7 +120,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	ray	Licht	Strahl											
 	overly	allzu	übermäßig											
 	economize	sparsam sein	Provinz	sparen										
-	strange	sonderbar	außergewöhnlich	seltsam	merkwürdig									
+	strange	kurios	außergewöhnlich	merkwürdig										
 	stream (n.)	Fluss	Strom	Bach										
 	state (n.)	autonomer Bezirk	Bezirk											
 	obey	befolgen	folgen	entlang	in derselben Richtung	mit								
@@ -146,7 +146,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	lake	See												
 	fathom (v.)	messen												
 	soil (n.)	Erde												
-	equal	gleich	gleichmäßig	ausgewogen										
+	equal	gleich												
 	belly	Bauch												
 	fill in	füllen	auffüllen	anfüllen	ausfüllen									
 	spit (v.)	spucken												
@@ -174,7 +174,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	spot (n.)	Punkt	Fleck	Tropfen										
 	black ink	schwarzer Tuschstab	chinesische Tusche	schwarze Tusche										
 	risk (v.)	riskieren	emporsteigen	hochsteigen	ungeachtet (einer Gefahr)									
-	same	gleich												
+	same	dasselbe												
 	cave	Höhle	Grotte	Loch										
 	orientation	Richtung	gegen	nach										
 	esteem (v.)	wertschätzen	(berücksichtigen)											
@@ -288,7 +288,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	fall (v.)	fallen	sinken											
 	superfluous	überflüssig	überzählig	belanglos	irrelevant									
 	profound	tief	sinken	untergehen										
-	army	Armee	Heer											
+	army	Armee												
 	radiance	Glanz	heller Schein											
 	carry	sich bewegen	befördern	transportieren										
 	crown (n.)	Krone	Kopfbedeckung	Kappe										
@@ -435,7 +435,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	beg	betteln												
 	eat	essen												
 	dry (adj.)	trocken												
-	duplicate (v.)	doppelt	wiederholt	vervielfältigen	komplex	zusammengesetzt								
+	duplicate (v.)	wiederholen	wiederholt	vervielfältigen	ein Duplikat anfertigen	duplizieren								
 	abdomen	Abdomen	Unterleib											
 	lack (v.)	gähnen	schulden	mangelnd	nicht genug									
 	blow (v.)	blasen	wehen											
@@ -1002,7 +1002,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	deep	tief												
 	spy (n.)	Detektiv	Kundschafter	Späher	auskundschaften	sondieren	etw. vorsichtig erkunden							
 	hill	Erdhügel	Hügelchen											
-	troops	Waffe	Kampfgerät	Soldat	Armee	Truppe								
+	troops	Waffe	Kampfgerät	Soldat	Truppe									
 	silk	Seide												
 	line (n.)	Linie												
 	maintain	bewahren	zusammenhalten	aufrechterhalten										
@@ -1194,7 +1194,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	waist	Taille	Hüfte											
 	ticket	Karte	Zettel	Wahlzettel										
 	drift (v.)	(im Wasser) treiben	treiben	dahintreiben	von der Strömung getragen werden									
-	mark (n.)	Marke	Kennzeichen	Merkmal										
+	mark (n.)	Markierung	Kennzeichen	Etikett										
 	merchant	Kaufmann												
 	price	Preis	Wert											
 	smoke (n.)	Rauch	in die Augen beißen											
@@ -1264,7 +1264,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	shadow (n.)	Schatten												
 	hue	Farbe	Buntheit	Farbigkeit	Färbung	vielfarbig	farbig							
 	have to	müssen	etw. zu tun haben											
-	rare	Schatz	Kostbarkeit	kostbar	wertvoll	selten								
+KARTE	rare	kostbar												
 	participate	an etw. teilnehmen	an etw. teilhaben	sich an etw. beteiligen	mitmachen									
 	wretched	traurig	tragisch	bejammernswert	jämmerlich	entsetzlich	schauerlich							
 	repair (v.)	schmücken	verzieren	dekorieren	reparieren	restaurieren	ausbessern							
@@ -1287,7 +1287,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	such and such (adj.)	gewiss	bestimmt											
 	his-hers-its-theirs	sein	ihr											
 	period of time	Periode	Zeitraum	Phase										
-t	base (n.)	Grundlage												
+	base (n.)	Grundlage												
 	Sphinx	dies	so	dann	Sphinx									
 	tremendously	sehr	äußerst	mehr als										
 	expensive	von hohem Preis	teuer	kostspielig										
@@ -1307,7 +1307,7 @@ t	base (n.)	Grundlage
 	together	gemeinsam												
 	supply (n./v.)	liefern	versorgen	bereitstellen	anbieten	Angebot	Zufuhr							
 	different	verschieden												
-TRUE	lane	Gasse												
+	lane	Gasse												
 	port (n.)	Hafen												
 	choose	auswählen	auslesen	wählen	Wahl	ausgewählte Werke	Anthologie							
 	well (n.)	Brunnen												
@@ -1404,7 +1404,7 @@ TRUE	lane	Gasse
 	ridge of a hill	Kamm eines Hügels	Grat eines niedrigen Berges											
 	just now	gerade eben	gerade	eben	genau	exakt								
 	deficient	mangeln	fehlen	an etw. gebrechen	lückenhaft	schadhaft	mangelhaft							
-	treasure (n.)	Schatz	Kleinod	Wertsachen	Wertgegenstände									
+	treasure (n.)	Schatz												
 	remote (adj.)	fern	weit entfernt	weit										
 	shake (v.)	schütteln	schwingen	schaukeln	schwenken	winken								
 	rabbit	Hase	Kaninchen											
@@ -1485,14 +1485,14 @@ TRUE	lane	Gasse
 	orchid	Orchidee	Cymbidium goeringii											
 	follow	aus	von	ab	folgen	befolgen	sich fügen	gehorchen						
 	vertical	von Norden nach Süden	senkrecht	vertikal										
-	identical	Qi-Reich	ordentlich	gleichmäßig	in Reih und Glied	gleich hoch sein	gleich	in gleicher Weise	gleichermaßen					
-	relieve (v.)	Linderung geben	erleichtern	helfen*										
-	clown	Tierkreiszeichen Büffel	Clown	hässlich	garstig	unansehnlich	abscheulich	scheußlich						
-	twist (v.)	verdrehen	verwinden											
-	lowly	nieder												
-	brand (n.)	Marke	Warenzeichen	Schild	Tafel	Spielkarte								
+KARTE	identical	symmetrisch												
+KARTE	relieve (v.)	lindern												
+KARTE	clown	Clown					abscheulich	scheußlich						
+KARTE	twist (v.)	verdrehen												
+KARTE	lowly	nieder												
+HALB	brand (n.)	Warenzeichen	Tafel	Marke										
 	appellation	Name	Bezeichnung	Tag										
-	peculiar	merkwürdig	seltsam	sonderbar	wunderlich	kurios								
+	peculiar	seltsam	sonderbar											
 	crimson	rot	treu	loyal	ergeben	nackt	bar							
 	likewise	auch	ebenso											
 	extreme (n.)	Extrem												
@@ -1572,7 +1572,7 @@ TRUE	lane	Gasse
 	dude	männlich (von Tieren)	männlich											
 	jail	Gehege	Pferch	Viehhürde	Opfertier	Gefängnis	Kerker							
 	succor (v.)	helfen	beistehen	unterstützen										
-TRUE	abode	Laube												
+	abode	Laube												
 	wha?	was	was?											
 	in agreement	einträchtig	harmonisch	einig	im Einvernehmen	verhandeln								
 	thriving	blühend	üppig											
@@ -1602,7 +1602,7 @@ TRUE	abode	Laube
 	figure of speech	Beispiel	Analogie	erläutern	erklären	informieren	jn über etw. in Kenntnis setzen							
 	elm	Sibirische Ulme	Ulme											
 	abbreviation	knapp	kurz und bündig	kurze Darstellung	Abriss	Umriss	auslassen	weglassen						
-	dizzy	schwindlig	von Schwindel befallen	in Ohnmacht fallen	ohnmächtig									
+	dizzy	schwindlig	in Ohnmacht fallen											
 	muddled	trübe	unklar	verschmutzt	dämlich	dusslig	bescheuert							
 	ointment	Paste	Creme	Salbe	Fett	Schmalz								
 	go smoothly	reibungslos	zügig											
@@ -1666,7 +1666,7 @@ TRUE	abode	Laube
 	jujube	Jujube	Chinesische Dattel											
 	flower bud	Knospe												
 	gulp down	verschlingen	schlucken	verschlucken										
-	bewitching	Zauberwesen	betörend	lasziv										
+KARTE	bewitching	betörend												
 	fertile	fruchtbar	ertragreich	bewässern										
 	sedan chair	Sänfte												
 	garbage	Abfall	Müll	Kehricht										
@@ -1791,7 +1791,7 @@ TRUE	abode	Laube
 	rub (v.)	reiben	schaben	studieren	nach etw. forschen	über etw. nachgrübeln								
 	moth	Motte												
 	pick pockets (v.)	zusammenrechen	zusammenharken	auf kleiner Flamme weich kochen	schmoren									
-	button (n./v.)	zuknöpfen	zuschnallen	Knopf	Schnalle									
+	button (n./v.)	zuknöpfen	zuschnallen	Schnalle										
 	contribute	spenden	stiften	beisteuern	verzichten	aufgeben	hingeben	opfern						
 	racquet	Schläger	klatschen	klopfen	leicht schlagen	etw. mit einer Kamera aufnehmen								
 	clapping sound	knall	klapp	peng	Klatschgeräusch									
@@ -2006,7 +2006,7 @@ TRUE	abode	Laube
 	superb	gut	schön	ausgezeichnet										
 	serve	jm aufwarten	jn bedienen											
 	mate (n.)	Gefährte	Partner	Gemeinschaft	Partnerschaft									
-TRUE	stay overnight	übernachten												
+	stay overnight	übernachten												
 	bend over	sich beugen	auf dem Bauch liegen	jährliche Hitzeperiode	Hundstage									
 	wrapping cloth	Einschlagtuch	Packtuch											
 	steal (v.)	stehlen	stibitzen	klauen	heimlich	insgeheim	verstohlen							
@@ -2142,12 +2142,12 @@ TRUE	stay overnight	übernachten
 	wield	fassen	halten	festhalten	etw. in Händen haben	vorsitzen	den Vorsitz ausüben	leiten						
 	peel off	abstreifen	abschälen	abrinden										
 	collection	Kollektion	Sammlung	Ansammlung										
-	double (adj.)	doppelt	zweifach	zweimal										
-	earn	verdienen	Geld verdienen	profitieren	Gewinn machen									
+	double (adj.)	doppelt												
+	earn	Geld verdienen	Gewinn machen											
 	dislike (v.)	Verdacht	Groll	Hass	Feindschaft	nicht mögen	eine Abneigung hegen	verabscheuen	einer Sache überdrüssig sein					
 	unassuming	bescheiden												
 	apology	Gefühl des Bedauerns	sich beschämt fühlen	Missernte										
-	inexpensive	wohlfeil	billig	preiswert										
+	inexpensive	preiswert												
 	sickle	Sichel												
 	drapes	Vorhang	Fenstervorhang	Gardine										
 	unshut (v.)	die Augen öffnen	aufschlagen											
@@ -2288,7 +2288,7 @@ TRUE	stay overnight	übernachten
 	peep (v.)	lugen	heimlich blicken	heimlich beobachten	verstohlen blicken	spannen?								
 	den	Felsenhöhle	Höhle	Grotte	Versteck									
 	strait (adj.)	eng	schmal											
-	extract (v.)	auspressen	pressen											
+	extract (v.)	auspressen												
 	poverty-stricken	in bedrängten Umständen	in Not	in Bedrängnis	verlegen	peinlich berührt								
 	poor	arm	armselig	dürftig										
 	hollow (n.)	Mulde	Hohlraum											
@@ -2859,7 +2859,7 @@ TRUE	stay overnight	übernachten
 	drive (v.)	vorspannen	anspannen	fahren	lenken	steuern								
 	mule	Maultier	Maulesel											
 	refute	bestreiten	zurückweisen	widerlegen	widersprechen	Leichter	Lastkahn	mit einem Lastkahn transportieren						
-TRUE	rush (v.)	stürmen												
+	rush (v.)	stürmen												
 	drive away	vertreiben	zerstreuen	ein Pferd lenken	einen Wagen lenken	rasen	schnell rennen							
 	cheat (v.)	betrügen	prellen	lügen	begaunern	beschwindeln								
 	trot (v.)	traben												
@@ -2899,13 +2899,13 @@ TRUE	rush (v.)	stürmen
 	vigor	Seele	Energie	Geist	(Vitalität)	Vitalität								
 	scholar tree	Schnurbaum	Pagodenbaum											
 	enchant	Teufel	Dämon	böser Geist	verzaubernd	charismatisch	unwiderstehlich							
-	marvelous	wertvolle Rarität	selten und kostbar	rar	wunderschön	feine Jade								
+	marvelous	wertvolle Rarität	rar	wunderschön	feine Jade									
 	soul	Seele	Stimmung	Geist	edler Geist einer Nation									
 	ashamed	beschämt	reuevoll	von Gewissensbissen gepeinigt werden	ein schlechtes Gewissen haben									
 	leader	Vorgesetzter	Chef	Anführer										
 	ugly	hässlich	scheußlich	garstig	unansehnlich	abscheulich								
 	raised path between fields	Erddamm auf dem Feld	erhöhter Ackerstreifen	Rain	Feldrain	kleiner erhöhter Weg zwischen zwei Feldern								
-	dote on	verwöhnen	jn seine Gunst schenken	bevorzugen										
+	dote on	verwöhnen												
 	huge	riesig	gewaltig	kolossal	unzählbar und chaotisch									
 	draw near	sich nähern	eintreffen	zusammenrechnen	kämmen									
 	deaf	taub												
@@ -2960,15 +2960,15 @@ TRUE	rush (v.)	stürmen
 	impede	versperren	aufhalten	zurückhalten	Einhalt gebieten									
 	tracks	Fußabdruck	Spur	Fußspur										
 	shrug (v.)	emporragen	Bestürzung hervorrufen	Furcht einflößen	die Schultern zucken	mit den Achseln zucken								
-	pharmaceutical (n.)	pharmazeutisches Präparat	Dosis											
-	abstain from food	fasten												
-	squeeze (v.)	pressen	auspressen											
-	push button (n.)	Knopf	Schalter	Taster										
-	shy	schüchtern	sich schämen											
-	New York	New York												
-	spleen	Milz												
-	beer	Bier												
-	stele	Stele	Steintafel	Gedenktafel	Gedenkstein									
+KARTE	pharmaceutical (n.)	pharmazeutisches Präparat												
+KARTE	abstain from food	fasten												
+KARTE	squeeze (v.)	quetschen												
+KARTE	push button (n.)	Knopf												
+KARTE	shy	schüchtern												
+KARTE	New York	New York												
+KARTE	spleen	Milz												
+KARTE	beer	Bier												
+KARTE	stele	Stele												
 	illustrious	prominent	hervorragend	auffällig	bemerkenswert	Hertz								
 	terrify	schrecken	erschrecken	einschüchtern	verblüffen									
 	radiating vitality	Kraft und Energie ausstrahlen												

@@ -448,7 +448,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	compensate	kompensieren	jnd. entschädigen											
 	cultivate	um etw. Erde anhäufen	erziehen	ausbilden	züchten	heranbilden								
 	sound (n.)	Ton	Laut	Schall										
-	dark (adj.)	dunkel	finster	geheim	heimlich									
+	dark (adj.)	dunkel												
 	rhyme (n.)	Reim												
 	knowledge	Wissen	Kenntnis											
 	streamer	Fahne	Flagge	Banner										
@@ -1328,7 +1328,7 @@ KARTE	rare	kostbar
 	canon	Maßstab	Gesetz	Kanon	Standardwerk	Anspielung auf eine klassische Literaturstelle								
 	family name	des Namens	von der Familie	(Nachname?)										
 	paper	Papier												
-	dusk	Abenddämmerung	verwirrt	konfus										
+	dusk	Abenddämmerung												
 	marriage	heiraten	sich verheiraten	Ehe										
 	low	niedrig	tief											
 	bottom	Boden	Sohle											
@@ -1554,7 +1554,7 @@ HALB	brand (n.)	Warenzeichen	Tafel	Marke
 	Song	Song	Song-Dynastie											
 	drench	filtrieren	durchseihen	durchsieben										
 	burn (v.)	brennen	verbrennen											
-	obscure (adj./v.)	blind	unklar	finster	dunkel	von etw. nur eine verschwommene Vorstellung haben	etw. nicht wissen	verstecken	verbergen	unterschlagen				
+KARTE	obscure (adj./v.)	finster												
 	vermilion	scharlachrot	zinnoberrot											
 	tree trunk	Baumstamm	Pflanze											
 	roof beam	Dachbalken	Brücke											
@@ -1563,7 +1563,7 @@ HALB	brand (n.)	Warenzeichen	Tafel	Marke
 	exacting	zu streng	zu genau	zu hart	rücksichtslos									
 	membrane	Membran	Folie	Film	dünner Überzug									
 	solitary	einsam	verlassen	öde										
-	sunset	Abend	Abenddämmerung	bei Sonnenuntergang	am Ende	gegen Ende hin	spät							
+	sunset	Abend	bei Sonnenuntergang											
 	ignite	brennen	anbrennen	anzünden										
 	curse (v.)	Zauberformel	beschimpfen	verfluchen										
 	beast	Tier	Bestie	bestialisch										
@@ -1603,7 +1603,7 @@ HALB	brand (n.)	Warenzeichen	Tafel	Marke
 	elm	Sibirische Ulme	Ulme											
 	abbreviation	knapp	kurz und bündig	kurze Darstellung	Abriss	Umriss	auslassen	weglassen						
 	dizzy	schwindlig	in Ohnmacht fallen											
-	muddled	trübe	unklar	verschmutzt	dämlich	dusslig	bescheuert							
+	muddled	unklar	undurchsichtig											
 	ointment	Paste	Creme	Salbe	Fett	Schmalz								
 	go smoothly	reibungslos	zügig											
 	hum (v.)	schnauben	stöhnen	leise singen	summen									
@@ -1718,7 +1718,7 @@ KARTE	bewitching	betörend
 	pursue	verfolgen	nachjagen	vertreiben	ausweisen	hinausjagen								
 	satisfy	zufriedenstellen	befriedigen											
 	Mongolia	Monggol-Nationalität	Mongolei											
-	dim (adj.)	mattes Mondlicht	unklar	verschwommen	neblig	dunstig								
+	dim (adj.)	mattes Mondlicht	verschwommen	neblig	dunstig									
 	unrestrained	Person von überragender Fähigkeit	mannhaft und beherzt	frei und ungezwungen	unbändig	despotisch	gewalttätig							
 	peck (v.)	picken	klopfen											
 	chisel (v.)	schnitzen	meißeln											
@@ -2265,7 +2265,7 @@ KARTE	bewitching	betörend
 	algae	Alge												
 	exercise (n.)	drillen	üben	exerzieren	trainieren	Drill	Übung							
 	parched	trocken												
-	leap (v.)	springen	hüpfen											
+	leap (v.)	springen	hüpfen	großer Sprung										
 	jab (v.)	stechen	hineinstechen	stoßen										
 	show off (v.)	loben	rühmen	prahlen	scheinen	leuchten	blenden							
 	cunning	schlau	listig											
@@ -2925,7 +2925,7 @@ KARTE	bewitching	betörend
 	emaciated	dünn	mager	abgezehrt	abgemagert									
 	search (v.)	durchsuchen	auf der Suche nach etw. sein											
 	unhulled rice	Reis	ungeschälter Reis	Naturreis										
-	tread (v.)	betreten	schreiten	stampfen	springen	hüpfen								
+	tread (v.)	betreten	schreiten											
 	surging	überfließen	fluten											
 	get stuck	Fallgrube	Falle	hineinfallen	steckenbleiben	in etw. geraten								
 	flame (n.)	Flamme	Feuerzunge											
@@ -2952,7 +2952,7 @@ KARTE	bewitching	betörend
 	look upward	geradeaus oder nach oben blicken	ansehen	nach vorn oder nach oben schauen										
 	cuddle	jn in die Arme nehmen	umfassen	umarmen	jn auf den Schoß nehmen	Armlänge								
 	time and again	oft	häufig	wiederholt										
-	turbid	trübe	schlammig											
+	turbid	trübe												
 	candle	Kerze												
 	touch (v.)	berühren	auf etw. stoßen	mit etw. in Kontakt kommen										
 	admonish	ermahnen	einschärfen	raten										

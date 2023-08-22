@@ -379,7 +379,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	Yuan	Yuan												
 	distant	fern	weit	entfernt	entlegen									
 	bad	schlecht	kaputt											
-	elementary	elementar	grundlegend	zu Beginn	anfangs									
+KARTE	elementary	elementar												
 	towel	Tuch	Schal	Handtuch										
 	cloth	Stoff	Gewebe											
 	hat	Hut	Mütze											
@@ -844,7 +844,7 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	scrutinize	untersuchen	etw. genau prüfen	(prüfend) in etw. Einblick nehmen										
 	scrub	reiben	schaben	sich schürfen	reibend streichen	abwischen	trockenwischen	streifen						
 	wherefore (n.)	Veranlassung	Grund	Ursache										
-	take out	herausziehen	herausnehmen	(einen Teil) wegnehmen										
+	take out	herausziehen	herausnehmen											
 	oil	Öl												
 	first	der erste der zehn Himmelsstämme	das erste	das beste	erstklassig									
 	pawn (v.)	verpfänden	etw. als Pfand geben	unterschreiben	unterzeichnen	eskortieren								
@@ -1815,7 +1815,7 @@ KARTE	bewitching	betörend
 	abandon	aufgeben	auf etw. verzichten											
 	wipe away	wischen	abwischen											
 	yank (v.)	ziehen	zerren	reißen	abreißen									
-	drag (v.)	schleppen	ziehen	hinauszögern	verzögern									
+KARTE	drag (v.)	schleppen												
 	publicize	aufheben	aufrichten	worfeln	verbreiten	etw. in Umlauf bringen								
 	engage in	tun	machen	verrichten	sich mit etw. beschäftigen	fertigen	erzeugen	schaffen	gründen	errichten	erbauen			
 	bump into	zusammenstoßen	stoßen	treffen	begegnen									
@@ -2468,7 +2468,7 @@ KARTE	bewitching	betörend
 	confuse	durcheinanderbringen	vermischen											
 	Chinese mugwort	Beifuß	Wermut											
 	Good grief!	Oh mein Gott!	Ah	Oje	Ach, du meine Güte!	Meine Güte!								
-	pull out	ziehen	ausziehen	ausreißen										
+	pull out	ausreißen	herausreißen	herausziehen										
 	climb (v.)	klettern	klimmen											
 	stockpile (v.)	einlagern	speichern	auf Halde legen	auf Vorrat anlegen	stationieren	einquartieren							
 	pause (n./v.)	Pause												
@@ -2522,9 +2522,9 @@ KARTE	bewitching	betörend
 	bee	Biene	Wespe											
 	peak (n.)	Gipfel	Spitze											
 	cutting edge	Schneide	Klinge											
-	chance upon	treffen	sich begegnen	auf etw/jn. stoßen										
+	chance upon	jemanden treffen	sich begegnen	auf etw/jn. stoßen	auf jemanden treffen									
 	disheveled	zerzaust	locker	lockig	wirr									
-	sew	nähen												
+	sew	nähen	Naht											
 	play an instrument	vortragen	ein Musikstück vortragen	auf einem Instrument spielen										
 	gather together	sammeln	zusammentun	zusammenbringen										
 	Qin	Qin												

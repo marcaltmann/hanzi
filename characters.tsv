@@ -10,27 +10,27 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	nine	neun
 	ten	zehn
 	mouth	Mund
-	day	Sonne
-	month	Mond
-	rice field	Feld
+	day	Tag
+	month	Monat
+	rice field	Feld	Reisfeld
 	eye	Auge
 	ancient	Altertum	altertümlich
-	recklessly	rücksichtslos	willkürlich	leichtsinnig	unverantwortlich
+	recklessly	leichtsinnig
 	I (literary)	ich (literarisch)
-	companion	Freund	Begleiter
+	companion	Gefährte
 	bright	hell
-	goods	Gegenstand	Sache	Produkt	Ware
-	sparkling	glitzernd	Kristall
-	prosperous	blühen	gedeihen	blühend	gedeihlich
+	goods	Ware
+	sparkling	glitzernd	funkelnd
+	prosperous	gedeihlich
 	sing	singen
 	early	früh
-	rising sun	Strahlen der aufgehenden Sonne
-	generation	Generation	Welt
+	rising sun	aufgehende Sonne
+	generation	Generation
 	stomach	Magen
-	daybreak	Tagesanbruch	Morgen
-	concave	konkav	hohl	vertieft
-	convex	konvex	nach außen gewölbt
-	oneself	selbst	selber	persönlich
+	daybreak	Tagesanbruch
+	concave	konkav
+	convex	konvex
+	oneself	selber	selbst
 	white	weiß
 	hundred	hundert
 	soap	Seife
@@ -38,155 +38,155 @@ CARD	KEYWORD	TRANSLATION_01	TRANSLATION_02	TRANSLATION_03	TRANSLATION_04	TRANSLA
 	thousand	tausend
 	tongue	Zunge
 	liter	Liter
-	rise up	steigen	sich aufwärts bewegen
-	pill	Pille	Kügelchen
-	divination	Wahrsagerei	Weissagung	Vorhersage
+	rise up	aufsteigen
+	pill	Pille
+	divination	Weissagung	Vorhersage
 	tell fortunes	wahrsagen
 	above	oben
 	below	unten
-	card	Karte
-	eminent	bemerkenswert	hervorragend	ausgezeichnet
+	card	Karte	Steckkarte
+	eminent	hervorragend
 	dynasty	Dynastie
-	ridicule (v.)	verspotten	lächerlich machen	verhöhnen
+	ridicule (v.)	verspotten	verhöhnen
 	only	nur
-	shellfish	Schalentier
-	paste (v.)	kleben
-	chaste	treu	keusch	Keuschheit
-	employee	Mitarbeiter	Beschäftigter	Mitglied
+	shellfish	Schalentier	Muschel
+	paste (v.)	aufkleben
+	chaste	keusch
+	employee	Mitarbeiter	Mitglied
 	see	sehen
-	beginning	Anfang	anfänglich
-	page	Seite
-	stubborn	stur
-	ordinary	gewöhnlich	alltäglich	ordinär
+	beginning	Anfang	Ursprung
+	page	Buchseite
+	stubborn	stur	starrköpfig
+	ordinary	gewöhnlich
 	muscle	Muskel
-	defeated	besiegt werden	verlieren	sich etw. zuziehen	etw. auf dem Rücken tragen
+	defeated	besiegt werden	verlieren	belastet
 	uniform (adj.)	gleichmäßig
 	sentence (n.)	Satz
-	decameron	Zehntagezeitraum
-	ladle	Schöpflöffel	Schöpfkelle
-	bull‘s eye	die Mitte einer Zielscheibe
+	decameron	Zeitraum von zehn Tagen
+	ladle	Schöpflöffel
+	bull‘s eye	"das ""Schwarze"""
 	heads	Haupt
 	straight	gerade
-	set up	legen	stellen	unterbringen	installieren	einbauen
+	set up	einbauen	installieren
 	tool	Werkzeug
 	true	wahr
-	work (n.)	Arbeit	Arbeiter
+	work (n.)	Arbeit
 	left (n./adj.)	links
 	right (n./adj.)	rechts
-	possess	haben
-	bribe (n.)	bestechen
-	tribute	Tribut
-	item	Projekt	Punkt	Nacken	Eintrag
-	sword	Messer
+	possess	haben	besitzen
+	bribe (n.)	bestechen	Bestechung
+	tribute	Tribut	Abgabe
+	item	Punkt 1, 2, 3 (etc.)
+	sword	Messer	Schwert
 	blade	Klinge
-	cut (v.)	schneiden	zerschneiden
+	cut (v.)	schneiden
 	summon	herbeirufen
-	evident	hell	klar	offensichtlich	evident	deutlich
-	rule (n.)	Richtschnur	Regel	Vorschrift
-	vice-	Vize-	stellvertretend
-	fourth	viertens	vierte
+	evident	deutlich	offensichtlich	evident
+	rule (n.)	Regel		Vorschrift
+	vice-	Vize-
+	fourth	viertens
 	sting (v.)	stechen
 	can (aux. v.)	können
 	older brother	großer Bruder
-	crest (n.)	höchster Punkt	Scheitel	Spitze
-	second (adj.)	zweites
+	crest (n.)	Scheitelpunkt
+	second (adj.)	zweitens
 	child	Kind
-	cavity	Öffnung	Loch
+	cavity	Öffnung	Loch	Aushöhlung
 	roar (v.)	brüllen
-	-ed	ge-
+	-ed	(Perfek)-t
 	woman	Frau
 	good	gut
-	be like	sein wie	wie etw. sein
+	be like	sein wie	so wie
 	mother	Mutter
-	pierce	sich durch etw. ziehen	lochen	durchbohren
+	pierce	durchbohren
 	elder brother	älterer Bruder
-	overcome (v.)	überwinden	sich überwinden	Gramm
+	overcome (v.)	überwinden
 	small	klein
 	few	wenig
-	noisy	Krach machen	zanken	Radau machen	poltern	lärmen
+	noisy	lärmend
 	large	groß
-	tip (n.)	Spitze	spitz	Zinke
-	evening	Abend
-	many	viel
+	tip (n.)	Spitze
+	evening	Abend	Tagesende
+	many	viel	viele
 	enough	genug
-	outside	außen	Außen-
+	outside	außen	draußen
 	name (n.)	Name
-	thick	dick	tief
+	thick	dick
 	stone	Stein
 	gravel	Kies
-	wonderful	wunderbar	wundervoll	ausgezeichnet
+	wonderful	wundervoll
 	resemble	ähneln
 	peel (v.)	schälen
-	ray	Licht	Strahl
-	overly	allzu	übermäßig
-	economize	sparsam sein	Provinz	sparen
-	strange	kurios	außergewöhnlich	merkwürdig
-	stream (n.)	Fluss	Strom	Bach
+	ray	Licht
+	overly	allzu
+	economize	sparen
+	strange	kurios	außergewöhnlich	merkwürdig	seltsam
+	stream (n.)	Fluss
 	state (n.)	autonomer Bezirk	Bezirk
-	obey	befolgen	folgen	entlang	in derselben Richtung	mit
+	obey	befolgen
 	water (n.)	Wasser
-	eternity	immer	ewig	fortwährend
-	request (v.)	nach etw. verlangen	dringend bitten	anflehen
-	spring (n.)	Quelle	Springquelle	Geysir
-	flatlands	Ebene	Flachland	ursprünglich	eigentlich	original
-	wish (n.)	Wunsch	Hoffnung	Begehren
-	wash away	spülen	aufbrühen	etw. mit kochendem Wasser übergießen
+	eternity	immer	ewig	Ewigkeit
+	request (v.)	nach etw. verlangen	dringend bitten	nachfragen
+	spring (n.)	Springquelle	Geysir
+	flatlands	Ebene	Flachland
+	wish (n.)	Wunsch	wollen
+	wash away	spülen
 	swim (v.)	schwimmen
 	continent	Kontinent
-	marsh	Teich	Sumpf	Morast
+	marsh	Morast
 	sand (n.)	Sand
 	Yangtze	Yangtse
 	juice (n.)	Saft
-	tide	Gezeiten	Ebbe und Flut
-	source	Quelle	Ursprung	Ursprung eines Flusses
-	lively	lebendig	leben
-	extinguish	beseitigen	entfernen	zerstreuen
-	situation	Situation	Zustand	Lage
-	river	Fluss	Strom
+	tide	Gezeiten
+	source	Quelle
+	lively	lebendig
+	extinguish	beseitigen	entfernen	tilgen
+	situation	Situation
+	river	Strom
 	lake	See
-	fathom (v.)	messen
+	fathom (v.)	vermessen
 	soil (n.)	Erde
-	equal	gleich
+	equal	gleich	ausgewogen
 	belly	Bauch
-	fill in	füllen	auffüllen	anfüllen	ausfüllen
+	fill in	ausfüllen
 	spit (v.)	spucken
-	waaah!	Waaa!
-	Chinese inch	Chinesisches Zoll
-	seal (v.)	schließen	verschließen	siegeln
-	Buddhist temple	Buddhistischer Tempel
+	waaah!	Uäääh!
+	Chinese inch	chinesisches Zoll
+	seal (v.)	versiegeln
+	Buddhist temple	buddhistischer Tempel
 	time (n.)	Zeit
 	fire (n.)	Feuer
 	ashes	Asche
 	vexed (adj.)	verdrossen	missmutig	verärgert
-	inflammation	Entzündung	brennend heiß
-	thin (adj.)	wässerig	dünn
+	inflammation	Entzündung
+	thin (adj.)	wässerig	dünn	blass
 	disaster	Katastrophe
-	illuminate	scheinen	leuchten	beleuchten	fotografieren
+	illuminate	scheinen	leuchten
 	fish (n.)	Fisch
 	fishing (n.)	Fischfang
-	Yao	Yao
+	Yao	Kaiser Yao
 	fever	Fieber
 	dawn (n.)	Morgendämmerung
 	li	Li
-	quantity	Menge	Quantität
-	bury	begraben	vergraben	zudecken	bedecken	mit Erde bedecken
+	quantity	Menge
+	bury	vergraben	begraben
 	black	schwarz
-	spot (n.)	Punkt	Fleck	Tropfen
-	black ink	schwarzer Tuschstab	chinesische Tusche	schwarze Tusche
-	risk (v.)	riskieren	emporsteigen	hochsteigen	ungeachtet (einer Gefahr)
-	same	dasselbe
-	cave	Höhle	Grotte	Loch
-	orientation	Richtung	gegen	nach
-	esteem (v.)	wertschätzen	(berücksichtigen)
+	spot (n.)	Punkt	Fleck
+	black ink	schwarze Tusche
+	risk (v.)	riskieren
+	same	dasselbe	identisch
+	cave	Höhle	Grotte
+	orientation	Richtung	Orientierung
+	esteem (v.)	wertschätzen
 	character	Schriftzeichen
-	guard (v.)	bewachen	schützen	verteidigen
-	finish (v.)	enden	beenden	fertig
-	reality	Tatsache	Realität
-	proclaim	verkünden	öffentlich machen	bekanntgeben
-	nighttime	Nacht
-	peaceful	friedlich	ruhig	Ruhe	Sicherheit
-	banquet	Festmahl	Festgelage
-	mail (v.)	verschicken	versenden	abschicken	absenden	schicken
+	guard (v.)	bewachen
+	finish (v.)	vollenden	beenden
+	reality	Wirklichkeit
+	proclaim	verkünden
+	nighttime	Nacht	in den Puppen
+	peaceful	friedlich
+	banquet	Festmahl
+	mail (v.)	verschicken	versenden	per Post senden
 	wealthy	reich	wohlhabend
 	store up	speichern	aufbewahren
 	tree	Holz	Baum
@@ -2932,7 +2932,7 @@ KARTE	drag (v.)	schleppen
 	filling	Füllung	Füllung für Kuchen u.ä.
 	vehicles	Fahrzeug	Fahrzeuge
 	dissemble	verheimlichen	verschweigen	für sich behalten
-	frank (adj.)	klar	heiter	frisch	offenherzig	gerade	sich wohl fühlen
+	frank (adj.)	offenherzig
 	embellish	schmücken	dekorieren	zusammenflicken	zusammennähen	ausschmücken
 	bump (v.)	berühren	stoßen	treffen	begegnen	auf jn stoßen
 	transfer (v.)	verrücken	verlegen	rücken	verschieben
@@ -2968,7 +2968,7 @@ KARTE	shy	schüchtern
 KARTE	New York	New York
 KARTE	spleen	Milz
 KARTE	beer	Bier
-KARTE	stele	Stele
+KARTE	stele	Stele	Denkmal
 	illustrious	prominent	hervorragend	auffällig	bemerkenswert	Hertz
 	terrify	schrecken	erschrecken	einschüchtern	verblüffen
 	radiating vitality	Kraft und Energie ausstrahlen

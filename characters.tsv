@@ -855,7 +855,7 @@ KARTE	elementary	elementar
 	lesson	Lektion
 	granule	Kügelchen	Körnchen			Korn
 	catty (n.)	Pfund	Jin
-	place (n.)	Sitz	Platz	Stelle
+	place (n.)	Stelle
 	near	nah
 	hew	abhacken
 	temporary	zeitweilig	vorübergehend
@@ -887,122 +887,122 @@ KARTE	elementary	elementar
 	crowd (n.)	Meute
 	and	und
 	need (v.)	brauchen	bedürfen	etw. nötig haben
-	Confucian	Konfuzianische Schule
-	auspicious	Gutes verheißend	glückbringend	glücklich	glückhaft	Glück
-	upright	aufrecht	richtig	etw. waagerecht halten	etw. waagerecht tragen
-	bent	krumm	gekrümmt	gebeugt
-	Big Dipper	der Große Bär	der Große Wagen	Dou (10 Liter)	Dou-Maß
+	Confucian	Konfuzianische Schule	konfuzianisch
+	auspicious	Gutes verheißend	glückbringend	günstig
+	upright	aufrecht
+	bent	krumm
+	Big Dipper	Großer Wagen
 	material (n.)	Material
 	academic discipline	wissenschaftliche Disziplin
 	utilize	benutzen	anwenden	verwenden	gebrauchen
 	times past	Vergangenheit
-	borrow	entleihen	leihen	borgen
-	mistaken	Fehler	Irrtum	falsch	irrtümlich	versehentlich
+	borrow	leihen
+	mistaken	irrtümlich	irrig
 	scattered	verstreut	auseinander	sich lösen	sich lockern	auseinandergehen	lose
 	scatter	streuen	ausstreuen	spritzen	verstreuen	zerstreuen	verschütten
-	prepare	vorbereiten	bereiten	bereithalten	Vorkehrungen treffen
+	prepare	vorbereiten
 	twenty	zwanzig
-	mat	Matte	Strohmatte	Sitz	Platz
+	mat	Matte
 	degrees	Grad
-	ferry (n./v.)	übersetzen	überqueren	Fährstelle	Übergang
+	ferry (n./v.)	Fähre
 	half (n./adj.)	Hälfte
-	partner	Gefährte	Partner	Begleiter	Gesellschafter
-	fat (adj.)	dick	beleibt	korpulent	dickleibig
-	judge (v.)	unterscheiden	auseinanderhalten	beurteilen	entscheiden	verurteilen	ein Urteil fällen
-	dependents	Familienangehörige(r)
-	boxing (n.)	Faustkampf
-	victory	Sieg	die Oberhand gewinnen
+	partner	Partner
+	fat (adj.)	fett	beleibt
+	judge (v.)	urteilen	beurteilen
+	dependents	Familienangehöriger	Angehöriger
+	boxing (n.)	Boxen
+	victory	Sieg
 	slice (n.)	Scheibe
-	printing plate	Druckplatte	Druckstock	Klischee	Matrize	Auflage	Ausgabe
-	put on makeup	Make-up auflegen	sich schminken
-	robust	stark	kräftig	verstärken	kräftigen
-	hamlet	Dorf	Gut	Gehöft	Dörfchen
-	attire (n.)	schmücken	sich verkleiden	Kleidung	Tracht
+	printing plate	Druckplatte
+	put on makeup	schminken
+	robust	stark	kräftig	robust
+	hamlet	Dorf	Gut	Gehöft	Dörfchen	Ortschaft
+	attire (n.)	Tracht
 	General	General
-	of	von
-	weary	mangeln	müde	matt	erschöpft	abgespannt
-	blink (v.)	zwinkern	blinzeln
-	no	nein	nicht
-	negate	verneinen	nein sagen	nein
-	cup	Becher	Tasse	Glas	Pokal
+	of	von	des
+	weary	müde	matt	erschöpft	abgespannt
+	blink (v.)	blinzeln
+	no	nein	nicht	negativ
+	negate	verneinen
+	cup	Tasse	Becher
 	dart (n.)	Pfeil
 	tribe	ethnische Gruppe
-	know	wissen	kennen	Bescheid wissen	Wissen	Kenntnis
-	wisdom	Weisheit	Klugheit	weise	klug
-	spear (n.)	Speer	Lanze
-	gentle	weich	biegsam	geschmeidig	sanft	sanftmütig	lind
-	knead	reiben	kneten
-	tasks	Angelegenheit	Geschäfte
-	fog	Nebel	Dunst
+	know	wissen
+	wisdom	Weisheit
+	spear (n.)	Speer
+	gentle	sanft
+	knead	kneten
+	tasks	Angelegenheit
+	fog	Nebel
 	bestow	geben	gewähren	jm etw. zukommen lassen	verleihen
-	preface (n.)	Reihenfolge	Ordnung	Einleitung	Vorwort
-	beforehand	vorher	im voraus
-	wild (adj.)	wild	unkultiviert	ungezähmt	offenes Land	nicht an der Macht sein
-	class (n.)	Klasse	Schulklasse	Team
+	preface (n.)	Einleitung	Vorwort
+	beforehand	im voraus
+	wild (adj.)	wild
+	class (n.)	Klasse
 	bow (n.)	Bogen
-	draw (v.)	ziehen	anspannen
-	strong	stark	kräftig
+	draw (v.)	ziehen	anspannen	anziehen
+	strong	stark
 	weak	schwach
-	bullet	Kugel	Kügelchen	Geschoss	Bombe
+	bullet	Projektil	Geschoss
 	Buddha	Buddha
 	expense	Kosten	Gebühr
 	younger brother	jüngerer Bruder
-	No.	Ordnungszahl
+	No.	Nr.
 	adroit	geschickt	gewandt
-	somebody	Rumpf	Körper	selbst	persönlich
-	shoot (v.)	schießen	feuern
-	thank	danken	sich bedanken
-	old man	älterer Herr	betagt
-	take an exam	eine Prüfung abhalten	eine Prüfung ablegen
-	roast (v.)	backen
-	filial piety	Kindespflicht	Pietät
-	teach	lehren	unterrichten
-	someone	jemand	jemand mit einer Eigenschaft	derjenige mit einer Eigenschaft
+	somebody	Rumpf	Körper	Leib
+	shoot (v.)	schießen
+	thank	danken
+	old man	alter Mann
+	take an exam	eine Prüfung ablegen
+	roast (v.)	backen	rösten
+	filial piety	Kindespflicht
+	teach	lehren
+	someone	jemand	jemand mit einer Eigenschaft	derjenige mit einer Eigenschaft	Person
 	-ing	gerade …	-nd
 	pig	Schwein
-	chase	verfolgen	nacheilen	jm nachsetzen	hinter jm her sein
+	chase	verfolgen
 	commander	Oberbefehlshaber	Oberkommandierender
-	teacher	Lehrer	Meister
+	teacher	Lehrer
 	lion	Löwe
-	bureaucrat	Beamter	Staatsangestellter
-	pipe	Rohr	Röhre	Leitung
+	bureaucrat	Beamter	Bürokrat
+	pipe	Rohr
 	father	Vater
-	mingle	mit jm Bekanntschaft schließen	mit jm Umgang pflegen
-	effect (n.)	Effekt	Wirkung
-	relatively	vergleichsweise	relativ	verhältnismäßig
+	mingle	Umgang pflegen mit
+	effect (n.)	Effekt
+	relatively	relativ	vergleichsweise
 	school (n.)	Schule
-	lower leg	Fuß	Bein	genügend	genug	ausreichend
-	run (v.)	laufen	rennen
-	jump (v.)	springen	hüpfen
-	path	Weg	Straße	Pfad
-	dew	Tau
-	skeleton	Knochen	Gerüst	Gestell	Gerippe	Rückgrat	Wesensart	Charakter
-	slippery	glatt	rutschig	schlüpfrig	gleiten	rutschen
-	cross (v.)	hinübergehen	überschreiten	überqueren	passieren
-	Apollo	Alpen
-	aah!	Ah!
-	occasion	Gelegenheit	Grenze	Rand
-	perilous	Gefahr	Risiko	schwer passierbare Stelle	enger Pass	Barriere
-	as you wish	nach Belieben	beiläufig	nebenbei	folgen	sich fügen
+	lower leg	Fuß	Bein	Unterschenkel
+	run (v.)	rennen
+	jump (v.)	springen
+	path	Pfad
+	dew	Tau	Tautropfen
+	skeleton	Skelett
+	slippery	rutschig
+	cross (v.)	hinübergehen	überqueren
+	Apollo	die Alpen
+	aah!	Ah!	Ach!
+	occasion	Gelegenheit	Grenze	Rand	Anlass
+	perilous	Gefahr	Risiko	schwer passierbare Stelle	enger Pass
+	as you wish	nach Belieben	wie es beliebt
 	Yang	Yang
-	exhibit (v.)	ausstellen	etw. zur Schau stellen
-	ward off	verteidigen	schützen	sich in acht nehmen	Vorkehrungen treffen	vorbeugen	Damm	Deich
-	attach	beifügen	beilegen
-	Inst.	Hof	umzäuntes Grundstück	Regierungsinstitution	Institution	Anstalt	Anstalt des öffentlichen Lebens
-	battle formation	Schlachtordnung	Front
-	team	Mannschaft	Team
+	exhibit (v.)	ausstellen
+	ward off	verteidigen	schützen	sich in acht nehmen	abwehren	vorbeugen
+	attach	beifügen
+	Inst.	Hof	Institution	Inst.
+	battle formation	Schlachtordnung	Formation
+	team	Mannschaft
 	descend	fallen	sinken	senken	etw. sinken lassen
-	stairs	Stufe	Treppenstufe
-	hole	Höhle	Nest	Loch	Akupunkturpunkt
-	research (v.)	erforschen	untersuchen	einer Sache auf den Grund gehen
-	abruptly	plötzlich	vorspringend	Kamin
-	empty	leer	hohl
-	control (v.)	beherrschen	dominieren	herrschen
+	stairs	Treppe	Treppenstufe	Stufe
+	hole	Loch
+	research (v.)	erforschen
+	abruptly	unvermittelt
+	empty	leer
+	control (v.)	beherrschen
 	border	Seite	Grenze	Grenzgebiet
 	deep	tief
-	spy (n.)	Detektiv	Kundschafter	Späher	auskundschaften	sondieren	etw. vorsichtig erkunden
-	hill	Erdhügel	Hügelchen
-	troops	Waffe	Kampfgerät	Soldat	Truppe
+	spy (n.)	Detektiv	Spion
+	hill	Hügel
+	troops	Truppe	Soldat
 	silk	Seide
 	line (n.)	Linie
 	maintain	bewahren	zusammenhalten	aufrechterhalten

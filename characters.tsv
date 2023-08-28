@@ -1522,11 +1522,11 @@ HALB	brand (n.)	Marke
 	moor (v.)	anlegen
 	get rid of	aussondern
 	soak	benetzen
-	insignificant	fern und undeutlich	in der Ferne verschwimmend	sehr klein	unbedeutend	winzig
+	insignificant	unbedeutend
 	gland	Drüse
 	level (adj.)	eben
 	newborn (n.)	Neugeborenes
-	bank (n.)	Rand	Grenze	Saum?
+	bank (n.)	Saum	Küstensaum
 	inch	Zoll	englisches Zoll
 	elbow (n.)	Ellbogen
 	scorch	versengen
@@ -1622,14 +1622,14 @@ KARTE	obscure (adj./v.)	finster
 	inquire	sich erkundigen
 	penalize	bestrafen
 	place an order	abonnieren	bestellen
-	chant (v.)	rezitativisch singen	psalmodieren	in poetischer Form erzählen	(Ode?)
+	chant (v.)	rezitativisch singen	psalmodieren	intonieren
 	espionage	Spionage
 	annotate	anmerken	mit Anmerkungen versehen	Anmerkung
 	forgive	verzeihen
 	praise (v.)	loben	rühmen	preisen	Lobschrift	Lobrede
 	II	II
 	sick and tired of	es satt haben
-	discharge (v.)	entweichen	ausströmen	ein Geheimnis preisgeben	preisgeben	Nachrichten offenbaren	offenbaren	Luft machen	freien Lauf lassen
+	discharge (v.)	ablassen	ausströmen	Luft machen	freien Lauf lassen
 	paddle (v.)	rudern	paddeln
 	caw (n.)	krachen	quietschen	quaken
 	domain	Domäne
@@ -1741,7 +1741,7 @@ KARTE	bewitching	betörend	verführerisch
 	sparrow	Spatz
 	all at once	auf einmal	plötzlich
 	exert oneself	sich anstrengen	sich ins Zeug legen	sich aufraffen
-	take by force	etw. gewaltsam wegnehmen	etw. an sich reißen	rauben	entreißen
+	take by force	gewaltsam wegnehmen	wegnehmen
 	turn upward	sich an einem Ende in die Höhe heben	sich nach oben biegen (od. krümmen)	anheben
 	fall down	einstürzen		zusammenfallen	einsinken
 	writing brush	Pinsel	Schreibfeder
@@ -2367,7 +2367,7 @@ KARTE	drag (v.)	schleppen
 	trade (n.)	Handel
 	pomegranate	Granatapfel
 	doubt (v.)	zweifeln	verdächtigen	Argwohn	Zweifel
-	obstruct	hindern	behindern	jn Steine in den Weg legen
+	obstruct	Steine in den Weg legen	im Weg stehen	behindern
 	congeal	gerinnen	gefrieren	erstarren	fest werden
 	simulate	nachahmen	imitieren	simulieren	kopieren	JESSICA
 	exquisite	das Klingen aneinanderschlagender Jadestücke
@@ -2775,7 +2775,7 @@ KARTE	drag (v.)	schleppen
 	hydrogen	Wasserstoff
 	strengthen	festigen	konsolidieren
 	tyrant	Tyrann	Despot	Führer des Bundes der Herzöge im alten China	Hegemon
-	dam (n.)	Staudamm	Sperrmauer	Talsperre	Damm	Deich	Schutzdamm gegen Hochwasser
+	dam (n.)	Damm
 	tighten	straffziehen	zuschnüren	zubinden
 	bow respectfully	Fellball	ernähren	großziehen	sich beugen	sich verbeugen
 	boots	Stiefel

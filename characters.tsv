@@ -1544,17 +1544,17 @@ HALB	brand (n.)	Marke
 	cypress	Zypresse
 	thick stick	Reckstange
 	flouds	Blolken
-	prevent	versperren	stopfen
+	prevent	verhindern
 	cassia-bark tree	chinesischer Zimtbaum
 	chair	Stuhl
 	hero	Held	überragend
 	cherry	Kirsche
-	treetops	Zweigspitze	Wipfel
+	treetops	Astspitze	Wipfel
 	paulownia	Paulownie
 	Song	Song
 	drench	begießen
 	burn (v.)	verbrennen
-KARTE	obscure (adj./v.)	finster
+KARTE	obscure (adj./v.)	finster	verschleiert
 	vermilion	zinnoberrot
 	tree trunk	Baumstamm
 	roof beam	Dachbalken	Brücke
@@ -1748,7 +1748,7 @@ KARTE	bewitching	betörend	verführerisch
 	throat	Rachen
 	in-law (adj.)	Schwieger-
 	temple	Tempel	buddhistischer Tempel	Tempelmarkt
-	side room	Flügelzimmer	seitliche Teile eines ebenerdigen Hauses	Seitenraum	Abteil	abgeteilter Raum
+	side room	Flügelzimmer	Nebenzimmer
 	(pause marker)	(Pausenzeichen)
 	grind (v.)	schleifen				wetzen
 	skyscraper	Hochhaus	großes Gebäude
@@ -2331,7 +2331,7 @@ KARTE	drag (v.)	schleppen
 	shell out	zahlen	bezahlen	entrichten	aushändigen
 	request the presence of	einladen
 	embroidery	sticken	Stickerei
-	edible root	Kletterpflanze	Rübe
+	edible root	Rübe
 	gong	Gong
 	make the rounds	patroullieren	auf Streife gehen
 	bamboo basket	Bambuskorb	feinmaschiger Bambuskorb
@@ -2687,7 +2687,7 @@ KARTE	drag (v.)	schleppen
 	baseball base	mauern	aufschichten	Wallanlage	Schutzwall	Festungswall	Base (Baseball)
 	hoe (n./v.)	Hacke	hacken
 	thicket	Gebüsch	Gesträuch
-	plain (adj.)	einfach	schlicht
+	plain (adj.)	schlicht
 	pounce on	sich auf etw./jn stürzen	sich auf etw./jn werfen
 	servant	Diener	Dienstpersonal
 	musical score	Musiknoten	Noten zu einem Musikstück	Partitur (nur mehrstimmig)
@@ -3041,3 +3041,4 @@ KARTE	stele	Stele	Denkmal
 	xun	räuchern
 	shang	Tageszeit	Abschnitt des Tages
 淌	tǎng	rinnen	triefen
+苟	gǒu	fahrlässig

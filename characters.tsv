@@ -1659,11 +1659,11 @@ KARTE	obscure (adj./v.)	finster	verschleiert
 	sail (n.)	Segel
 	width of cloth	Stoffbahn
 	brocade	Brokat
-	copious	reichlich
-	persimmon	Kakipflaume	Kaki	Persimone
+	copious	reichlich	voller
+	persimmon	Kakipflaume	Persimone
 	stir up trouble	Unruhe stiften	Radau machen
-	thorn bushes	Dornbusch
-	jujube	Jujube	Chinesische Dattel
+	thorn bushes	Dornenbusch
+	jujube	Jujube
 	flower bud	Knospe
 	gulp down	verschlingen
 KARTE	bewitching	betörend	verführerisch
@@ -1687,7 +1687,7 @@ KARTE	bewitching	betörend	verführerisch
 	chop (v.)	fällen	hacken
 	hump (n.)	Bodenunebenheit
 	cook (v.)	kochen
-	think highly of	hochachten	respektieren	verehren	vom Kaiser persönlich	ästimieren
+	think highly of	hochachten	respektieren	verehren	ästimieren
 	cut open	sezieren	aufschneiden
 	bodhisattva	Bodhisattwa
 	mango	Mango
@@ -1824,7 +1824,7 @@ KARTE	drag (v.)	schleppen
 	joggle (v.)	rütteln
 	harass	belästigen
 	act without authority	eigenmächtig
-	altar	Altar	Plattform	Tribüne	Podest
+	altar	Altar
 	tremble	zittern
 	rude	rüde
 	take precautions against	sich hüten
@@ -2533,7 +2533,7 @@ KARTE	drag (v.)	schleppen
 	sigh (v.)	seufzen
 	arduous	hart	schwierig
 	beach (n.)	Strand
-	complete (v.)	vollenden
+	complete (v.)	vollenden	beenden
 	saliva	Speichel
 	recite	rezitieren
 	greedy	gierig
@@ -3047,3 +3047,4 @@ KARTE	stele	Stele	Denkmal
 胳	gē	obere Extremität
 炕	kàng	Kang	beheiztes Ziegelbett
 墩	dūn	Erdhaufen
+襖	ǎo	gefütterte Jacke	gefütterte Joppe

@@ -1717,9 +1717,9 @@ KARTE	bewitching	betörend	verführerisch
 	hail	Hagel
 	pursue	verfolgen	nachjagen	vertreiben	ausweisen	hinausjagen
 	satisfy	zufriedenstellen
-	Mongolia	Monggol-Nationalität	Mongolei
+	Mongolia	Mongolei
 	dim (adj.)	mattes Mondlicht	verschwommen	neblig	dunstig
-	unrestrained	Person von überragender Fähigkeit	mannhaft und beherzt	frei und ungezwungen	unbändig	despotisch	gewalttätig
+	unrestrained	unbändig
 	peck (v.)	picken
 	chisel (v.)	meißeln
 	marry	heiraten
@@ -1739,10 +1739,10 @@ KARTE	bewitching	betörend	verführerisch
 	lop off	abtrennen
 	allow	genehmigen	erlauben	bewilligen
 	sparrow	Spatz
-	all at once	auf einmal	plötzlich
+	all at once	unversehens	auf einmal
 	exert oneself	sich anstrengen	sich ins Zeug legen	sich aufraffen
 	take by force	gewaltsam wegnehmen	wegnehmen
-	turn upward	sich an einem Ende in die Höhe heben	sich nach oben biegen (od. krümmen)	anheben
+	turn upward	sich an einem Ende in die Höhe heben	sich nach oben krümmen	sich anheben
 	fall down	einstürzen		zusammenfallen	einsinken
 	writing brush	Pinsel	Schreibfeder
 	throat	Rachen
@@ -2266,8 +2266,8 @@ KARTE	drag (v.)	schleppen
 	exercise (n.)	drillen	üben	exerzieren	trainieren	Drill	Übung
 	parched	trocken
 	leap (v.)	springen	hüpfen	großer Sprung
-	jab (v.)	stechen	hineinstechen	stoßen
-	show off (v.)	loben	rühmen	prahlen	scheinen	leuchten	blenden
+	jab (v.)	stochern
+	show off (v.)	blenden	scheinen	leuchten	prahlen	prunken
 	cunning	schlau	listig
 	marrow	Knochenmark
 	dirty	dreckig
@@ -2956,7 +2956,7 @@ KARTE	drag (v.)	schleppen
 	candle	Kerze
 	touch (v.)	berühren	auf etw. stoßen	mit etw. in Kontakt kommen
 	admonish	ermahnen	einschärfen	raten
-	railing	Geländer	Brüstung	Balustrade	Hürde	Koppel	Pferch	Stall
+	railing	Geländer
 	impede	versperren	aufhalten	zurückhalten	Einhalt gebieten
 	tracks	Fußabdruck	Spur	Fußspur
 	shrug (v.)	emporragen	Bestürzung hervorrufen	Furcht einflößen	die Schultern zucken	mit den Achseln zucken
@@ -3050,3 +3050,4 @@ KARTE	stele	Stele	Denkmal
 襖	ǎo	gefütterte Jacke	gefütterte Joppe
 黯	àn	düster
 淤	yū	Schlick	Schlamm
+雌	cí	weiblich

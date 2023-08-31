@@ -1753,7 +1753,7 @@ KARTE	bewitching	betörend	verführerisch
 	grind (v.)	schleifen				wetzen
 	skyscraper	Wolkenkratzer
 	toilet	Toilette
-	realize	verstehen	auf einmal verstehen	gewahr werden	nach langer Überlegung zur Einsicht kommen	jm geht ein Licht auf
+	realize	gewahr werden	auf einmal verstehen	nach langer Überlegung zur Einsicht kommen	jemandem geht ein Licht auf	Heureka!	begreifen
 	loyal	loyal
 	mourn	trauern
 	prudent	umsichtig
@@ -1767,7 +1767,7 @@ KARTE	bewitching	betörend	verführerisch
 	just right	gerade recht
 	fearful	verängstigt
 	overjoyed	fröhlich
-	more and more	besser	je mehr … desto …
+	more and more	umso mehr	je mehr … desto …
 	be bewildered	verwirrt	verblüfft	konfus
 	terror-stricken	von Schrecken gepackt
 	be scared of	furchterfüllt
@@ -1778,7 +1778,7 @@ KARTE	bewitching	betörend	verführerisch
 	loathe	hassen	verabscheuen	Ekel vor etw. empfinden
 	shun	scheuen
 	thinking	Denken	allein	einzig	nur	aber
-	be frightened	Angst	Furcht	Schrecken
+	be frightened	Angst haben
 	troubles	Sorgen
 	provoke	hervorrufen
 	kindness	Wohltat	Gunst	Güte	Gnade
@@ -2180,12 +2180,12 @@ KARTE	drag (v.)	schleppen
 	voucher	Karte	Schein	Ticket
 	rattan	Rattan	Peddigrohr
 	state of affairs	Zustand	Form	Aussehen	Erscheinung
-	wall	Wand	Mauer
+	wall	Wand
 	old cooking pot	antikes Kochgefäß	Dreifuß	Vierfuß
 	get some shuteye	Schlafzimmer	Mausoleum	Grabzimmer	schlafen
 	invade	einfallen	eindringen
 	immerse	einweichen	wässern	eintauchen	eintunken	tränken
-	stolen goods	Diebesgut	gestohlenes Gut	Diebesbeute
+	stolen goods	Diebesgut
 	hide (v.)	verbergen	verstecken	weglegen	verdecken	verheimlichen
 	guts	Eingeweide
 	award (n.)	Prämie	Belohnung	Preis
@@ -2270,7 +2270,7 @@ KARTE	drag (v.)	schleppen
 	show off (v.)	blenden	scheinen	leuchten	prahlen	prunken
 	cunning	schlau	listig
 	marrow	Knochenmark
-	dirty	dreckig
+	dirty	schmutzig
 	whirlpool	Wirbel	Strudel	Vertiefung
 	pot	Topf	Kochtopf	Kessel
 	snail	Schnecke
@@ -2881,7 +2881,7 @@ KARTE	drag (v.)	schleppen
 	melt	auftauen	schmelzen
 	separate (v.)	trennen	aufteilen	dazwischenliegen
 	filter (v.)	filtern	seihen
-	celebrate	feiern	gratulieren
+	celebrate	feiern
 	recommend	empfehlen	Gras	Stroh	Strohmatte
 	outstanding	außerordentlicher Mensch	außergewöhnlicher Mensch	Held	Heros	überragend	außergewöhnlich	hervorragend
 	instant	Augenblick
@@ -2913,7 +2913,7 @@ KARTE	drag (v.)	schleppen
 	insert (v.)	stecken	hineinstecken	aufstecken	einsetzen
 	ruin (v.)	zerstören	vernichten	verbrennen	verleumden	diffamieren
 	mother‘s brother	Onkel mütterlicherseits	Bruder der Mutter	Schwager
-	stake (n.)	Pfahl	Stange
+	stake (n.)	Pflock
 	bore a hole	meißeln	stemmen	Meißel	Stechbeitel
 	mouse	Maus	Ratte
 	scurry	auf und davon laufen	in Panik davonstürzen	fliehen	ausreißen
@@ -2941,10 +2941,10 @@ KARTE	drag (v.)	schleppen
 	islet	kleine Insel	Inselchen
 	thick-headed	dumm	wirrköpfig	doof	töricht	stur	starrsinnig	schwerfällig
 	brick	Ziegel	Ziegelstein
-	favor (n.)	Gunst	Wohltat	Vergünstigung	(Gefallen)	Gefallen
+	favor (n.)	Gefälligkeit	Gunst
 	ear of grain	Ähre
-	expansive	weit	ausgedehnt	geräumig	frei von Sorgen und Ängsten
-	mine (n.)	Zeche	Bergwerk	Erz
+	expansive	großräumig	ausgedehnt
+	mine (n.)	Bergwerk
 	enlarge	ausdehnen	erweitern	verbreitern	vergrößern
 	smart	Hörvermögen	ein feines Gehör	hellhörig	klug	gescheit	intelligent
 	onion	Zwiebelgemüse	Zwiebel

@@ -1817,9 +1817,9 @@ KARTE	bewitching	betörend	verführerisch
 	yank (v.)	zerren
 KARTE	drag (v.)	schleppen
 	publicize	bekanntmachen
-	engage in	tun	machen	verrichten	sich mit etw. beschäftigen	fertigen	erzeugen	schaffen	gründen	errichten	erbauen
+	engage in	betreiben	befassen mit	verrichten
 	bump into	kollidieren
-	handpick	pflücken	extrahieren	auswählen	ausziehen
+	handpick	extrahieren
 	lash together	zusammenzurren	zusammenbinden	festzurren
 	joggle (v.)	rütteln
 	harass	belästigen
@@ -1844,7 +1844,7 @@ KARTE	drag (v.)	schleppen
 	outlaw (n.)	Gangster
 	knock (v.)	klopfen
 	pour into	eingießen
-	authority	Recht
+	authority	Befugnis	Recht
 	resolute	resolut
 	limb	Gliedmaße
 	prostitute	Prostituierte
@@ -2035,7 +2035,7 @@ KARTE	drag (v.)	schleppen
 	conceal	bedecken	zuhalten	zudecken	zumachen	zuschließen
 	prod (v.)	drängen	antreiben	beschleunigen
 	wreck (v.)	brechen	zerbrechen	zerstören
-	take along	mitnehmen	(mitbringen)	(etw. in einer Hand tragen)
+	take along	mit sich führen
 	symbol	Symbol
 	loan (n.)	Kredit
 	Holland	Holland
@@ -2045,7 +2045,7 @@ KARTE	drag (v.)	schleppen
 	chivalrous person	ritterlich	ritterlich gesinnt	gerechtigkeitsliebend
 	cheek	Wange
 	narrow (adj.)	schmal
-	coerce	durch Drohungen veranlassen	jm seinen Willen aufzwingen	unter den Arm nehmen	unter dem Arm halten	unter den Arm klemmen
+	coerce	nötigen
 	gorge (n.)	Schlucht	Enge
 	umbrella	Schirm
 	assemble	sich versammeln	zusammenkommen	zusammentreffen
@@ -2882,7 +2882,7 @@ KARTE	drag (v.)	schleppen
 	separate (v.)	trennen	aufteilen	dazwischenliegen
 	filter (v.)	filtern	seihen
 	celebrate	feiern
-	recommend	empfehlen	Gras	Stroh	Strohmatte
+	recommend	empfehlen
 	outstanding	außerordentlicher Mensch	außergewöhnlicher Mensch	Held	Heros	überragend	außergewöhnlich	hervorragend
 	instant	Augenblick
 	Chinese unicorn	chinesisches Einhorn	Qilin
@@ -2945,7 +2945,7 @@ KARTE	drag (v.)	schleppen
 	ear of grain	Ähre
 	expansive	großräumig	ausgedehnt
 	mine (n.)	Bergwerk
-	enlarge	ausdehnen	erweitern	verbreitern	vergrößern
+	enlarge	vergrößern
 	smart	Hörvermögen	ein feines Gehör	hellhörig	klug	gescheit	intelligent
 	onion	Zwiebelgemüse	Zwiebel
 	gall bladder	Gallenblase
@@ -2957,7 +2957,7 @@ KARTE	drag (v.)	schleppen
 	touch (v.)	berühren	auf etw. stoßen	mit etw. in Kontakt kommen
 	admonish	ermahnen	einschärfen	raten
 	railing	Geländer
-	impede	versperren	aufhalten	zurückhalten	Einhalt gebieten
+	impede	aufhalten
 	tracks	Fußabdruck	Spur	Fußspur
 	shrug (v.)	emporragen	Bestürzung hervorrufen	Furcht einflößen	die Schultern zucken	mit den Achseln zucken
 KARTE	pharmaceutical (n.)	pharmazeutisches Präparat
@@ -3054,3 +3054,5 @@ KARTE	stele	Stele	Denkmal
 愣	lèng	verdutzt
 捎	shāo	überbringen
 擰	nǐng	schrauben	winden	wringen
+搓	cuō	mit den Händen reiben	rubbeln
+梗	gěng	Stängel	Stiel	Strunk

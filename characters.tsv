@@ -1790,11 +1790,11 @@ KARTE	bewitching	betörend	verführerisch
 	honey	Honig
 	rub (v.)	reiben	schaben	studieren	nach etw. forschen	über etw. nachgrübeln
 	moth	Motte
-	pick pockets (v.)	zusammenrechen	zusammenharken	auf kleiner Flamme weich kochen	schmoren
-	button (n./v.)	zuknöpfen
+	pick pockets (v.)	zusammenharken	stibitzen
+	button (n./v.)	zuknöpfen	knöpfen
 	contribute	spenden	stiften	beisteuern	verzichten	aufgeben	hingeben	opfern
 	racquet	Schläger
-	clapping sound	Knall	Klatschgeräusch	Knacken
+	clapping sound	Knall	Patsch
 	damage (v.)	schaden
 	carry over the shoulder	auf der Schulter tragen
 	prick (v.)	piksen
@@ -2492,7 +2492,7 @@ KARTE	drag (v.)	schleppen
 	select (v.)	auswählen	wählen	aussuchen
 	swamp (n.)	Gebiet mit großer Wasseransammlung	Sumpf	Moor
 	pad (n./v.)	Polster
-	earnest	aufrichtig	ehrlich	echt	herzlich
+	earnest	lauter	aufrichtig	ehrlich
 	entangle	sich verwickeln	sich verstricken	zusammenrotten	zusammentrommeln
 	bully (v.)	beleidigen	schikanieren	Eisscholle
 	water caltrop	Wassernuss
@@ -2688,7 +2688,7 @@ KARTE	drag (v.)	schleppen
 	hoe (n./v.)	Hacke	hacken
 	thicket	Gebüsch	Gesträuch
 	plain (adj.)	schlicht
-	pounce on	sich auf etw./jn stürzen	sich auf etw./jn werfen
+	pounce on	sich stürzen auf
 	servant	Diener	Dienstpersonal
 	musical score	Musiknoten	Noten zu einem Musikstück	Partitur (nur mehrstimmig)
 	fool (v.)	betrügen	täuschen	übertölpeln	jn um etw. prellen
@@ -3052,3 +3052,5 @@ KARTE	stele	Stele	Denkmal
 淤	yū	Schlick	Schlamm
 雌	cí	weiblich
 愣	lèng	verdutzt
+捎	shāo	überbringen
+擰	nǐng	schrauben	winden	wringen

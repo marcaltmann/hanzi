@@ -1585,7 +1585,7 @@ KARTE	obscure (adj./v.)	finster	verschleiert
 	fight (v.)	kämpfen	streiten	ringen	Kampf
 	plug (n.)	Stöpsel
 	pillar	Pfeiler
-	hook (n./v.)	Haken	anhaken	einhaken	hakenförmiger Strick
+	hook (n./v.)	Haken
 	paper money	Geldschein
 	put up for sale	absetzen
 	lock (n./v.)	Schloss
@@ -1860,7 +1860,7 @@ KARTE	drag (v.)	schleppen
 	appropriate (adj.)	angemessen	zweckmäßig	geeignet
 	notice (v.)	Notiz nehmen von
 	consent (v.)	einwilligen
-	cross out	anhaken	anstreichen	wegstreichen	skizzieren	konturieren	umreißen
+	cross out	wegstreichen	abhaken	skizzieren
 	promote	eintreten	vorgehen	vorrücken	befördert werden
 	magnificent	grandios
 	fetus	Fötus	Leibesfrucht
@@ -2171,7 +2171,7 @@ KARTE	drag (v.)	schleppen
 	fling (v.)	etw. hin und her schwingen	schwenken	schleudern
 	rue (v.)	bedauern	Mitleid fühlen	hochschätzen	mit etw. sparsam umgehen	mit etw. schonend umgehen
 	arrange	arrangieren	organisieren	einrichten
-	forsake	wegwerfen	preisgeben	fallenlassen	aufgeben
+	forsake	preisgeben
 	swallow (n.)	Schwalbe
 	screen (v.)	bedecken	zudecken	verdecken	verschleiern	Schutz gegen etw. bieten	vor etw. schützen
 	littoral (n.)	Feldrand	an der Seite	dicht an
@@ -2446,7 +2446,7 @@ KARTE	drag (v.)	schleppen
 	reclaim	urbar machen	kultivieren
 	leopard	Leopard
 	cat	Katze
-	mien	Gesichtszüge	Miene	Aussehen	Erscheinung
+	mien	Gesichtszüge	äußere Gestalt	Erscheinung
 	lucent	hell	klar	laut und deutlich
 	wolf	Wolf
 	starving	hungrig sein	Hunger haben	Hungersnot	Hunger
@@ -2684,7 +2684,7 @@ KARTE	drag (v.)	schleppen
 	coarse	grob	grobkörnig	rauh	dick	vulgär	roh
 	block (v.)	hindern	verhindern	aufhalten	blockieren
 	heap (v.)	aufeinanderschichten	auftürmen	aufhäufen
-	baseball base	mauern	aufschichten	Wallanlage	Schutzwall	Festungswall	Base (Baseball)
+	baseball base	mauern	Wall	Baseball-Mal
 	hoe (n./v.)	Hacke	hacken
 	thicket	Gebüsch	Gesträuch
 	plain (adj.)	schlicht
@@ -2709,7 +2709,7 @@ KARTE	drag (v.)	schleppen
 	crab (n.)	Krabbe
 	lax	schlaff	locker
 	purchase (v.)	anschaffen	ankaufen	kaufen
-	ditch (n.)	Graben	Schützengraben	Kanal
+	ditch (n.)	Graben
 	key	Schlüssel
 	plead	appellieren	aufrufen	Appell	Aufruf
 	Vol.	Heft	Buch	Band	Exemplar	(Band und Exemplar: ZEW)
@@ -2890,8 +2890,8 @@ KARTE	drag (v.)	schleppen
 	neighbor	Nachbar
 	bask	von der Sonne bescheinen lassen	sonnen
 	spill (v.)	spritzen	bespritzen	sprengen	besprengen	verspritzen	verschütten
-	cease	eine Tätigkeit einstellen	mit etw. aufhören	aufhören
-	put in order	Pendel	schwenken	hin und her bewegen	stellen	setzen	legen
+	cease	aufhören
+	put in order	Pendel	ausstellen	herzeigen	herausstellen
 	lips	Lippe
 	disgrace (n./v.)	Schmach	Schande	Demütigung
 	quake (v.)	beben	erschüttern	vibrieren
@@ -3056,3 +3056,4 @@ KARTE	stele	Stele	Denkmal
 擰	nǐng	schrauben	winden	wringen
 搓	cuō	mit den Händen reiben	rubbeln
 梗	gěng	Stängel	Stiel	Strunk
+怡	yí	heiter

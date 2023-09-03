@@ -1648,7 +1648,7 @@ KARTE	obscure (adj./v.)	finster	verschleiert
 	son-in-law	Schwiegersohn
 	tailor (v.)	schneiden	zuschneiden	abschneiden	ausschneiden	beschneiden	verringern	reduzieren	entlassen
 	socks	Socke
-	trundle (v.)	rollen	wälzen	sich davonscheren	sich trollen
+	trundle (v.)	rollen	wälzen
 	decline (v.)	verfallen
 	innermost feelings	innerste Gefühle	Herzensgrund
 	meditation	anhaltende kontemplative Versenkung	tiefe Meditation	völlige Meditation	buddhistisch
@@ -1882,15 +1882,15 @@ KARTE	drag (v.)	schleppen
 	cliff	Klippe
 	charcoal	Holzkohle
 	carbon	Kohlenstoff
-	await hopefully	sich nach etw. sehnen	nach etw. verlangen	hoffen	blicken	schauen
-	promulgate	erlassen	verkünden	bekanntmachen
-	essence	Wohlgeruch	Duft
-	play the part of	mimen	sich verkleiden	sich kostümieren	sich als jemanden ausgeben
-	diverge	abzweigen	sich gabeln	sich seitwärts wenden
-	extol	rühmen	preisen	Loblied	Hymne	Ode
-	litigate	einen Rechtsstreit bei Gericht anhängig machen	prozessieren
+	await hopefully	sehnsüchtig erwarten	sich nach etwas sehnen
+	promulgate	erlassen
+	essence	Bukett
+	play the part of	mimen	sich verkleiden	darstellen
+	diverge	abzweigen	sich gabeln
+	extol	rühmen	preisen
+	litigate	vor Gericht gehen
 	elderly man	Greis
-	abundant	reichlich	im Überfluss vorhanden
+	abundant	reichlich	im Überfluss vorhanden	wohlsituiert
 	banyan	Banyanbaum
 	prize	Auszeichnung
 	attempt (v.)	einst	einmal	ehemals	(versuchen)	(probieren)
@@ -1974,7 +1974,7 @@ KARTE	drag (v.)	schleppen
 	chrysanthemum	Chrysantheme
 	rough	roh	grob	rauh
 	grain	Korn	Körnchen
-	brilliant	glänzend	strahlend	glorreich	prächtig	herrlich
+	brilliant	glänzend	strahlend	schimmernd
 	powder	Pulver
 	squint (v.)	ins Auge kommen (Fremdkörper)
 	currency	Währung
@@ -2034,7 +2034,7 @@ KARTE	drag (v.)	schleppen
 	inundate	überfluten	überschwemmen
 	conceal	bedecken	zuhalten	zudecken	zumachen	zuschließen
 	prod (v.)	drängen	antreiben	beschleunigen
-	wreck (v.)	brechen	zerbrechen	zerstören
+	wreck (v.)	beschädigen	zerbrechen	zerstören
 	take along	mit sich führen
 	symbol	Symbol
 	loan (n.)	Kredit
@@ -2046,7 +2046,7 @@ KARTE	drag (v.)	schleppen
 	cheek	Wange
 	narrow (adj.)	schmal
 	coerce	nötigen
-	gorge (n.)	Schlucht	Enge
+	gorge (n.)	Schlucht
 	umbrella	Schirm
 	assemble	sich versammeln	zusammenkommen	zusammentreffen
 	frustrate	vereiteln	durchkreuzen
@@ -2827,9 +2827,9 @@ KARTE	drag (v.)	schleppen
 	steel	Stahl
 	hillock	kleiner Hügel	Hügelchen	Anhöhe	Bodenerhebung
 	guidelines	Hauptleine (eines Netzes)	Hauptkettenglied	Programm	Klasse
-	go against	widerstreben	entgegen	zuwider	entgegengesetzt	jm Widerstand entgegensetzen
-	go upstream	gegen den Strom	stromaufwärts	sich etw. ins Gedächtnis zurückrufen	zurückdenken
-	plastic (n.)	formen	modellieren	Plastik	Kunststoff
+	go against	widerstreben	zuwiderlaufen
+	go upstream	stromaufwärts fahren
+	plastic (n.)	Plastik
 	vat	Tongefäß	irdener Topf	großer Behälter
 	jar	Büchse	Dose	Topf	Krug
 	depressed	trübsinnig	schwermütig	bedrückt	deprimiert	üppig	gedeihend
@@ -3057,3 +3057,6 @@ KARTE	stele	Stele	Denkmal
 搓	cuō	mit den Händen reiben	rubbeln
 梗	gěng	Stängel	Stiel	Strunk
 怡	yí	heiter
+峭	qiào	abschüssig
+嗡	wēng	summen	Schwirren
+熔	róng	schmelzen	verschmelzen

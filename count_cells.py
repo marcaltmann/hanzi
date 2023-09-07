@@ -1,5 +1,13 @@
 import csv
 
+def prepare_reader():
+    tsv_file_path = 'characters.tsv'
+    file = open(tsv_file_path)
+    reader = csv.reader(file, delimiter='\t')
+    next(reader)  # Skip the header row
+    return reader
+
+
 def count_filled_cells(reader):
     filled_cells = 0
 
@@ -11,10 +19,6 @@ def count_filled_cells(reader):
 
 
 # Example usage
-tsv_file_path = 'characters.tsv'
-
-with open(tsv_file_path) as file:
-    reader = csv.reader(file, delimiter='\t')
-    next(reader)  # Skip the header row
-    filled_cell_count = count_filled_cells(reader)
-    print(f'Total filled cells: {filled_cell_count}')
+reader = prepare_reader()
+filled_cell_count = count_filled_cells(reader)
+print(f'Total filled cells: {filled_cell_count}')

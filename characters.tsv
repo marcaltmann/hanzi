@@ -1968,15 +1968,15 @@ KARTE	drag (v.)	schleppen
 	plow (n.)	Pflug
 	calendar	Kalender
 	cake	Kuchen
-	batter	Kleister	Klebstoff	Kleber	kleben	kleistern
-	glue (v.)	kleben	an etw. haften
+	batter	Paste	Brei	Mus	Kleister
+	glue (v.)	kleben
 	provisions	Körner	Verpflegung	Getreidesoll	Getreideabgabe
 	chrysanthemum	Chrysantheme
-	rough	roh	grob	rauh
-	grain	Korn	Körnchen
+	rough	rauh
+	grain	Korn
 	brilliant	glänzend	strahlend	schimmernd
 	powder	Pulver
-	squint (v.)	ins Auge kommen (Fremdkörper)
+	squint (v.)	die Augen zusammenkneifen	blinzeln
 	currency	Währung
 	die a violent death	umkommen	krepieren	verrecken
 	shelter (n.)	zudecken	verbergen	Schutz gewähren	Zuflucht gewähren
@@ -2192,7 +2192,7 @@ KARTE	drag (v.)	schleppen
 	thick liquid	dicke Flüssigkeit
 	oar	Ruder
 	Jiang	Jiang
-	abyss	tiefes Wasser	tiefer Teich
+	abyss	tiefes Wasser
 	solemn	ernsthaft	ernst	ehrerbietig	respektvoll	feierlich
 	howl (v.)	pfeifen	heulen	brüllen
 	desolate	verwüstet	trostlos	verlassen
@@ -2785,9 +2785,9 @@ KARTE	drag (v.)	schleppen
 	prop up	abstützen	stützen
 	polished	normgerecht	ordentlich	korrekt	vornehm	nett	elegant
 	wicked	unrecht	übel	unsauber	ketzerisch	Krankheit verursachende Umwelteinflüsse
-	of great depth	von tiefer Bedeutung	abstrus	schwerverständlich	geheimnisvoll	mysteriös
-	deep inlet	Bucht mit Ankerplatz	tiefe Bucht
-	remorseful	bereuen	bedauern	ärgerlich	verärgert	verdrossen
+	of great depth	unergründlich	von tiefer Bedeutung
+	deep inlet	tiefe Bucht	Förde
+	remorseful	zerknirscht
 	be informed	all	ganz	wissen	erfahren
 	pilfer	stehlen	verstohlen	heimlich
 	painstaking	ausführlich	eingehend	etw. genau überprüfen
@@ -3061,3 +3061,4 @@ KARTE	stele	Stele	Denkmal
 嗡	wēng	summen	Schwirren
 熔	róng	schmelzen	verschmelzen
 蔓	wàn	Ranke
+粱	liáng	feine Hirse

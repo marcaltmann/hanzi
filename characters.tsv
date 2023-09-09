@@ -1979,15 +1979,15 @@ KARTE	drag (v.)	schleppen
 	squint (v.)	die Augen zusammenkneifen	blinzeln
 	currency	Währung
 	die a violent death	umkommen	krepieren	verrecken
-	shelter (n.)	zudecken	verbergen	Schutz gewähren	Zuflucht gewähren
-	cast aside	werfen	etw. beiseite legen	jn beiseite legen	jn über Bord werfen	vernachlässigen
-	fraud	Betrug	Schwindel
+	shelter (n.)	tarnen	Schutz gewähren	Zuflucht gewähren
+	cast aside	beiseite legen
+	fraud	Betrug
 	bamboo shoot	Bambusspross	Bambustrieb
-	tube	dickes Bambusrohr	dickes Rohr	Zylinder
-	construct	bauen	errichten	erbauen
-	stupid	dumm	geistig beschränkt	blöd	blöde
+	tube	Röhre	dickes Bambusrohr
+	construct	bauen
+	stupid	stupide
 	arrow	Pfeil
-	tendon	Sehne	Muskel
+	tendon	Sehne
 	V	V
 	animosity	Feindschaft
 	start (v.)	initiieren
@@ -2055,7 +2055,7 @@ KARTE	drag (v.)	schleppen
 	pick up (v.)	sammeln	auflesen
 	sign (v.)	unterschreiben	unterzeichnen
 	thrifty	sparsam	genügsam	haushälterisch
-	lambsquarters	Gänsefuß	Fuchsschwanz	(Radieschen?)
+	lambsquarters	Gänsefuß	Weißer Gänsefuß
 	kudzu	Kudzu
 	brown	braun
 	use up	aufbrauchen
@@ -2243,7 +2243,7 @@ KARTE	drag (v.)	schleppen
 	add your John Hancock	unterschreiben	unterzeichnen	anordnen	Amt	Büro	in Vertretung handeln	vertreten
 	yam	Kartoffel	Yamswurzel
 	come back	heimkehren	zurückkehren	zurückgeben	wiedergeben	zusammenlaufen	zusammenkommen
-	sift	sieben	durchsieben	Sieb	Wein erwärmen
+	sift	sieben
 	coffin	Sarg
 	dad	Vater	Papa	Vati
 	axe	Axt	Beil
@@ -2334,7 +2334,7 @@ KARTE	drag (v.)	schleppen
 	edible root	Rübe
 	gong	Gong
 	make the rounds	Streife gehen
-	bamboo basket	Bambuskorb	feinmaschiger Bambuskorb
+	bamboo basket	Bambuskorb
 	barbaric	grob	wild	roh	gewalttätig	barbarisch
 	neck (n.)	Hals
 	plant stem	Stängel	Stiel	Halm
@@ -2950,7 +2950,7 @@ KARTE	drag (v.)	schleppen
 	onion	Zwiebelgemüse	Zwiebel
 	gall bladder	Gallenblase
 	look upward	nach oben schauen
-	cuddle	jn in die Arme nehmen	umfassen	umarmen	jn auf den Schoß nehmen	Armlänge
+	cuddle	in die Arme nehmen	umschlingen
 	time and again	oft	häufig	wiederholt
 	turbid	trübe
 	candle	Kerze
@@ -3062,3 +3062,4 @@ KARTE	stele	Stele	Denkmal
 熔	róng	schmelzen	verschmelzen
 蔓	wàn	Ranke
 粱	liáng	feine Hirse
+憋	biē	unterdrücken

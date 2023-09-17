@@ -690,7 +690,7 @@ KARTE	elementary	elementar
 	don‘t	nicht tun!	nicht …!
 	turn (v.)	abbiegen
 	male (n.)	Mann
-	achievement	Verdienst	Leistung	Errungenschaft
+	achievement	Errungenschaft	Leistung	Verdienst
 	slave (n.)	Sklave
 	toil (v.)	sich anstrengen
 	add	addieren	hinzufügen
@@ -1609,7 +1609,7 @@ KARTE	obscure (adj./v.)	finster	verschleiert
 	hum (v.)	summen
 	honest	schlicht	ehrlich	aufrichtig	geradeheraus
 	whale	Wal
-	redeem	(Pfand) einlösen	einlösen	(Untat, Verbrechen) sühnen	sühnen	Sühne leisten	wiedergutmachen	für etw. bezahlen
+	redeem	wiedergutmachen	freikaufen	loskaufen
 	daylight	Tag	Tageszeit
 	Tianjin	Tianjin
 	smidgen	Klitzekleinigkeit	My
@@ -1718,7 +1718,7 @@ KARTE	bewitching	betörend	verführerisch
 	pursue	verfolgen	nachjagen	vertreiben	ausweisen	hinausjagen
 	satisfy	zufriedenstellen
 	Mongolia	Mongolei
-	dim (adj.)	mattes Mondlicht	verschwommen	neblig	dunstig
+	dim (adj.)	schummrig
 	unrestrained	unbändig
 	peck (v.)	picken
 	chisel (v.)	meißeln
@@ -2061,14 +2061,14 @@ KARTE	drag (v.)	schleppen
 	use up	aufbrauchen
 	take a rest	Rast machen
 	reveal	entlarven
-	promiscuous	ausschweifend	zügellos	unerlaubter Geschlechtsverkehr	unzüchtig
-	erect (adj.)	aufrecht	gerade	steif	straff	sich aufrichten
+	promiscuous	lüstern	unzüchtig	obszön
+	erect (adj.)	aufrecht	gerade	steif	geradewegs
 	tile	Dachziegel
 	porcelain	Porzellan
 	bottle	Flasche
 	aluminium	Aluminium
 	palace	Palast
-	lustrous	glänzend und durchsichtig	jadeartiger Stein	glänzend	kristallklar
+	lustrous	glänzend und durchsichtig	kristallklar
 	firefly	Glühwürmchen
 	scoop up	herausfischen
 	glowing	glänzend	leuchtend
@@ -2369,7 +2369,7 @@ KARTE	drag (v.)	schleppen
 	doubt (v.)	zweifeln	verdächtigen	Argwohn	Zweifel
 	obstruct	Steine in den Weg legen	im Weg stehen	behindern
 	congeal	gerinnen	gefrieren	erstarren	fest werden
-	simulate	nachahmen	imitieren	simulieren	kopieren	JESSICA
+	simulate	simulieren	nachahmen	imitieren
 	exquisite	das Klingen aneinanderschlagender Jadestücke
 	small bell	Klingel	Schelle
 	actor	Opernsänger	Schauspieler
@@ -2853,7 +2853,7 @@ KARTE	drag (v.)	schleppen
 	arrogant	hochmütig
 	gallop (v.)	schnell fahren	galoppieren
 	leech-hopper	Blutegel	Grashüpfer	Ameise	Bluthüpfer	Grasegel	Egelhüpfer
-	proof	sich anlehnen	sich auf etw. verlassen	Beweis	gemäß	entsprechend
+	proof	Beleg
 	maneuver (v.)	fahren	schnell fahren	rasen
 	disturb	Aufruhr	Unruhe	liederlich	wollüstig	kokett
 	drive (v.)	vorspannen	anspannen	fahren	lenken	steuern

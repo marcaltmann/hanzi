@@ -1747,7 +1747,7 @@ KARTE	bewitching	betörend	verführerisch
 	writing brush	Pinsel	Schreibfeder
 	throat	Rachen
 	in-law (adj.)	Schwieger-
-	temple	Tempel	buddhistischer Tempel	Tempelmarkt
+	temple	Tempel
 	side room	Flügelzimmer	Nebenzimmer
 	(pause marker)	(Pausenzeichen)
 	grind (v.)	schleifen				wetzen
@@ -2097,28 +2097,28 @@ KARTE	drag (v.)	schleppen
 	tears	Träne
 	enlighten	aufklären
 	fan (n.)	Fächer
-	can‘t help but	ertragen	zurechtkommen mit	?
-	funds	Geldmittel	Gelder	Geldsumme
-	evil spirit	böser Geist	böse Geister
-	wish well	wünschen	Gutes wünschen	jn etw. Gutes wünschen
-	propitious	günstig	glückverheißend
-	confidential	vertraulich				geheimhalten
-	console (v.)	trösten	beruhigen	jm gut zureden
-	luxuriant	üppig	prachtvoll	prunkvoll	luxuriös	(farbenprächtig)
+	can‘t help but	nicht umhin können
+	funds	Geldsumme
+	evil spirit	böser Geist
+	wish well	Gutes wünschen
+	propitious	glückverheißend
+	confidential	vertraulich
+	console (v.)	trösten
+	luxuriant	farbenprächtig	üppig	verschwenderisch
 	garlic	Knoblauch
 	palm tree	Palme
-	universe	alle Zeiten	Vergangenheit, Gegenwart und Zukunft	Zeit als Konzept
-	axle	Achse	(Spindel)
+	universe	Universum	Vergangenheit, Gegenwart und Zukunft
+	axle	Achse
 	sleeve	Ärmel
 	flute	Flöte
-	female	weiblich	feminin
-	groan	stöhnen	ächzen	seufzen
-	smooth	reibungslos	ungehindert	fließend
+	female	feminin
+	groan	stöhnen
+	smooth	reibungslos	ungehemmt
 	partnership	Gemeinschaft	Partnerschaft	sehr viel	zahlreich	eine Menge
 	nest (n.)	Nest
-	flora	Flora	Pflanzenwelt
-	naked	nackt	unbekleidet	unverhüllt
-	envelop	einwickeln	einhüllen	umwickeln
+	flora	Flora
+	naked	nackt
+	envelop	einwickeln
 	analyze	analysieren	spalten	trennen
 	distinct	klar	deutlich
 	celery	Sellerie
@@ -2474,7 +2474,7 @@ KARTE	drag (v.)	schleppen
 	pause (n./v.)	Pause
 	ton	Tonne
 	unadulterated	rein	lauter	unvermischt	makellos
-	fall due	fällig werden	ablaufen	verstreichen
+	fall due	fällig werden
 	teeth	Zahn	Zähne	Zähne?
 	shows	Schauen	Schau	Show	Shows
 	length of service	Alter	Lebensjahr	Dauer	Dienstjahr
@@ -2790,8 +2790,8 @@ KARTE	drag (v.)	schleppen
 	remorseful	zerknirscht
 	be informed	all	ganz	wissen	erfahren
 	pilfer	stehlen	verstohlen	heimlich
-	painstaking	ausführlich	eingehend	etw. genau überprüfen
-	auntie	Tante	Ehefrau eines jüngeren Bruders des Vaters
+	painstaking	eingehend
+	auntie	Tantchen
 	blanket (n.)	Bettdecke
 	milli-	feines Härchen	Pinsel	Milli-
 	consume	verbrauchen
@@ -3064,3 +3064,4 @@ KARTE	stele	Stele	Denkmal
 粱	liáng	feine Hirse
 憋	biē	unterdrücken
 屜	tì	Schublade
+凜	lǐn	frostig

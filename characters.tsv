@@ -1896,15 +1896,15 @@ KARTE	drag (v.)	schleppen
 	attempt (v.)	einst	einmal	ehemals	(versuchen)	(probieren)
 	taste (v.)	kosten	schmecken	abschmecken
 	palm of the hand	Handfläche
-	fend off	versperren	abwehren	verhindern	abhalten	verbergen
+	fend off	abblocken
 	chest	Brust
 	quite	recht
 	slope (n.)	Abhang
 	drape over the shoulders	um die Schultern hängen
 	the other	das Gegenüber
-	wrinkles	knittern	Falten ziehen
-	chick	Vogeljunge	Nestling
-	hasten	eilen	hasten
+	wrinkles	Falten
+	chick	Küken
+	hasten	hasten
 	spinach	Spinat
 	breed (v.)	sich fortpflanzen
 	dissimilar	unterschiedlich
@@ -1982,7 +1982,7 @@ KARTE	drag (v.)	schleppen
 	shelter (n.)	tarnen	Schutz gewähren	Zuflucht gewähren
 	cast aside	beiseite legen
 	fraud	Betrug
-	bamboo shoot	Bambusspross	Bambustrieb
+	bamboo shoot	Bambusspross
 	tube	Röhre	dickes Bambusrohr
 	construct	bauen
 	stupid	stupide
@@ -2135,12 +2135,12 @@ KARTE	drag (v.)	schleppen
 	blow up	bersten	explodieren	detonieren
 	swindle	schwindeln
 	wife	Ehefrau
-	miserable	kühl	frostig	einsam	verlassen	traurig	elend
+	miserable	betrübt	elend
 	perch (v.)	nisten	auf einem Baum nisten
 	goblin	Kobold
-	nimble	flink	geschickt	prompt	geschwind	agil	Sieg	Triumph
-	wield	fassen	halten	festhalten	etw. in Händen haben	vorsitzen	den Vorsitz ausüben	leiten
-	peel off	abstreifen	abschälen	abrinden
+	nimble	flink
+	wield	in der Hand halten
+	peel off	häuten	pellen	schälen
 	collection	Kollektion	Sammlung	Ansammlung
 	double (adj.)	doppelt
 	earn	Geld verdienen
@@ -2151,8 +2151,8 @@ KARTE	drag (v.)	schleppen
 	sickle	Sichel
 	drapes	Vorhang	Fenstervorhang	Gardine
 	unshut (v.)	aufschlagen
-	struggle (v.)	sich abmühen	sich anstrengen
-	Chinese zither	chinesische Zither	Zheng	zitherähnliches, vielsaitiges Instrument
+	struggle (v.)	sich abrackern
+	Chinese zither	chinesische Zither
 	pool (n.)	Weiher
 	arrest (v.)	festnehmen
 	bondservant	Leibeigener
@@ -2160,9 +2160,9 @@ KARTE	drag (v.)	schleppen
 	chaff	Spreu
 	mess around	tricksen
 	-proof	-fest
-	wheeze	schnaufen	außer Atem sein	schwer atmen	um Luft ringen	Asthma
+	wheeze	keuchen
 	conjecture (v.)	mutmaßen
-	messed up	Reisweintrester	faul	morsch	mürbe	in jämmerlichem Zustand	in völliger Unordnung	verpfuscht
+	messed up	in schlechtem Zustand
 	meet with	auf etwas stoßen
 	trough	Trog
 	quiver (v.)	schaudern
@@ -2182,9 +2182,9 @@ KARTE	drag (v.)	schleppen
 	state of affairs	Zustand	Form	Aussehen	Erscheinung
 	wall	Wand
 	old cooking pot	antikes Kochgefäß	Dreifuß	Vierfuß
-	get some shuteye	Schlafzimmer	Mausoleum	Grabzimmer	schlafen
-	invade	einfallen	eindringen
-	immerse	einweichen	wässern	eintauchen	eintunken	tränken
+	get some shuteye	sich auf's Ohr hauen
+	invade	eindringen	Übergriff	einfallen
+	immerse	durchtränken	einweichen
 	stolen goods	Diebesgut
 	hide (v.)	verstecken
 	guts	Eingeweide
@@ -2193,9 +2193,9 @@ KARTE	drag (v.)	schleppen
 	oar	Ruder
 	Jiang	Jiang
 	abyss	tiefes Wasser
-	solemn	ernsthaft	ernst	ehrerbietig	respektvoll	feierlich
-	howl (v.)	pfeifen	heulen	brüllen
-	desolate	verwüstet	trostlos	verlassen
+	solemn	feierlich
+	howl (v.)	heulen
+	desolate	desolat
 	rust (n./v.)	Rost	rosten
 	sesame	Sesam
 	devalue	abwerten	entwerten
@@ -2242,7 +2242,7 @@ KARTE	drag (v.)	schleppen
 	slaughter	schlachten	massakrieren	niedermetzeln
 	add your John Hancock	unterschreiben	unterzeichnen	anordnen	Amt	Büro	in Vertretung handeln	vertreten
 	yam	Kartoffel	Yamswurzel
-	come back	heimkehren	zurückkehren	zurückgeben	wiedergeben	zusammenlaufen	zusammenkommen
+	come back	zurückkehren
 	sift	sieben
 	coffin	Sarg
 	dad	Vater	Papa	Vati
@@ -2606,7 +2606,7 @@ KARTE	drag (v.)	schleppen
 	itch (v.)	jucken
 	paralysis	Lähmung
 	sore (n.)	Geschwür
-	stable (adj.)	stabil	fest	sicher
+	stable (adj.)	stabil
 	hidden	versteckt	verborgen	latent	etw. verborgen halten
 	addiction	Sucht
 	gigantic	gigantisch

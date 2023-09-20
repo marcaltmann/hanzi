@@ -2226,38 +2226,38 @@ KARTE	drag (v.)	schleppen
 	employ (v.)	engagieren
 	sacrifice (v.)	Opfertier	den Märtyrertod sterben	sein Leben hingeben	opfern
 	elder sister	große Schwester
-	lie down	liegen	sich hinlegen
-	dodge (v.)	sich verbergen	sich verstecken	ausweichen	meiden	sich in acht nehmen vor
-	stoop (v.)	sich biegen	sich nach vorn beugen	persönlich	selbst	eigen
-	hanker	Sucht	Vorliebe	gierig
-	flog	foltern	peinlich befragen
-	summer heat	Hitze	sehr heißes Wetter	(Sommerhitze)
-	behold	sehen	wahrnehmen
-	gamble (v.)	Glücksspiel	wetten	um Geld spielen
-	extravagant	luxuriös	verschwenderisch	überschwenglich	übertrieben	extravagant
-	stop up	stopfen	verstopfen	versperren
-	boil (v.)	kochen	Essen bereiten	Essen zubereiten
-	various	verschieden	all
-	put in storage	aufspeichern	lagern
-	slaughter	schlachten	massakrieren	niedermetzeln
-	add your John Hancock	unterschreiben	unterzeichnen	anordnen	Amt	Büro	in Vertretung handeln	vertreten
-	yam	Kartoffel	Yamswurzel
+	lie down	liegen
+	dodge (v.)	sich drücken
+	stoop (v.)	sich biegen
+	hanker	Sucht	Vorliebe	-phil	schmachten
+	flog	foltern
+	summer heat	Sommerhitze
+	behold	wahrnehmen
+	gamble (v.)	Glücksspiel	wetten
+	extravagant	extravagant
+	stop up	verstopfen
+	boil (v.)	kochen	sieden
+	various	verschiedene
+	put in storage	Vorrat anlegen
+	slaughter	niedermetzeln	metzeln
+	add your John Hancock	unterzeichnen
+	yam	Kartoffel
 	come back	zurückkehren
 	sift	sieben
 	coffin	Sarg
-	dad	Vater	Papa	Vati
-	axe	Axt	Beil
+	dad	Vati
+	axe	Axt
 	bite (v.)	beißen
-	sly	raffiniert	listig	schlau	verschlagen
-	prostrate oneself	auf dem Bauch liegen	sich auf den Bauch legen
-	trample	treten	betreten
-	tread on	stampfen	auf etw. herumtrampeln	mit Füßen treten
-	hoof	Huf
+	sly	listig
+	prostrate oneself	sich auf den Bauch legen
+	trample	betreten
+	tread on	auf etwas herumtrampeln
+	hoof	Hufe
 	catch (v.)	festnehmen	fangen	etw. in der Hand halten	fassen	ergreifen
 	step on	den Fuß auf etw. setzen	niedertrampeln	zertrampeln	mit dem Fuß auf etw. treten
 	hop (v.)	springen	hüpfen
 	slump (v.)	fallen	hinfallen	umfallen	stürzen	sinken	zurückgehen
-	urge (v.)	kurz	eilig	dringend	drängen	fördern	antreiben
+	urge (v.)	drängen
 	kick (v.)	einen Fußtritt versetzen	mit dem Fuß stoßen	nach jm/etw. treten	treten
 	impetuous	hitzig	aufbrausend	hitzköpfig	reizbar
 	chirping (n.)	zirpen	laut zwitschern	zwitschern
@@ -2938,7 +2938,7 @@ KARTE	drag (v.)	schleppen
 	transfer (v.)	verrücken	verlegen	rücken	verschieben
 	charge falsely	falsch beschuldigen	verleumden
 	reputation	Ruhm	Ruf
-	islet	kleine Insel	Inselchen
+	islet	Inselchen
 	thick-headed	dumm	wirrköpfig	doof	töricht	stur	starrsinnig	schwerfällig
 	brick	Ziegel	Ziegelstein
 	favor (n.)	Gefälligkeit	Gunst
@@ -3067,3 +3067,4 @@ KARTE	stele	Stele	Denkmal
 凜	lǐn	frostig
 浙	Zhè	Provinz Zhejiang
 挎	kuà	am Arm tragen
+姥	lǎo	Großmutter mütterlicherseits

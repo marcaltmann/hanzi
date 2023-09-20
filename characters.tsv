@@ -1581,7 +1581,7 @@ KARTE	obscure (adj./v.)	finster	verschleiert
 	crooked	verdreht
 	pearl	Perle
 	shocking	entsetzlich
-	crocodile	Krokodil	Alligator
+	crocodile	Krokodil
 	fight (v.)	kämpfen	streiten	ringen	Kampf
 	plug (n.)	Stöpsel
 	pillar	Pfeiler
@@ -1651,7 +1651,7 @@ KARTE	obscure (adj./v.)	finster	verschleiert
 	trundle (v.)	rollen	wälzen
 	decline (v.)	verfallen
 	innermost feelings	innerste Gefühle	Herzensgrund
-	meditation	anhaltende kontemplative Versenkung	tiefe Meditation	völlige Meditation	buddhistisch
+	meditation	Meditation
 	ape	Menschenaffe
 	dangle	herablassen	an einem Seil herablassen
 	handkerchief	Taschentuch
@@ -2201,31 +2201,31 @@ KARTE	drag (v.)	schleppen
 	devalue	abwerten
 	nonspecific	unspezifisch
 	askew	schräg
-	rectify	korrigieren	berichtigen	richtigstellen	begradigen	gerademachen
+	rectify	richtigstellen
 	short of stature	untersetzt
-	sigh–ay-ay	Ach!
-	fine dust	Staub	feiner Staub
-	suffer	erleiden	ertragen	erdulden	ausstehen	aushalten	durchmachen	durchstehen
-	cluster (n.)	Haufen	Traube	Bündel	Menge	Strauß
-	thatch (n.)	Dachstroh	Stroh	Reet	Alang-Alang-Gras
+	sigh–ay-ay	Oh weh…
+	fine dust	feiner Staub
+	suffer	erleiden
+	cluster (n.)	Häufung
+	thatch (n.)	Reet
 	tangerine	Mandarine
-	relax	strecken	erstrecken	entfalten	ausbreiten	gemächlich
-	noble	großartig	prächtig	erweitern	verbreiten	popularisieren
-	barbarian	Barbar	einebnen	abtragen	Ausländer	ausrotten	austilgen
-	maternal aunt	Schwester der Mutter	Tante	Tante mütterlicherseits
-	dividing line	Grenze	Grenze eines Landes	Grenze eines Gebietes
-	stiff (adj.)	starr	steif	sich festfahren	auf einen toten Punkt anlangen	in eine Sackgasse geraten
+	relax	strecken	entfalten	sich räkeln
+	noble	prächtig
+	barbarian	Barbar
+	maternal aunt	Tante mütterlicherseits
+	dividing line	Trennlinie	Grenze	Grenze eines Landes	Xinjiang
+	stiff (adj.)	steif
 	ginger	Ingwer
-	porridge	Brei	dicker Brei
-	bring to a boil	sieden
-	caress (v.)	etw. sanft streichen	streicheln
+	porridge	Haferbrei	Brei
+	bring to a boil	zum Kochen bringen
+	caress (v.)	streicheln	streichen
 	shave (v.)	rasieren
-	snot	Rotz	Träne
-	ladder	Leiter	Treppe
-	decayed	verfault	morsch	verfallen
-	employ (v.)	jn anstellen	anstellen	jn bitten, einen Posten zu übernehmen
+	snot	Rotz
+	ladder	Leiter
+	decayed	verfault
+	employ (v.)	engagieren
 	sacrifice (v.)	Opfertier	den Märtyrertod sterben	sein Leben hingeben	opfern
-	elder sister	ältere Schwester
+	elder sister	große Schwester
 	lie down	liegen	sich hinlegen
 	dodge (v.)	sich verbergen	sich verstecken	ausweichen	meiden	sich in acht nehmen vor
 	stoop (v.)	sich biegen	sich nach vorn beugen	persönlich	selbst	eigen
@@ -2412,7 +2412,7 @@ KARTE	drag (v.)	schleppen
 	tease (v.)	necken	hänseln	aufziehen
 	(rhetorical question)	(rhetorische Frage)
 	triumphant	siegreich	triumphierend
-	perpendicular	vertikal	senkrecht	lotrecht
+	perpendicular	vertikal
 	commend	loben	preisen	vornehm	ausgezeichnet
 	giggling	lachen	kichern	Kichern
 	alliance	sich verbünden	sich alliieren	Bündnis
@@ -2435,8 +2435,8 @@ KARTE	drag (v.)	schleppen
 	toss (v.)	schleudern
 	indulge in	verzögern	verschieben	für etw. schwärmen	schwärmen
 	pillow	Kopfkissen
-	view (v.)	anschauen	ansehen	besichtigen	überblicken
-	take on	etw. an sich ziehen	heranziehen	alles an sich reißen	etw. an sich reißen	jn in die Arme nehmen	befestigen
+	view (v.)	ansehen
+	take on	an sich ziehen
 	cable (n.)	Tau	Seil	Kabel	Trosse	Schiffstau
 	ruthless	grausam	unbarmherzig	sich überwinden	sich ein Herz fassen	energisch
 	hate (v.)	hassen	Hass
@@ -2863,7 +2863,7 @@ KARTE	drag (v.)	schleppen
 	drive away	vertreiben	zerstreuen	ein Pferd lenken	einen Wagen lenken	rasen	schnell rennen
 	cheat (v.)	betrügen	prellen	lügen	begaunern	beschwindeln
 	trot (v.)	traben
-	hand over	überreichen	übergeben	aushändigen	der Reihe nach	nacheinander
+	hand over	etwas übergeben
 	take captive	Kriegsgefangener	gefangennehmen
 	despotic	grausam	tyrannisch	unmenschlich	misshandeln
 	skin (n.)	Haut
@@ -2871,11 +2871,11 @@ KARTE	drag (v.)	schleppen
 	stove	Kochstelle
 	reeds	Schilf
 	donkey	Esel
-	loss	Verluste haben	Verluste erleiden	verlieren	Geld verlieren
-	filthy	schmutzig
-	stunned	verblüfft	erstaunt	bestürzt	in Staunen versetzt
-	brag	übertreiben	aufbauschen	sich übertrieben ausdrücken	preisen	loben
-	collapse (v.)	zusammenbrechen	einstürzen	zu Fall kommen
+	loss	Einbuße
+	filthy	schmutzig	dreckig
+	stunned	erstaunt
+	brag	prahlen	aufbauschen
+	collapse (v.)	zusammenbrechen
 	straddle (v.)	schreiten	ausschreiten	mit gespreizten Beinen dastehen	rittlings sitzen
 	donate	darbringen	darbieten	überreichen	widmen	etw. zur Schau tragen
 	melt	auftauen	schmelzen
@@ -3066,3 +3066,4 @@ KARTE	stele	Stele	Denkmal
 屜	tì	Schublade
 凜	lǐn	frostig
 浙	Zhè	Provinz Zhejiang
+挎	kuà	am Arm tragen

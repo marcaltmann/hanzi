@@ -1537,8 +1537,8 @@ HALB	brand (n.)	Marke
 	Hey!	Hey!
 	cinnabar red	mennigfarben
 	boisterous	laut	lärmend
-	visitor	Gast	Besucher?
-	water's edge	Gestade	Rand eines Gewässers
+	visitor	Besucher
+	water's edge	Gestade	Rand eines Gewässers	nah am Wasser
 	widowed	verwitwet
 	shed (n.)	Schuppen
 	cypress	Zypresse
@@ -2149,7 +2149,7 @@ KARTE	drag (v.)	schleppen
 	apology	Entschuldigung
 	inexpensive	preiswert
 	sickle	Sichel
-	drapes	Vorhang	Fenstervorhang	Gardine
+	drapes	Gardine
 	unshut (v.)	aufschlagen
 	struggle (v.)	sich abrackern
 	Chinese zither	chinesische Zither
@@ -2271,10 +2271,10 @@ KARTE	drag (v.)	schleppen
 	cunning	durchtrieben
 	marrow	Mark
 	dirty	schmutzig
-	whirlpool	Wirbel	Strudel	Vertiefung
-	pot	Topf	Kochtopf	Kessel
+	whirlpool	Strudel
+	pot	Topf
 	snail	Schnecke
-	misfortune	Unglück	Unfall	Verhängnis	Katastrophe
+	misfortune	Unglück
 	footpath	Feldweg
 	rift (n.)	Riss
 	steep	steil	abschüssig	jäh
@@ -2282,16 +2282,16 @@ KARTE	drag (v.)	schleppen
 	accompany	begleiten
 	tunnel (n.)	Tunnel
 	plunge (v.)	fallen	hinabstürzen	herabhängen	Gewicht
-	undesirable	hässlich	garstig	abstoßend	dürftig
-	dig (v.)	aushöhlen
+	undesirable	ärmlich	dürftig
+	dig (v.)	graben	aushöhlen
 	kiln	Brennofen
-	peep (v.)	lugen	heimlich blicken	heimlich beobachten	verstohlen blicken	spannen?
-	den	Felsenhöhle	Höhle	Grotte	Versteck
-	strait (adj.)	eng	schmal
+	peep (v.)	spähen
+	den	Felsenhöhle	Schlupfwinkel
+	strait (adj.)	eng
 	extract (v.)	auspressen
-	poverty-stricken	in bedrängten Umständen	in Not	in Bedrängnis	verlegen	peinlich berührt
-	poor	arm	armselig	dürftig
-	hollow (n.)	Mulde	Hohlraum
+	poverty-stricken	in der Patsche
+	poor	arm	am Ende seiner Mittel
+	hollow (n.)	Bau	Nest
 	body cavity	Körperhohlraum
 	tired	müde	erschöpft	ermattet
 	spiral shell	Schneckenhaus	Schnecke	Fingerwirbel	Fingerabdruck
@@ -2494,9 +2494,9 @@ KARTE	drag (v.)	schleppen
 	pad (n./v.)	Polster
 	earnest	lauter	aufrichtig	ehrlich
 	entangle	sich verwickeln	sich verstricken	zusammenrotten	zusammentrommeln
-	bully (v.)	beleidigen	schikanieren	Eisscholle
+	bully (v.)	schikanieren
 	water caltrop	Wassernuss
-	mausoleum	große Grabanlage	Mausoleum
+	mausoleum	Mausoleum
 	cough (v.)	husten
 	brake (v.)	bremsen
 	cry out	schreien	laut rufen
@@ -2607,7 +2607,7 @@ KARTE	drag (v.)	schleppen
 	paralysis	Lähmung
 	sore (n.)	Geschwür
 	stable (adj.)	stabil
-	hidden	versteckt	verborgen	latent	etw. verborgen halten
+	hidden	versteckt
 	addiction	Sucht
 	gigantic	gigantisch
 	canal	Kanal	Graben
@@ -2789,7 +2789,7 @@ KARTE	drag (v.)	schleppen
 	deep inlet	tiefe Bucht	Förde
 	remorseful	zerknirscht
 	be informed	all	ganz	wissen	erfahren
-	pilfer	stehlen	verstohlen	heimlich
+	pilfer	stehlen
 	painstaking	eingehend
 	auntie	Tantchen
 	blanket (n.)	Bettdecke
@@ -2878,8 +2878,8 @@ KARTE	drag (v.)	schleppen
 	collapse (v.)	zusammenbrechen
 	straddle (v.)	schreiten	ausschreiten	mit gespreizten Beinen dastehen	rittlings sitzen
 	donate	darbringen	darbieten	überreichen	widmen	etw. zur Schau tragen
-	melt	auftauen	schmelzen
-	separate (v.)	trennen	aufteilen	dazwischenliegen
+	melt	schmelzen
+	separate (v.)	trennen
 	filter (v.)	filtern	seihen
 	celebrate	feiern
 	recommend	empfehlen
@@ -2916,7 +2916,7 @@ KARTE	drag (v.)	schleppen
 	stake (n.)	Pflock
 	bore a hole	meißeln	stemmen	Meißel	Stechbeitel
 	mouse	Maus	Ratte
-	scurry	auf und davon laufen	in Panik davonstürzen	fliehen	ausreißen
+	scurry	davonlaufen
 	dried meat	Pökelfleisch
 	wax (n.)	Wachs
 	hunt (v.)	jagen
@@ -3068,3 +3068,6 @@ KARTE	stele	Stele	Denkmal
 浙	Zhè	Provinz Zhejiang
 挎	kuà	am Arm tragen
 姥	lǎo	Großmutter mütterlicherseits
+陕	Shǎn	Provinz Shaanxi
+稜	léng	Kante
+

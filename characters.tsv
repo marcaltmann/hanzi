@@ -2275,14 +2275,14 @@ KARTE	drag (v.)	schleppen
 	pot	Topf	Kochtopf	Kessel
 	snail	Schnecke
 	misfortune	Unglück	Unfall	Verhängnis	Katastrophe
-	footpath	Feldweg	Rain	Feldrain
-	rift (n.)	Spalt	Spalte	Riss	Ritze
-	steep	steil	abschüssig
-	barrier	Hindernis	Barriere
-	accompany	begleiten	jm Gesellschaft leisten
+	footpath	Feldweg
+	rift (n.)	Riss
+	steep	steil	abschüssig	jäh
+	barrier	Barriere
+	accompany	begleiten
 	tunnel (n.)	Tunnel
 	plunge (v.)	fallen	hinabstürzen	herabhängen	Gewicht
-	undesirable	hässlich	garstig	abstoßend
+	undesirable	hässlich	garstig	abstoßend	dürftig
 	dig (v.)	aushöhlen
 	kiln	Brennofen
 	peep (v.)	lugen	heimlich blicken	heimlich beobachten	verstohlen blicken	spannen?
@@ -2292,7 +2292,7 @@ KARTE	drag (v.)	schleppen
 	poverty-stricken	in bedrängten Umständen	in Not	in Bedrängnis	verlegen	peinlich berührt
 	poor	arm	armselig	dürftig
 	hollow (n.)	Mulde	Hohlraum
-	body cavity	Körperhohlraum	Körperöffnung
+	body cavity	Körperhohlraum
 	tired	müde	erschöpft	ermattet
 	spiral shell	Schneckenhaus	Schnecke	Fingerwirbel	Fingerabdruck
 	yarn	Garn

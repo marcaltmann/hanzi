@@ -2355,42 +2355,42 @@ KARTE	drag (v.)	schleppen
 	deride	auslachen
 	luminous	funkelnd	funkeln	glimmend
 	modest	(von einem Kaiser) abdanken	abdanken	bescheiden
-	unload	ausladen	entladen	demontieren
-	imperial	kutschieren	eine Kutsche lenken			JESSICA
-	withstand	sich widersetzen	sich wehren	sich zur Wehr setzen	abwehren
-	nest eggs	Ei	Laich	Eizelle	Nestei
-	hatch (v.)	brüten	ausbrüten
-	breast	Brust	Milch	gebähren
-	float (v.)	an der Oberfläche schwimmen	auf der Oberfläche schwimmen
-	captive	gefangennehmen	Gefangener	Kriegsgefangener
+	unload	entladen
+	imperial	kaiserlich
+	withstand	sich zur Wehr setzen
+	nest eggs	Nestei	Laich
+	hatch (v.)	brüten
+	breast	weibliche Brust
+	float (v.)	an der Oberfläche schwimmen	mit Auftrieb
+	captive	Kriegsgefangener
 	minister	Minister	hoher Beamter
 	trade (n.)	Handel
 	pomegranate	Granatapfel
-	doubt (v.)	zweifeln	verdächtigen	Argwohn	Zweifel
+	doubt (v.)	zweifeln
 	obstruct	Steine in den Weg legen	im Weg stehen	behindern
-	congeal	gerinnen	gefrieren	erstarren	fest werden
+	congeal	gerinnen
 	simulate	simulieren	nachahmen	imitieren
-	exquisite	das Klingen aneinanderschlagender Jadestücke
-	small bell	Klingel	Schelle
-	actor	Opernsänger	Schauspieler
-	mountain range	Bergkette
-	bucket	Kübel	Eimer	Fass	Tonne
-	read aloud	vortragen	vorlesen	etw. auswändig vortragen
-	gush (v.)	quellen	sprudeln	strömen	hervorquellen
+	exquisite	das Klingen aneinanderschlagender Jadestücke	exquisit
+	small bell	Glöckchen
+	actor	Mime
+	mountain range	Gebirgskette
+	bucket	Eimer
+	read aloud	vortragen
+	gush (v.)	sprudeln
 	eagerly	aufspringen	hüpfen
-	exam paper	Buch	Band	Prüfungsbogen	Prüfungsaufgabe	Prüfungsarbeit
-	circle (n.)	Kreis	Ring
+	exam paper	Prüfungsbogen
+	circle (n.)	Kreis
 	roll up	einrollen
-	worn out	müde	ermüdet	angegriffen	matt	überdrüssig
+	worn out	überdrüssig
 	model	Vorbild
-	resentment	Hass	Feindseligkeit	Groll
-	winding (adj.)	gewunden	gekrümmt
+	resentment	Groll
+	winding (adj.)	gewunden
 	wrist	Handgelenk
-	tactful	taktvoll	höflich	zuvorkommend	verbindlich
-	bowl	Schüssel	Schale
-	deceitful	Arglist	Tücke	arglistig	tückisch	hinterhältig	betrügerisch
-	kneel	knien	niederknien
-	popular	öffentlich	die Öffentlichkeit vertretend	Fahrzeug mit Rädern	Wagen	Sänfte
+	tactful	taktvoll	einfühlsam
+	bowl	Schüssel
+	deceitful	hinterhältig
+	kneel	knien
+	popular	publik
 	reward (n./v.)	eine Toast ausbringen	auf jn/etw. trinken	Belohnung	Vergütung
 	pour wine	einschenken
 	brutal	cool	brutal
@@ -2556,8 +2556,8 @@ KARTE	drag (v.)	schleppen
 	valve	Ventil
 	floodgate	Schleusentor
 	repudiate	widerlegen	zurückweisen	ablehnen
-	ash-colored	grau	ergraut	aschfahl	himmelblau	azurblau	dunkelgrün
-	rob	rauben	plündern	entreißen
+	ash-colored	grau	aschfahl
+	rob	rauben	entreißen
 	humble (adj.)	gering	bescheiden
 	lifetime	Lebenszeit
 	sad	bekümmert
@@ -2886,7 +2886,7 @@ KARTE	drag (v.)	schleppen
 	outstanding	außerordentlicher Mensch	außergewöhnlicher Mensch	Held	Heros	überragend	außergewöhnlich	hervorragend
 	instant	Augenblick
 	Chinese unicorn	chinesisches Einhorn	Qilin
-	pity (v.)	Mitleid haben	bemitleiden	sich erbarmen
+	pity (v.)	bemitleiden
 	neighbor	Nachbar
 	bask	von der Sonne bescheinen lassen	sonnen
 	spill (v.)	spritzen	bespritzen	sprengen	besprengen	verspritzen	verschütten
@@ -3073,3 +3073,4 @@ KARTE	stele	Stele	Denkmal
 繃	bēng	straffen	strammziehen
 縷	lǚ	Strähne
 絹	juàn	feste Seide
+扼	è	würgen

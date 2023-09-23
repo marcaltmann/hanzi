@@ -1792,7 +1792,7 @@ KARTE	bewitching	betörend	verführerisch
 	moth	Motte
 	pick pockets (v.)	zusammenharken	stibitzen
 	button (n./v.)	zuknöpfen	knöpfen
-	contribute	spenden	stiften	beisteuern	verzichten	aufgeben	hingeben	opfern
+	contribute	spenden
 	racquet	Schläger
 	clapping sound	Knall	Patsch
 	damage (v.)	schaden
@@ -2293,12 +2293,12 @@ KARTE	drag (v.)	schleppen
 	poor	arm	am Ende seiner Mittel
 	hollow (n.)	Bau	Nest
 	body cavity	Körperhohlraum
-	tired	müde	erschöpft	ermattet
-	spiral shell	Schneckenhaus	Schnecke	Fingerwirbel	Fingerabdruck
+	tired	ermüdet
+	spiral shell	Schneckenhaus	Spirale
 	yarn	Garn
 	ample	reichlich	mehr als genug
 	acquaint	vertraut machen	bekannt machen	Traditionen übernehmen	ein geistiges Erbe antreten
-	long-winded	Watte
+	long-winded	Watte	redselig
 	go around	aufrollen	winden	einen Umweg machen	umgehen	umkreisen
 	bind (v.)	binden	zusammenschnüren
 	continuous	fortlaufend
@@ -2307,8 +2307,8 @@ KARTE	drag (v.)	schleppen
 	silk fabric	Seidenstoff
 	down (n.)	Daune
 	conclude	einen Vertrag schließen
-	purple	purpur	violett
-	numerous	zahlreich	massenhaft
+	purple	violett
+	numerous	zahlreich
 	spin (v.)	spinnen
 	cocoon	Kokon
 	wind around	aufspulen	aufwickeln
@@ -2319,39 +2319,39 @@ KARTE	drag (v.)	schleppen
 	shrink (v.)	schrumpfen
 	sum up	zusammenfassen
 	gentry	Landadel
-	reason (n.)	Grund	Ursache	Anlass
+	reason (n.)	Grund
 	inception	Einleitung	Anfang	Beginn
 	wring	wringen	auswringen	verzwirnen
 	unhurried	ohne Hast	gemächlich
 	warm (adj.)	warm
-	provide assistance	sich mit seinen Händen nach oben ziehen	unterstützen	helfen	jm Beistand leisten
-	large rope	Tau	Strick
-	vibrant	steif werden	hochkommen	emporkommend	lebensvoll	üppig	überschwänglich	lebhaft	lebendig
+	provide assistance	den Rücken stärken	Beistand leisten
+	large rope	Tau
+	vibrant	vital
 	head-hinge	Hals
-	shell out	zahlen	bezahlen	entrichten	aushändigen
-	request the presence of	einladen
+	shell out	entrichten	aushändigen
+	request the presence of	einladen	jmds. Anwesenheit erbitten
 	embroidery	besticken	Stickerei
 	edible root	Rübe
 	gong	Gong
 	make the rounds	Streife gehen
 	bamboo basket	Bambuskorb
 	barbaric	grob	wild	roh	gewalttätig	barbarisch
-	neck (n.)	Hals
-	plant stem	Stängel	Stiel	Halm
-	powerful	stark	kräftig	stämmig
-	trail (n.)	Pfad	Fußweg
-	creek	Bach	Flüsschen
-	young	jung	minderjährig
-	secluded	abgelegen	tief und dunkel	verborgen	heimlich	zurückgezogen
+	neck (n.)	Genick
+	plant stem	Stängel
+	powerful	kräftig
+	trail (n.)	Fußweg
+	creek	Bach
+	young	jung
+	secluded	abgelegen
 	wet	nass	feucht
-	mysterious	schwerverständlich	tiefgründig	profund	schwarz	unglaubhaft	unglaubwürdig	mystisch	geheimnisvoll
-	livestock	Vieh
-	save up	speichern	ansammeln	sein Haar wachsen lassen
+	mysterious	schwer zu verstehen
+	livestock	Nutzvieh
+	save up	ansammeln
 	lead along	an der Leine führen	mit sich ziehen	führen
-	bowstring	Bogensehne	Sehne	Saite
-	magnetism	Magnetismus	Porzellan
-	nourish	wachsen	sich vermehren	vermehren
-	kindhearted	barmherzig	mitleidig	gütig
+	bowstring	Bogensehne	Saite
+	magnetism	Magnetismus
+	nourish	sich vermehren	vermehren	wachsen	nähren
+	kindhearted	barmherzig
 	deride	auslachen
 	luminous	funkelnd	funkeln	glimmend
 	modest	(von einem Kaiser) abdanken	abdanken	bescheiden
@@ -2437,7 +2437,7 @@ KARTE	drag (v.)	schleppen
 	pillow	Kopfkissen
 	view (v.)	ansehen
 	take on	an sich ziehen
-	cable (n.)	Tau	Seil	Kabel	Trosse	Schiffstau
+	cable (n.)	Kabel
 	ruthless	grausam	unbarmherzig	sich überwinden	sich ein Herz fassen	energisch
 	hate (v.)	hassen	Hass
 	upper crust	Adelswürde	Adelstitel	Adelsrang
@@ -3029,7 +3029,7 @@ KARTE	stele	Stele	Denkmal
 	fine jade	feiner Jade	feine Jade
 	gem	schöner Jade	Edelstein	Schmuckstein	schöne Jade
 	30 catties	30 Pfund	30 Jin
-	Oh!	Oh!
+	Oh!	Oha!
 	cannon	Kanone	Geschütz	Kanonenschuss	Feuerwerk	Knallfrosch
 	search for	Frühlingsjagd	sammeln
 	hibiscus	Hibiskus	Eibisch
@@ -3072,3 +3072,4 @@ KARTE	stele	Stele	Denkmal
 稜	léng	Kante
 繃	bēng	straffen	strammziehen
 縷	lǚ	Strähne
+絹	juàn	feste Seide

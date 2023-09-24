@@ -1970,7 +1970,7 @@ KARTE	drag (v.)	schleppen
 	cake	Kuchen
 	batter	Paste	Brei	Mus	Kleister
 	glue (v.)	kleben
-	provisions	Körner	Verpflegung	Getreidesoll	Getreideabgabe
+	provisions	Verpflegung
 	chrysanthemum	Chrysantheme
 	rough	rauh
 	grain	Korn
@@ -2188,9 +2188,9 @@ KARTE	drag (v.)	schleppen
 	stolen goods	Diebesgut
 	hide (v.)	verstecken
 	guts	Eingeweide
-	award (n.)	Prämie	Belohnung	Preis
+	award (n.)	Auszeichnung
 	thick liquid	dicke Flüssigkeit
-	oar	Ruder
+	oar	Paddel
 	Jiang	Jiang
 	abyss	tiefes Wasser
 	solemn	feierlich
@@ -2363,7 +2363,7 @@ KARTE	drag (v.)	schleppen
 	breast	weibliche Brust
 	float (v.)	an der Oberfläche schwimmen	mit Auftrieb
 	captive	Kriegsgefangener
-	minister	Minister	hoher Beamter
+	minister	Minister
 	trade (n.)	Handel
 	pomegranate	Granatapfel
 	doubt (v.)	zweifeln
@@ -2391,78 +2391,78 @@ KARTE	drag (v.)	schleppen
 	deceitful	hinterhältig
 	kneel	knien
 	popular	publik
-	reward (n./v.)	eine Toast ausbringen	auf jn/etw. trinken	Belohnung	Vergütung
+	reward (n./v.)	vergüten
 	pour wine	einschenken
 	brutal	cool	brutal
-	mellow wine	edler Wein
+	mellow wine	edler Wein	-anol
 	vinegar	Essig
 	drunk	betrunken
-	unmixed	pur	rein	Essenz
-	emerald green	smaragdgrün	Eisvogel
-	shattered	zerbrochen	zerschmettert	zersplittert
-	sour	sauer	Säure
+	unmixed	unvermischt	pur
+	emerald green	smaragdgrün
+	shattered	zerbrochen	zerschmettert	entzwei
+	sour	sauer
 	shuttle (n.)	Webschiffchen
-	lofty	hoch	steil aufragend
-	pretty	schön	hübsch
-	quarrel (n.)	Streit	Zank	Hader
-	thick sauce	Soße	Mus	Paste	Mark
+	lofty	steil aufragend
+	pretty	gutaussehend
+	quarrel (n.)	Zank
+	thick sauce	Soße	Paste
 	just like	gleichsam
-	found (v.)	gründen	etablieren	etw. zustande bringen
+	found (v.)	etablieren
 	squat (v.)	hocken
-	tease (v.)	necken	hänseln	aufziehen
+	tease (v.)	hänseln
 	(rhetorical question)	(rhetorische Frage)
 	triumphant	siegreich	triumphierend
 	perpendicular	vertikal
-	commend	loben	preisen	vornehm	ausgezeichnet
-	giggling	lachen	kichern	Kichern
-	alliance	sich verbünden	sich alliieren	Bündnis
-	Mencius	Mengzi	Menzius
-	fierce	wild	heftig	ungestüm	kräftig
-	flourishing	in voller Blüte stehen	gedeihen
-	small cup	kleines Trinkgefäß
-	small box	Schachtel
-	master thief	Dieb	Räuber	stehlen	rauben	entwenden	Meisterdieb
+	commend	loben
+	giggling	Gekicher
+	alliance	Bündnis
+	Mencius	Menzius
+	fierce	ungestüm
+	flourishing	in voller Blüte
+	small cup	kleiner Becher
+	small box	Schachtel	Kassette
+	master thief	Meisterdieb
 	swing (v.)	schaukeln	hin und her schwingen	schwingen	sich schwingen
 	calm (adj.)	seelenruhig
-	replete	voll	erfüllt	gefüllt	Überschuss haben
-	basin	Becken	Wanne	Topf
+	replete	prall gefüllt
+	basin	Becken
 	trophy	Pokal
-	amass	enthalten	umfassen	in sich bergen	in sich schließen	speichern
-	indiscriminate	übermäßig	übertrieben	ausschweifend	überschwemmen	überfluten	überfließen	überlaufen
-	probe (v.)	Messing- oder Bronzespiegel	spiegeln	sich widerspiegeln	einer genauen Prüfung unterziehen	genau untersuchen
-	abashed	Verlegenheit	verlegen
-	embarrassed	peinlich
+	amass	umfassen
+	indiscriminate	ausschweifend
+	probe (v.)	begutachten
+	abashed	peinlich berührt
+	embarrassed	verlegen sein
 	toss (v.)	schleudern
-	indulge in	verzögern	verschieben	für etw. schwärmen	schwärmen
+	indulge in	verzögern	für etwas schwärmen	sich etwas gönnen
 	pillow	Kopfkissen
 	view (v.)	ansehen
 	take on	an sich ziehen
 	cable (n.)	Kabel
-	ruthless	grausam	unbarmherzig	sich überwinden	sich ein Herz fassen	energisch
-	hate (v.)	hassen	Hass
-	upper crust	Adelswürde	Adelstitel	Adelsrang
-	chew (v.)	kauen	zerkauen
-	wholeheartedly	aufrichtig	ehrlich	offen	ernstlich
-	reclaim	urbar machen	kultivieren
+	ruthless	rücksichtslos	unbarmherzig	schonungslos
+	hate (v.)	hassen
+	upper crust	Oberschicht	Adelstitel
+	chew (v.)	kauen
+	wholeheartedly	ernstlich
+	reclaim	urbar machen	Neuland gewinnen
 	leopard	Leopard
 	cat	Katze
 	mien	Gesichtszüge	äußere Gestalt	Erscheinung
-	lucent	hell	klar	laut und deutlich
+	lucent	laut und deutlich
 	wolf	Wolf
-	starving	hungrig sein	Hunger haben	Hungersnot	Hunger
-	spare (v.)	begnadigen	jm etw. nachsehen	jm etw. verzeihen	reich	viel	voll
-	ornaments	Schmuck	Ornament	Zierart
+	starving	ausgehungert
+	spare (v.)	begnadigen
+	ornaments	Schmuck
 	beverage	Getränk
 	eat away	zerfressen
-	sated	satt	gesättigt
-	bread	Dampfbrötchen
-	cookie	runder flacher Kuchen	Fladen	Keks
-	dumpling	Jiaozi
+	sated	gesättigt
+	bread	Dampfbrötchen	Brot
+	cookie	Keks
+	dumpling	Maultasche
 	hungry	hungrig
 	submerge	untertauchen
 	silkworm	Seidenraupe
 	irrigate	bewässern
-	incensed	entrüstet	empört	tief gerührt	tief bewegt	großzügig	großmütig
+	incensed	empört
 	duckweed	Entengrütze
 	scale (n.)	Waage
 	confuse	durcheinanderbringen	vermischen
@@ -2500,7 +2500,7 @@ KARTE	drag (v.)	schleppen
 	cough (v.)	husten
 	brake (v.)	bremsen
 	cry out	schreien	laut rufen
-	brew (v.)	brauen	brennen	gären lassen
+	brew (v.)	brauen
 	stronghold	strategisch wichtige Punkte an einer Grenze	Grenzfestung	Grenzfeste
 	stockade	Lattenzaun	Palisade	Pfahlwerk
 	constitution	Verfassungstext
@@ -2531,7 +2531,7 @@ KARTE	drag (v.)	schleppen
 	foolish	dumm	stupide	stupid	einfältig	ungeschickt	schwerfällig	unbeholfen
 	carry in both hands	mit beiden Händen tragen
 	sigh (v.)	seufzen
-	arduous	hart	schwierig
+	arduous	beschwerlich
 	beach (n.)	Strand
 	complete (v.)	vollenden	beenden
 	saliva	Speichel
@@ -3074,3 +3074,6 @@ KARTE	stele	Stele	Denkmal
 縷	lǚ	Strähne
 絹	juàn	feste Seide
 扼	è	würgen
+櫥	chú	Schrank
+盔	kuī	Helm
+磕	kē	anstoßen

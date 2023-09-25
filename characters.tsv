@@ -2023,7 +2023,7 @@ KARTE	drag (v.)	schleppen
 	Buddhist monk	buddhistischer Mönch
 	without haste	gemächlich
 	Russia	Russland
-	rite	Ritus	Zeremonie	Aussehen	Erscheinung	Haltung
+	rite	Brauch
 	nephew	Neffe
 	immortal (n.)	Unsterblicher
 	custom	Sitte
@@ -2463,46 +2463,46 @@ KARTE	drag (v.)	schleppen
 	silkworm	Seidenraupe
 	irrigate	bewässern
 	incensed	empört
-	duckweed	Entengrütze
+	duckweed	Wasserlinse
 	scale (n.)	Waage
-	confuse	durcheinanderbringen	vermischen
-	Chinese mugwort	Beifuß	Wermut
-	Good grief!	Oh mein Gott!	Ah	Oje	Ach, du meine Güte!	Meine Güte!
+	confuse	verwechseln
+	Chinese mugwort	Chinesischer Beifuß
+	Good grief!	Au weia!
 	pull out	ausreißen	herausreißen	herausziehen
-	climb (v.)	klettern	klimmen
-	stockpile (v.)	einlagern	speichern	auf Halde legen	auf Vorrat anlegen	stationieren	einquartieren
+	climb (v.)	klettern
+	stockpile (v.)	einlagern
 	pause (n./v.)	Pause
 	ton	Tonne
-	unadulterated	rein	lauter	unvermischt	makellos
+	unadulterated	pur
 	fall due	fällig werden
-	teeth	Zahn	Zähne	Zähne?
+	teeth	Beißer
 	shows	Schauen	Schau	Show	Shows
-	length of service	Alter	Lebensjahr	Dauer	Dienstjahr
-	turbulent	reißend	tosend	aufwallend	stürmisch	turbulent
-	fence	Zaun	Hecke
-	crime	Schuld	Sünde
+	length of service	Dienstjahr
+	turbulent	stürmisch
+	fence	Zaun
+	crime	Untat
 	butcher (v.)	schlachten
-	differentiate	unterscheiden	etw. von etw. trennen
+	differentiate	differenzieren
 	braid (n.)	Zopf
-	arm (n.)	Arm	Oberarm
-	split (v.)	spalten	hauen	hacken	einschlagen	(Blitz) einschlagen
-	analogy	Beispiel	Vergleich	Metapher
-	out-of-the-way	entlegen	abgelegen	abseits	exzentrisch
+	arm (n.)	Arm
+	split (v.)	spalten
+	analogy	Gleichnis
+	out-of-the-way	entlegen
 	translate	übersetzen
 	select (v.)	auswählen	wählen	aussuchen
 	swamp (n.)	Gebiet mit großer Wasseransammlung	Sumpf	Moor
 	pad (n./v.)	Polster
 	earnest	lauter	aufrichtig	ehrlich
-	entangle	sich verwickeln	sich verstricken	zusammenrotten	zusammentrommeln
+	entangle	sich verwickeln	sich verstricken
 	bully (v.)	schikanieren
 	water caltrop	Wassernuss
 	mausoleum	Mausoleum
 	cough (v.)	husten
 	brake (v.)	bremsen
-	cry out	schreien	laut rufen
+	cry out	grölen
 	brew (v.)	brauen
-	stronghold	strategisch wichtige Punkte an einer Grenze	Grenzfestung	Grenzfeste
-	stockade	Lattenzaun	Palisade	Pfahlwerk
+	stronghold	Grenzfestung	Bollwerk
+	stockade	Lattenzaun	Palisade	Gatter
 	constitution	Verfassungstext
 	sunny	wolkenlos-heiter
 	guess	raten	vermuten
@@ -2825,8 +2825,8 @@ KARTE	drag (v.)	schleppen
 	stern	streng	strikt	rigoros	unnachsichtig
 	encourage	ermuntern	anspornen	aneifern
 	steel	Stahl
-	hillock	kleiner Hügel	Hügelchen	Anhöhe	Bodenerhebung
-	guidelines	Hauptleine (eines Netzes)	Hauptkettenglied	Programm	Klasse
+	hillock	Anhöhe
+	guidelines	Leitlinie
 	go against	widerstreben	zuwiderlaufen
 	go upstream	stromaufwärts fahren
 	plastic (n.)	Plastik
@@ -2973,7 +2973,7 @@ KARTE	stele	Stele	Denkmal
 	terrify	einen Schrecken einjagen	erschrecken
 	radiating vitality	Kraft und Energie ausstrahlen
 	indication	Spur	Fährte	Stapfen	Überbleibsel	Überrest	Ruine	Anzeichen	Anschein
-	phraseology	sprachlicher Ausdruck	Ausdrucksweise	Redeweise	Rhetorik	Redekunst	kündigen	sich verabschieden
+	phraseology	Ausdrucksweise
 	tortoise	Schildkröte
 	rope (n.)	Seil	Strick
 	flies	Fliege
@@ -3077,3 +3077,4 @@ KARTE	stele	Stele	Denkmal
 櫥	chú	Schrank
 盔	kuī	Helm
 磕	kē	anstoßen
+镶	xiāng	einlegen	einsetzen	einfassen

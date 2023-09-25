@@ -2489,8 +2489,8 @@ KARTE	drag (v.)	schleppen
 	analogy	Gleichnis
 	out-of-the-way	entlegen
 	translate	übersetzen
-	select (v.)	auswählen	wählen	aussuchen
-	swamp (n.)	Gebiet mit großer Wasseransammlung	Sumpf	Moor
+	select (v.)	auswählen
+	swamp (n.)	Sumpf
 	pad (n./v.)	Polster
 	earnest	lauter	aufrichtig	ehrlich
 	entangle	sich verwickeln	sich verstricken
@@ -2510,14 +2510,14 @@ KARTE	drag (v.)	schleppen
 	debt	Schulden
 	remains	Überbleibsel	Überrest	Ruine	Spur	Fährte	Anzeichen
 	domestic animal	Haustier
-	impressive	wohlhabend	blühend	üppig	reichlich	groß	erhaben	feierlich	sich wölben
+	impressive	erhaben	furios	reichlich
 	fishy smell	Fischgeruch
 	orangutan	Orang-Utan
 	awaken	erwachen
-	visionless	blind	blindlings	vergeblich
+	visionless	blind	blindlings
 	administer	verwalten
 	contract (n.)	Vertrag
-	adore	jm Ehrerbietung bezeigen
+	adore	anhimmeln
 	spotless	blitzeblank	makellos
 	bee	Biene
 	peak (n.)	Gipfel
@@ -2525,10 +2525,10 @@ KARTE	drag (v.)	schleppen
 	chance upon	jemanden treffen
 	disheveled	zerzaust
 	sew	nähen
-	play an instrument	vortragen	ein Musikstück vortragen	auf einem Instrument spielen
-	gather together	sammeln	zusammentun	zusammenbringen
+	play an instrument	ein Instrument spielen	ein Musikstück vortragen
+	gather together	zusammentragen
 	Qin	Qin
-	foolish	dumm	stupide	stupid	einfältig	ungeschickt	schwerfällig	unbeholfen
+	foolish	einfältig
 	carry in both hands	mit beiden Händen tragen
 	sigh (v.)	seufzen
 	arduous	beschwerlich
@@ -2568,8 +2568,8 @@ KARTE	drag (v.)	schleppen
 	gullet	Kehle	Schlund
 	monkey	Affe
 	Korea	Korea
-	disobey	zuwiderhandeln	sich widersetzen	gegen etw. verstoßen
-	latitude	Einschlagfaden	Einschussfaden	Schussfaden	geografische Breite
+	disobey	zuwiderhandeln
+	latitude	Breitengrad
 	pole	Stange	Stab	Stock	Gerte	Rute
 	rarely	rar
 	veranda	Veranda	Gartenhäuschen	Balkon
@@ -2751,10 +2751,10 @@ KARTE	drag (v.)	schleppen
 	hold in the mouth	etw. zwischen den Lippen halten	etw. mit den Zähnen halten
 	ardent	leidenschaftlich	heftig	heiß
 	longevity	langes Leben
-	large waves	große Welle	Woge	Brandung
+	large waves	Brandung
 	cast (v.)	Metall gießen
 	pray	beten
-	make arrangements	Spielmarke	Jeton	vorbereiten	planen	Vorbereitungen treffen
+	make arrangements	Vorkehrungen treffen	Jeton
 	attend to	bedienen	aufwarten	jm aufwarten
 	rear (v.)	füttern
 	liner	Ozeandampfer
@@ -2940,7 +2940,7 @@ KARTE	drag (v.)	schleppen
 	reputation	Ruhm	Ruf
 	islet	Inselchen
 	thick-headed	dumm	wirrköpfig	doof	töricht	stur	starrsinnig	schwerfällig
-	brick	Ziegel	Ziegelstein
+	brick	Ziegel	Backstein
 	favor (n.)	Gefälligkeit	Gunst
 	ear of grain	Ähre
 	expansive	großräumig	ausgedehnt
@@ -3078,3 +3078,6 @@ KARTE	stele	Stele	Denkmal
 盔	kuī	Helm
 磕	kē	anstoßen
 镶	xiāng	einlegen	einsetzen	einfassen
+疇	chóu	die Flur
+篷	péng	Plane
+豁	huō	Lücke

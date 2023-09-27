@@ -2136,7 +2136,7 @@ KARTE	drag (v.)	schleppen
 	swindle	schwindeln
 	wife	Ehefrau
 	miserable	betrübt	elend
-	perch (v.)	nisten	auf einem Baum nisten
+	perch (v.)	nisten
 	goblin	Kobold
 	nimble	flink
 	wield	in der Hand halten
@@ -2224,7 +2224,7 @@ KARTE	drag (v.)	schleppen
 	ladder	Leiter
 	decayed	verfault
 	employ (v.)	engagieren
-	sacrifice (v.)	Opfertier	den Märtyrertod sterben	sein Leben hingeben	opfern
+	sacrifice (v.)	aufopfern
 	elder sister	große Schwester
 	lie down	liegen
 	dodge (v.)	sich drücken
@@ -2541,7 +2541,7 @@ KARTE	drag (v.)	schleppen
 	chestnut	Kastanie
 	deep pool	tiefer Teich	Tümpel
 	resituate	umziehen
-	overturn	umstürzen	umkippen
+	overturn	umkippen
 	flutter (v.)	flattern
 	boss (n.)	Chef	Boss
 	broad	breit	weit	geräumig	reich	wohlhabend	begütert
@@ -2587,7 +2587,7 @@ KARTE	drag (v.)	schleppen
 	rely on	angewiesen sein auf
 	lazy	faul
 	tender (adj.)	grazil	grün hinter den Ohren	unerfahren
-	refine	schmelzen	raffinieren	läutern	kondensieren	härten	stählen	vergüten
+	refine	raffinieren
 	chain (n.)	Kette
 	swollen	geschwollen	Schwellung
 	director	Vorstandsmitglied
@@ -2877,7 +2877,7 @@ KARTE	drag (v.)	schleppen
 	brag	prahlen	aufbauschen
 	collapse (v.)	zusammenbrechen
 	straddle (v.)	schreiten	ausschreiten	mit gespreizten Beinen dastehen	rittlings sitzen
-	donate	darbringen	darbieten	überreichen	widmen	etw. zur Schau tragen
+	donate	widmen	beitragen
 	melt	schmelzen
 	separate (v.)	trennen
 	filter (v.)	filtern	seihen
@@ -2888,8 +2888,8 @@ KARTE	drag (v.)	schleppen
 	Chinese unicorn	chinesisches Einhorn	Qilin
 	pity (v.)	bemitleiden
 	neighbor	Nachbar
-	bask	von der Sonne bescheinen lassen	sonnen
-	spill (v.)	spritzen	bespritzen	sprengen	besprengen	verspritzen	verschütten
+	bask	sich sonnen
+	spill (v.)	verschütten
 	cease	aufhören
 	put in order	Pendel	ausstellen	herzeigen	herausstellen
 	lips	Lippe

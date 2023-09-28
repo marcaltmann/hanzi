@@ -1832,7 +1832,7 @@ KARTE	drag (v.)	schleppen
 	warn	warnen
 	dash (v.)	spurten
 	spurt (v.)	sprühen
-	tomb	Grab	Grabstätte
+	tomb	letzte Ruhestätte
 	indignation	Entrüstung
 	stuff (n.)	Material	Grundstoff
 	pregnant	schwanger
@@ -2071,7 +2071,7 @@ KARTE	drag (v.)	schleppen
 	lustrous	glänzend und durchsichtig	kristallklar
 	firefly	Glühwürmchen
 	scoop up	herausfischen
-	glowing	glänzend	leuchtend
+	glowing	in Glanz erstrahlend
 	whirl (v.)	wirbeln
 	kiss (v.)	küssen
 	hurriedly	fluchtartig
@@ -2637,29 +2637,29 @@ KARTE	drag (v.)	schleppen
 	transparent	transparent
 	splash (v.)	besprengen
 	allocate	zuteilen	zuweisen
-	fir tree	Tanne
-	well-mannered	höflich	vornehm	vornehm und liebenswürdig	liebenswürdig	zuvorkommend
-	shirt	Hemd	ungefüttertes Gewand
-	manifest (adj.)	klar	deutlich	" offensichtlich"	manifest
-	puffy	anschwellen	geschwollen	sich ausdehnen	sich vergrößern	aufgebläht	aufgedunsen	voluminös
-	take advantage of	nutzen	ausnutzen	etw. zum Anlass nehmen	die Gunst der Stunde nutzen	eine Gelegenheit ergreifen	(Anlass, Gelegenheit, Zeit) nutzen
-	diagnose	ärztliche Untersuchung	(einen Patienten) untersuchen
-	seep	durchsickern	sickern
+	fir tree	Tanne	Fichte
+	well-mannered	galant
+	shirt	Hemd
+	manifest (adj.)	offenkundig
+	puffy	voluminös	geschwollen	aufgebläht
+	take advantage of	nutzen
+	diagnose	diagnostizieren
+	seep	sickern
 	gum	Gummi
-	wrong (adj.)	absurd	widersinnig	falsch	unsinnig
-	deserted	still	leer	verlassen	wenig	spärlich
-	speck	Fleck	Klecks	Sprenkel	Tupfen
-	design (n.)	dekoratives Muster	Verzierung	Falte
-	small shovel	Schaufel	Schippe
-	Samoa	Samoa
-	backbone	" Rückgrat"	Wirbelsäule
-	letter	Brief	Kästchen	Behälter	Schutzhülle
-	culvert	Durchlass	überwölbter Abflusskanal	Dole
-	reflect	spiegeln	widerspiegeln	scheinen
-	calamity	Unheil	Verhängnis
-	plump	fett	mollig	prall
-	crawl (v.)	kriechen	hinaufklettern	emporklimmen
-	scar (n.)	Narbe	Makel	Fehler
+	wrong (adj.)	absurd	unsinnig	abwegig
+	deserted	leerstehend
+	speck	Fleck
+	design (n.)	dekoratives Muster	Verzierung	Maserung
+	small shovel	Schippe
+	Samoa	Samoa	Sa(bine)
+	backbone	Wirbelsäule
+	letter	Brief
+	culvert	Durchlass
+	reflect	widerspiegeln
+	calamity	Unheil
+	plump	fett
+	crawl (v.)	kriechen
+	scar (n.)	Narbe
 	gorgeous	farbenprächtig	prächtig	wunderschön	knallbunt	grell	amourös	Liebes-
 	sugary	süß	honigsüß
 	pliers	Zange
@@ -2960,9 +2960,9 @@ KARTE	drag (v.)	schleppen
 	impede	aufhalten
 	tracks	Fußabdruck	Spur	Fußspur
 	shrug (v.)	mit den Achseln zucken
-KARTE	pharmaceutical (n.)	pharmazeutisches Präparat
+KARTE	pharmaceutical (n.)	Pharmazeutikum
 KARTE	abstain from food	fasten
-KARTE	squeeze (v.)	quetschen
+KARTE	squeeze (v.)	pressen
 KARTE	push button (n.)	Knopf
 KARTE	shy	schüchtern
 KARTE	New York	New York

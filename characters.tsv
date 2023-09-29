@@ -2166,9 +2166,9 @@ KARTE	drag (v.)	schleppen
 	meet with	auf etwas stoßen
 	trough	Trog
 	quiver (v.)	schaudern
-	mediocre	gewöhnlich	mittelmäßig	unbedeutend	geringwertig
-	put to work	dingen	Diener
-	fling (v.)	etw. hin und her schwingen	schwenken	schleudern
+	mediocre	stinknormal
+	put to work	jemanden einstellen
+	fling (v.)	im hohen Bogen schmeißen	schleudern
 	rue (v.)	nachtrauern
 	arrange	arrangieren
 	forsake	preisgeben
@@ -2707,17 +2707,17 @@ KARTE	drag (v.)	schleppen
 	mute (adj.)	stumm
 	kettle	Kanne
 	crab (n.)	Krabbe
-	lax	schlaff	locker
+	lax	schlaff
 	purchase (v.)	anschaffen	ankaufen	kaufen
 	ditch (n.)	Graben
 	key	Schlüssel
 	plead	appellieren
-	Vol.	Heft	Buch	Band	Exemplar	(Band und Exemplar: ZEW)
-	delete	streichen	weglassen
-	palisade	Gitter	Gatter	Zaun
-	coral	Korallen
-	everywhere	überall	über und über
-	partial	parteiisch	voreingenommen	tendenziös	sich nach einer Seite neigen
+	Vol.	Buchband	Bd.
+	delete	wegstreichen
+	palisade	Gatter
+	coral	Koralle
+	everywhere	überall
+	partial	parteiisch
 	sink (v.)	versinken	untergehen
 	human relationships	zwischenmenschliche Beziehungen	zwischenmenschliche Verpflichtungen
 	resist	stützen	Halt geben	widerstehen	abwehren	entschädigen	Ersatz leisten	büßen
@@ -2745,7 +2745,7 @@ KARTE	drag (v.)	schleppen
 	Deng	Deng
 	hurl	werfen	schleudern
 	hallway	Korridor	Wandelgang	Säulengang
-	hug (v.)	umfassen	umarmen	umgeben	sich drängeln
+	hug (v.)	umgeben
 	satin	Satin	Atlasgewebe	Atlas
 	wily	schlau	listig	verschlagen	trickreich	durchtrieben
 	hold in the mouth	etw. zwischen den Lippen halten	etw. mit den Zähnen halten
@@ -2954,7 +2954,7 @@ KARTE	drag (v.)	schleppen
 	time and again	immer wieder
 	turbid	trübe
 	candle	Kerze
-	touch (v.)	berühren	auf etw. stoßen	mit etw. in Kontakt kommen
+	touch (v.)	berühren
 	admonish	ermahnen	einschärfen	raten
 	railing	Geländer
 	impede	aufhalten

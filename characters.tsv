@@ -1840,7 +1840,7 @@ KARTE	drag (v.)	schleppen
 	trash (n.)	Abfall
 	fork (n.)	Gabel
 	mulberry tree	Maulbeerbaum
-	voicebox	Kehle	Hals
+	voicebox	Kehle
 	outlaw (n.)	Gangster
 	knock (v.)	klopfen
 	pour into	eingießen
@@ -1861,7 +1861,7 @@ KARTE	drag (v.)	schleppen
 	notice (v.)	Notiz nehmen von
 	consent (v.)	einwilligen
 	cross out	wegstreichen	abhaken	skizzieren
-	promote	eintreten	vorgehen	vorrücken	befördert werden
+	promote	befördert werden
 	magnificent	grandios
 	fetus	Fötus	Leibesfrucht
 	smelt (v.)	verhütten
@@ -2343,7 +2343,7 @@ KARTE	drag (v.)	schleppen
 	creek	Bach
 	young	jung
 	secluded	abgelegen
-	wet	nass	feucht
+	wet	feucht
 	mysterious	schwer zu verstehen
 	livestock	Nutzvieh
 	save up	ansammeln
@@ -2678,34 +2678,34 @@ KARTE	drag (v.)	schleppen
 	sack (n.)	Sack
 	burst (v.)	bersten	durchbrechen
 	cupboard	Spind	Kabinett	Truhe
-	fitting (adj.)	passend	geeignet
+	fitting (adj.)	passend	geeignet	geziemend
 	friendship	Freundschaft
-	rent (n./v.)	mieten	pachten	Miete	Mietzins
-	coarse	grob	grobkörnig	rauh	dick	vulgär	roh
-	block (v.)	hindern	verhindern	aufhalten	blockieren
-	heap (v.)	aufeinanderschichten	auftürmen	aufhäufen
-	baseball base	mauern	Wall	Baseball-Mal
-	hoe (n./v.)	Hacke	hacken
+	rent (n./v.)	mieten
+	coarse	grobkörnig
+	block (v.)	blockieren
+	heap (v.)	aufeinanderschichten	aufschichten
+	baseball base	mauern	Baseball-Mal
+	hoe (n./v.)	Hacke
 	thicket	Dickicht
 	plain (adj.)	schlicht
 	pounce on	sich stürzen auf
 	servant	Diener
-	musical score	Musiknoten	Noten zu einem Musikstück	Partitur (nur mehrstimmig)
-	fool (v.)	betrügen	täuschen	übertölpeln	jn um etw. prellen
+	musical score	Noten
+	fool (v.)	übertölpeln
 	deluge	Hochwasser	Flut
-	warm by a fire	etw. am Feuer trocknen	etw. am Feuer wärmen	backen	rösten
-	respectful	respektvoll	voller Respekt	ehrerbietig	ehrfurchtsvoll
-	arch (n./v.)	die Hände in Brusthöhe gewölbt aufeinanderlegen	gewölbt	sich krümmen	überwölbt	sich biegen	sich verbiegen
-	violent	stürmisch	ungestüm	grausam	jähzornig	cholerisch	jäh	hitzköpfig
+	warm by a fire	etwas am Feuer wärmen
+	respectful	respektvoll
+	arch (n./v.)	sich wölben
+	violent	rabiat	jähzornig
 	waterfall	Wasserfall
-	explode	platzen	bersten	explodieren
-	ceremonial hall	Tempelhalle	Palasthalle
-	have on	aufhaben	anhaben	tragen	aufsetzen	anziehen
-	wings	Flügel	Flanke
-	dung	Exkrement	Dung	Kot
-	compose	verfassen	schreiben
-	mute (adj.)	stumm	heiser
-	kettle	Kanne	Kessel
+	explode	explodieren
+	ceremonial hall	Tempelhalle	Palasthalle	Zeremonienhalle
+	have on	aufsetzen	aufhaben
+	wings	Flügel
+	dung	Dung	Jauche	Mist
+	compose	verfassen
+	mute (adj.)	stumm
+	kettle	Kanne
 	crab (n.)	Krabbe
 	lax	schlaff	locker
 	purchase (v.)	anschaffen	ankaufen	kaufen
@@ -2914,7 +2914,7 @@ KARTE	drag (v.)	schleppen
 	ruin (v.)	zerstören	vernichten	verbrennen	verleumden	diffamieren
 	mother‘s brother	Onkel mütterlicherseits	Bruder der Mutter	Schwager
 	stake (n.)	Pflock
-	bore a hole	meißeln	stemmen	Meißel	Stechbeitel
+	bore a hole	meißeln	ein Loch bohren
 	mouse	Maus	Ratte
 	scurry	davonlaufen
 	dried meat	Pökelfleisch
@@ -2934,7 +2934,7 @@ KARTE	drag (v.)	schleppen
 	dissemble	verheimlichen	verschweigen	für sich behalten
 	frank (adj.)	offenherzig
 	embellish	schmücken	dekorieren	zusammenflicken	zusammennähen	ausschmücken
-	bump (v.)	berühren	stoßen	treffen	begegnen	auf jn stoßen
+	bump (v.)	zusammenprallen
 	transfer (v.)	verrücken	verlegen	rücken	verschieben
 	charge falsely	falsch beschuldigen	verleumden
 	reputation	Ruhm	Ruf

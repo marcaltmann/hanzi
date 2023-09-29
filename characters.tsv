@@ -2720,31 +2720,31 @@ KARTE	drag (v.)	schleppen
 	partial	parteiisch
 	sink (v.)	versinken	untergehen
 	human relationships	zwischenmenschliche Beziehungen	zwischenmenschliche Verpflichtungen
-	resist	stützen	Halt geben	widerstehen	abwehren	entschädigen	Ersatz leisten	büßen
-	hoodlum	Rowdy	Gauner	Lump	Schurke	Halunke
-	breastfeed	stillen	die Brust geben
-	shop (n.)	Laden	Geschäft
+	resist	widerstehen
+	hoodlum	Gauner
+	breastfeed	säugen
+	shop (n.)	Geschäft
 	supplement (v.)	helfen	beistehen	assistieren	unterstützen	ergänzen
-	capture	fangen	verhaften	festnehmen
-	apply	aufstreichen	auftragen	einschmieren	(Salbe, Pulver) aufstreichen
-	river mouth	Flussmündung	Flussufer
-	cattail	Rohrkolben	Katzenschwanz
-	slight (adj.)	dünn	klein	leicht	gering	kleinlich	knauserig	nicht freigebig
-	register (n.)	Heft	Buch	Rechnungsbuch	Verzeichnis
-	mentor	Meister	Lehrer	lehren	unterrichten
-	bind fast	fesseln
-	outer walls	äußerer Wall einer Stadt
-	limitless	weit	geräumig	ausgedehnt	Umriss	Kontur	Außenlinie
-	despicable	verachten	geringschätzen	gemein	niederträchtig	vulgär
-	Jerusalem	Jerusalem	Jesus
+	capture	fassen
+	apply	auftragen
+	river mouth	Flussmündung
+	cattail	Rohrkolben
+	slight (adj.)	mager
+	register (n.)	Verzeichnis	Rechnungsbuch	Registerband
+	mentor	Meister	Mentor
+	bind fast	binden	festbinden	fesseln	vertäuen
+	outer walls	äußere Stadtmauer
+	limitless	Kontur	unbeschränkt
+	despicable	verachten	geringschätzen	gemein
+	Jerusalem	Jerusalem
 	grandfather	Großvater
-	outskirts	Vorort	Vorstadt	Peripherie	Peripherie der Stadt
-	nation	Staat	Land
-	truss (v.)	jm die Hände auf dem Rücken zusammenbinden	binden	festbinden	wickeln
-	post (v.)	etw. mit der Post schicken	etw. mit der Post senden	schicken	senden	postalisch
+	outskirts	Vorort
+	nation	Nation
+	truss (v.)	zusammenbinden	fesseln
+	post (v.)	etw. mit der Post schicken	in die Post tun
 	Deng	Deng
 	hurl	werfen	schleudern
-	hallway	Korridor	Wandelgang	Säulengang
+	hallway	Korridor
 	hug (v.)	umgeben
 	satin	Satin	Atlasgewebe	Atlas
 	wily	schlau	listig	verschlagen	trickreich	durchtrieben
@@ -2832,7 +2832,7 @@ KARTE	drag (v.)	schleppen
 	plastic (n.)	Plastik
 	vat	Tongefäß	irdener Topf	großer Behälter
 	jar	Büchse	Dose	Topf	Krug
-	depressed	trübsinnig	schwermütig	bedrückt	deprimiert	üppig	gedeihend
+	depressed	deprimiert
 	salt (n.)	Salz
 	salty	salzig	gesalzen
 	draw out	herausholen	herausnehmen	herausziehen
@@ -3083,3 +3083,4 @@ KARTE	stele	Stele	Denkmal
 豁	huō	Lücke
 澗	jiàn	Klamm
 嵌	qiàn	etw. mit Intarsien versehen	einlegen
+膊	bó	obere Extremität

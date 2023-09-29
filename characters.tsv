@@ -2746,23 +2746,23 @@ KARTE	drag (v.)	schleppen
 	hurl	werfen	schleudern
 	hallway	Korridor
 	hug (v.)	umgeben
-	satin	Satin	Atlasgewebe	Atlas
-	wily	schlau	listig	verschlagen	trickreich	durchtrieben
-	hold in the mouth	etw. zwischen den Lippen halten	etw. mit den Zähnen halten
-	ardent	leidenschaftlich	heftig	heiß
+	satin	Satin
+	wily	verschlagen
+	hold in the mouth	etw. mit den Zähnen halten	im Mund halten
+	ardent	leidenschaftlich
 	longevity	langes Leben
 	large waves	Brandung
 	cast (v.)	Metall gießen
 	pray	beten
 	make arrangements	Vorkehrungen treffen	Jeton
-	attend to	bedienen	aufwarten	jm aufwarten
-	rear (v.)	füttern
+	attend to	aufwarten	bedienen
+	rear (v.)	füttern	aufziehen	heranziehen
 	liner	Ozeandampfer
-	navigate	steuern	navigieren	segeln	schiffen	fliegen
+	navigate	navigieren
 	light boat	leichtes Boot
 	warship	Kriegsschiff
-	ship‘s cabin	Kabine eines Schiffs oder Flugzeugs	Schiffskabine	Kabine	gesamter Innenraum eines Schiffs oder Flugzeugs
-	along (prep.)	entlang	längs	an ... entlang
+	ship‘s cabin	Kabine
+	along (prep.)	entlang
 	lead (n.)	Blei
 	fox	Fuchs
 	petal	Blütenblatt
@@ -3084,3 +3084,4 @@ KARTE	stele	Stele	Denkmal
 澗	jiàn	Klamm
 嵌	qiàn	etw. mit Intarsien versehen	einlegen
 膊	bó	obere Extremität
+舵	duò	Steuerruder

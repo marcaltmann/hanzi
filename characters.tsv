@@ -2050,11 +2050,11 @@ KARTE	drag (v.)	schleppen
 	umbrella	Schirm
 	assemble	sich versammeln	zusammenkommen	zusammentreffen
 	frustrate	vereiteln
-	saber	(zweischneidiges) Schwert
-	restrain	zurückhalten	Einhalt gebieten	zurückziehen
-	pick up (v.)	sammeln	auflesen
-	sign (v.)	unterschreiben	unterzeichnen
-	thrifty	sparsam	genügsam	haushälterisch
+	saber	Säbel
+	restrain	sich zurückhalten
+	pick up (v.)	auflesen
+	sign (v.)	unterschreiben
+	thrifty	sparsam		haushälterisch
 	lambsquarters	Gänsefuß	Weißer Gänsefuß
 	kudzu	Kudzu
 	brown	braun
@@ -2284,7 +2284,7 @@ KARTE	drag (v.)	schleppen
 	plunge (v.)	fallen	hinabstürzen	herabhängen	Gewicht
 	undesirable	ärmlich	dürftig
 	dig (v.)	graben	aushöhlen
-	kiln	Brennofen
+	kiln	Brennofen	Ofen
 	peep (v.)	spähen
 	den	Felsenhöhle	Schlupfwinkel
 	strait (adj.)	eng
@@ -2808,7 +2808,7 @@ KARTE	drag (v.)	schleppen
 	loose	locker	lose	wackelig	lockern
 	roc	Roch
 	twitter (v.)	zwitschern
-	swan	Schwanengans	Schwan
+	swan	Schwan
 	pigeon	Taube
 	crane	Kranich
 	oriole	Pirol
@@ -2817,11 +2817,11 @@ KARTE	drag (v.)	schleppen
 	raven	Rabe
 	goose	Gans
 	crow	Krähe
-	zoom-zoom	tuten	heulen	pfeifen
-	pound with a pestle	mörsern	etw. in einem Mörser zerstoßen
-	residence	Wohnsitz	Wohnort	Wohnung
-	pea-brained	dumm	töricht	jn an der Nase herumführen	jn zum Narren halten
-	by chance	zufällig	unerwartet	gelegentlich	Figur	Bildnis
+	zoom-zoom	tuten
+	pound with a pestle	zerstößeln
+	residence	Wohnsitz
+	pea-brained	blöde
+	by chance	zufällig
 	stern	streng	strikt	rigoros	unnachsichtig
 	encourage	ermuntern	anspornen	aneifern
 	steel	Stahl
@@ -2830,21 +2830,21 @@ KARTE	drag (v.)	schleppen
 	go against	widerstreben	zuwiderlaufen
 	go upstream	stromaufwärts fahren
 	plastic (n.)	Plastik
-	vat	Tongefäß	irdener Topf	großer Behälter
-	jar	Büchse	Dose	Topf	Krug
+	vat	Bottich
+	jar	Krug
 	depressed	deprimiert
 	salt (n.)	Salz
 	salty	salzig	gesalzen
-	draw out	herausholen	herausnehmen	herausziehen
-	wash in a container	etw. in einem Korb oder in einer Pfanne waschen
-	pottery	Keramik	Tonwaren
-	rumor	Ballade	Lied	Gerücht
-	injustice	Unrecht	Ungerechtigkeit	Justizirrtum
-	gluttonous	unersättlich	gefräßig	schleckerig	naschhaft
-	tow (v.)	ziehen
-	strive	sich bemühen	sich Mühe geben	sich anstrengen
-	rubber tree	Kautschukbaum
-	pleased	erfreut	freudig	Bequemlichkeit
+	draw out	herausholen
+	wash in a container	in einem Behälter waschen
+	pottery	Töpferwaren
+	rumor	Gerücht
+	injustice	Ungerechtigkeit
+	gluttonous	gefräßig
+	tow (v.)	ziehen	aufrollen
+	strive	sich bemühen
+	rubber tree	Kautschukbaum	Eiche
+	pleased	erfreut	freudig	gemütlich
 	take flight	galoppieren	emporschnellen	in die Höhe steigen	emporsteigen
 	numeral	Nummernbezeichnung	Ziffernbezeichnung	Gewichtsbezeichnung
 	tame (adj./v.)	zahm	zähmen	bändigen	dressieren
@@ -2937,7 +2937,7 @@ KARTE	drag (v.)	schleppen
 	bump (v.)	zusammenprallen
 	transfer (v.)	verrücken	verlegen	rücken	verschieben
 	charge falsely	falsch beschuldigen	verleumden
-	reputation	Ruhm	Ruf
+	reputation	Ansehen
 	islet	Inselchen
 	thick-headed	dumm	wirrköpfig	doof	töricht	stur	starrsinnig	schwerfällig
 	brick	Ziegel	Backstein

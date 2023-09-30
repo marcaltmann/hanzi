@@ -2030,8 +2030,8 @@ KARTE	drag (v.)	schleppen
 	repay	zurückzahlen
 	for sleeping	Schlaf-
 	close to	nahe bei	nah dran
-	we (exclusive)	wir	ich
-	inundate	überfluten	überschwemmen
+	we (exclusive)	wir (ausschließend)
+	inundate	überschwemmen
 	conceal	bedecken	zuhalten	zudecken	zumachen	zuschließen
 	prod (v.)	drängen	antreiben
 	wreck (v.)	beschädigen	zerbrechen	zerstören
@@ -2335,7 +2335,7 @@ KARTE	drag (v.)	schleppen
 	gong	Gong
 	make the rounds	Streife gehen
 	bamboo basket	Bambuskorb
-	barbaric	grob	wild	roh	gewalttätig	barbarisch
+	barbaric	barbarisch
 	neck (n.)	Genick
 	plant stem	Stängel
 	powerful	kräftig
@@ -2910,36 +2910,36 @@ KARTE	drag (v.)	schleppen
 	draw near	sich nähern
 	deaf	taub
 	cage (n.)	Käfig	Korb	Topfaufsatz zum Dämpfen
-	insert (v.)	stecken	hineinstecken	aufstecken	einsetzen
-	ruin (v.)	zerstören	vernichten	verbrennen	verleumden	diffamieren
-	mother‘s brother	Onkel mütterlicherseits	Bruder der Mutter	Schwager
+	insert (v.)	hineinstecken
+	ruin (v.)	ruinieren
+	mother‘s brother	Bruder der Mutter
 	stake (n.)	Pflock
 	bore a hole	meißeln	ein Loch bohren
-	mouse	Maus	Ratte
+	mouse	Maus
 	scurry	davonlaufen
 	dried meat	Pökelfleisch
 	wax (n.)	Wachs
 	hunt (v.)	jagen
-	vessels	Wasserfahrzeug	Wasserfahrzeuge
-	elder brother‘s wife	Frau des älteren Bruders	Schwägerin
-	emaciated	dünn	mager	abgezehrt	abgemagert
-	search (v.)	durchsuchen	auf der Suche nach etw. sein
-	unhulled rice	Reis	ungeschälter Reis	Naturreis
-	tread (v.)	betreten	schreiten
-	surging	überfließen	fluten
-	get stuck	Fallgrube	Falle	hineinfallen	steckenbleiben	in etw. geraten
-	flame (n.)	Flamme	Feuerzunge
-	filling	Füllung	Füllung für Kuchen u.ä.
-	vehicles	Fahrzeug	Fahrzeuge
+	vessels	Wasserfahrzeug
+	elder brother‘s wife	Frau des älteren Bruders
+	emaciated	abgemagert	abgezehrt
+	search (v.)	durchsuchen
+	unhulled rice	ungeschälter Reis
+	tread (v.)	betreten	schreiten	stampfen	aufstampfen
+	surging	durchfluten	Wellen schlagend
+	get stuck	steckenbleiben
+	flame (n.)	Flamme
+	filling	Füllung
+	vehicles	Fahrzeug
 	dissemble	verheimlichen	verschweigen	für sich behalten
 	frank (adj.)	offenherzig
-	embellish	schmücken	dekorieren	zusammenflicken	zusammennähen	ausschmücken
+	embellish	verzieren
 	bump (v.)	zusammenprallen
-	transfer (v.)	verrücken	verlegen	rücken	verschieben
+	transfer (v.)	verrücken	rücken	verlegen
 	charge falsely	falsch beschuldigen	verleumden
 	reputation	Ansehen
 	islet	Inselchen
-	thick-headed	dumm	wirrköpfig	doof	töricht	stur	starrsinnig	schwerfällig
+	thick-headed	töricht
 	brick	Ziegel	Backstein
 	favor (n.)	Gefälligkeit	Gunst
 	ear of grain	Ähre
@@ -2955,7 +2955,7 @@ KARTE	drag (v.)	schleppen
 	turbid	trübe
 	candle	Kerze
 	touch (v.)	berühren
-	admonish	ermahnen	einschärfen	raten
+	admonish	ermahnen
 	railing	Geländer
 	impede	aufhalten
 	tracks	Fußabdruck	Spur	Fußspur
@@ -2963,19 +2963,19 @@ KARTE	drag (v.)	schleppen
 KARTE	pharmaceutical (n.)	Pharmazeutikum
 KARTE	abstain from food	fasten
 KARTE	squeeze (v.)	pressen
-KARTE	push button (n.)	Knopf
+KARTE	push button (n.)	Knopf	Schaltfläche
 KARTE	shy	schüchtern
 KARTE	New York	New York
 KARTE	spleen	Milz
 KARTE	beer	Bier
 KARTE	stele	Stele	Denkmal
-	illustrious	prominent	hervorragend	auffällig	bemerkenswert	Hertz
+	illustrious	prominent
 	terrify	einen Schrecken einjagen	erschrecken
-	radiating vitality	Kraft und Energie ausstrahlen
-	indication	Spur	Fährte	Stapfen	Überbleibsel	Überrest	Ruine	Anzeichen	Anschein
+	radiating vitality	Kraft und Energie ausstrahlen	frisch und munter
+	indication	Anzeichen	Spur	Fährte
 	phraseology	Ausdrucksweise
 	tortoise	Schildkröte
-	rope (n.)	Seil	Strick
+	rope (n.)	Seil
 	flies	Fliege
 	butterfly (front end)	Schmetterling (Vorderteil)
 	butterfly (back end)	Schmetterling (Hinterteil)

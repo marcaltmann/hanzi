@@ -2845,27 +2845,27 @@ KARTE	drag (v.)	schleppen
 	strive	sich bemühen
 	rubber tree	Kautschukbaum	Eiche
 	pleased	erfreut	freudig	gemütlich
-	take flight	galoppieren	emporschnellen	in die Höhe steigen	emporsteigen
-	numeral	Nummernbezeichnung	Ziffernbezeichnung	Gewichtsbezeichnung
-	tame (adj./v.)	zahm	zähmen	bändigen	dressieren
-	Mary	Marie
-	be stationed	sich aufhalten	verweilen	stationieren	Standort halten
-	arrogant	hochmütig
-	gallop (v.)	schnell fahren	galoppieren
-	leech-hopper	Blutegel	Grashüpfer	Ameise	Bluthüpfer	Grasegel	Egelhüpfer
+	take flight	emporsteigen
+	numeral	Nummernbezeichnung	Numerale
+	tame (adj./v.)	zähmen
+	Mary	Marie	Matteo
+	be stationed	stationiert sein
+	arrogant	arrogant
+	gallop (v.)	galoppieren
+	leech-hopper	Gras-Egel
 	proof	Beleg
-	maneuver (v.)	fahren	schnell fahren	rasen
-	disturb	Aufruhr	Unruhe	liederlich	wollüstig	kokett
-	drive (v.)	vorspannen	anspannen	fahren	lenken	steuern
-	mule	Maultier	Maulesel
-	refute	bestreiten	zurückweisen	widerlegen	widersprechen	Leichter	Lastkahn	mit einem Lastkahn transportieren
+	maneuver (v.)	steuern
+	disturb	stören
+	drive (v.)	lenken
+	mule	Maultier
+	refute	widerlegen
 	rush (v.)	stürmen
-	drive away	vertreiben	zerstreuen	ein Pferd lenken	einen Wagen lenken	rasen	schnell rennen
-	cheat (v.)	betrügen	prellen	lügen	begaunern	beschwindeln
+	drive away	vertreiben	ausweisen
+	cheat (v.)	lügen	täuschen	beschwindeln
 	trot (v.)	traben
 	hand over	etwas übergeben
-	take captive	Kriegsgefangener	gefangennehmen
-	despotic	grausam	tyrannisch	unmenschlich	misshandeln
+	take captive	gefangennehmen
+	despotic	despotisch
 	skin (n.)	Haut
 	Louvre	Louvre
 	stove	Kochstelle
@@ -2880,7 +2880,7 @@ KARTE	drag (v.)	schleppen
 	donate	widmen	beitragen
 	melt	schmelzen
 	separate (v.)	trennen
-	filter (v.)	filtern	seihen
+	filter (v.)	filtern
 	celebrate	feiern
 	recommend	empfehlen
 	outstanding	außerordentlicher Mensch	außergewöhnlicher Mensch	Held	Heros	überragend	außergewöhnlich	hervorragend
@@ -3088,3 +3088,4 @@ KARTE	stele	Stele	Denkmal
 鈣	gài	Kalzium
 隘	ài	Pass	Engpass
 氨	ān	Ammoniak
+唬	hǔ	bluffen

@@ -2995,8 +2995,8 @@ KARTE	stele	Stele	Denkmal
 	coffee (last drop)	Kaffee (letzter Tropfen)	Kaffee (zweite Tasse)
 	grapes (A)	Weintraube (A)
 	grapes (B)	Weintraube (B)
-	in-	an-	mündlich befehlen	mündliche einen Auftrag geben
-	-struct	-weisen
+	in-	an-	in-
+	-struct	-weisen	-struieren
 	ping	Ping
 	pong	Pong
 	Cui	Cui
@@ -3021,19 +3021,19 @@ KARTE	stele	Stele	Denkmal
 	Yue	Yue
 	as though	es scheint etw. zu sein	ähnlich	ziemlich gleich
 	jasmine	Jasmin
-	Hunan Province	Hunan	Provinz Hunan
-	outlying areas	Weideland	Grasland	Umland
-	dark blue	dunkelblau	(Wasser) dunkelblau
-	reverent	ehrfürchtig	feierlich	ehrerbietig
+	Hunan Province	Provinz Hunan
+	outlying areas	Außenbezirke	Umland
+	dark blue	dunkelblau
+	reverent	ehrerbietig
 	na	na	Anna
-	fine jade	feiner Jade	feine Jade
-	gem	schöner Jade	Edelstein	Schmuckstein	schöne Jade
-	30 catties	30 Pfund	30 Jin
+	fine jade	feine Jade
+	gem	Kleinod
+	30 catties	30 Pfund
 	Oh!	Oha!
 	cannon	Kanone	Geschütz	Kanonenschuss	Feuerwerk	Knallfrosch
 	search for	Frühlingsjagd	sammeln
-	hibiscus	Hibiskus	Eibisch
-	cottonrose hibiscus	Mandeleibisch
+	hibiscus	Hibiskus	Eibisch	Hibiskus (A)
+	cottonrose hibiscus	Mandeleibisch	Hibiskus (B)
 	tricks of the trade	Kniff	Trick	Kunstgriff	Reimspruch							訣	-
 	titanium	Titan										鈦	-
 	hemorrhoids	Hämorrhoiden
@@ -3090,3 +3090,5 @@ KARTE	stele	Stele	Denkmal
 氨	ān	Ammoniak
 唬	hǔ	bluffen
 朧	lóng	Erscheinung des Mondes	diesig
+蘑	mó	Pilz (Kappe)
+菇	gū	Pilz (Stiel)

@@ -66,22 +66,22 @@
 	bull‘s eye	"das ""Schwarze"""											
 	heads	Haupt											
 	straight	gerade											
-	set up	einbauen	installieren										
+	set up	installieren											
 	tool	Werkzeug											
 	true	wahr											
 	work (n.)	Arbeit											
 	left (n./adj.)	links											
 	right (n./adj.)	rechts											
-	possess	haben	besitzen										
-	bribe (n.)	bestechen	Bestechung										
-	tribute	Tribut	Abgabe										
+	possess	besitzen											
+	bribe (n.)	bestechen											
+	tribute	Tribut											
 	item	Punkt 1, 2, 3 (etc.)											
-	sword	Messer	Schwert										
+	sword	Messer											
 	blade	Klinge											
 	cut (v.)	schneiden											
 	summon	herbeirufen											
-	evident	deutlich	offensichtlich	evident									
-	rule (n.)	Regel		Vorschrift									
+	evident	evident											
+	rule (n.)	Regel											
 	vice-	Vize-											
 	fourth	viertens											
 	sting (v.)	stechen											
@@ -95,7 +95,7 @@
 	-ed	(Perfek)-t											
 	woman	Frau											
 	good	gut											
-	be like	sein wie	so wie										
+	be like	so wie											
 	mother	Mutter											
 	pierce	durchbohren											
 	elder brother	älterer Bruder											
@@ -105,10 +105,10 @@
 	noisy	lärmend											
 	large	groß											
 	tip (n.)	Spitze											
-	evening	Abend	Tagesende										
-	many	viel	viele										
+	evening	Tagesende											
+	many	viel											
 	enough	genug											
-	outside	außen	draußen										
+	outside	draußen											
 	name (n.)	Name											
 	thick	dick											
 	stone	Stein											
@@ -119,16 +119,16 @@
 	ray	Licht											
 	overly	allzu											
 	economize	sparen											
-	strange	kurios	außergewöhnlich	merkwürdig	seltsam								
+	strange	seltsam											
 	stream (n.)	Fluss											
-	state (n.)	autonomer Bezirk	Bezirk										
+	state (n.)	Bundesstaat											
 	obey	befolgen											
 	water (n.)	Wasser											
-	eternity	immer	ewig	Ewigkeit									
-	request (v.)	nach etw. verlangen	dringend bitten	nachfragen									
-	spring (n.)	Springquelle	Geysir										
-	flatlands	Ebene	Flachland										
-	wish (n.)	Wunsch	wollen										
+	eternity	Ewigkeit											
+	request (v.)	nach etw. verlangen											
+	spring (n.)	Springquelle											
+	flatlands	Flachland											
+	wish (n.)	Wunsch											
 	wash away	spülen											
 	swim (v.)	schwimmen											
 	continent	Kontinent											
@@ -168,9 +168,9 @@
 	dawn (n.)	Morgendämmerung											
 	li	Li											
 	quantity	Menge											
-	bury	vergraben	begraben										
+	bury	vergraben											
 	black	schwarz											
-	spot (n.)	Punkt	Fleck										
+	spot (n.)	Punkt											
 	black ink	schwarze Tusche											
 	risk (v.)	riskieren											
 	same	dasselbe	identisch										
@@ -179,7 +179,7 @@
 	esteem (v.)	wertschätzen											
 	character	Schriftzeichen											
 	guard (v.)	bewachen											
-	finish (v.)	vollenden	beenden										
+	finish (v.)	vollenden											
 	reality	Wirklichkeit											
 	proclaim	verkünden											
 	nighttime	Nacht	in den Puppen										
@@ -1189,7 +1189,7 @@ KARTE	elementary	elementar
 	Yin	Yin											
 	shady	schattig											
 	west	Westen											
-	want (v.)	wollen	verlangen	fordern									
+	want (v.)	wollen											
 	waist	Taille											
 	ticket	Eintrittskarte											
 	drift (v.)	dahintreiben											

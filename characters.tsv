@@ -264,15 +264,15 @@
 	needle (n.)	Nadel
 	nail (n.)	Nagel
 	inscription	Inschrift
-	at ease	gelassen	gefasst
+	at ease	gelassen
 	way	Weg
-	guide (v.)	leiten	führen
-	speedy	rasch	rapid
-	create	kreieren	erschaffen
+	guide (v.)	leiten
+	speedy	rasch
+	create	erschaffen
 	patrol (v.)	patrouillieren
-	stroll (v.)	einen Bummel machen	bummeln
+	stroll (v.)	einen Bummel machen
 	car	Wagen
-	one after another	aufeinanderfolgend	eins nach dem anderen	hintereinander weg
+	one after another	aufeinanderfolgend
 	lotus	Lotus
 	in front	vor
 	shears	Schere
@@ -301,7 +301,7 @@
 	capital	Hauptstadt
 	cool	kühl
 	scenery	Landschaft
-	at once	plötzlich	augenblicklich	sofort
+	at once	sofort
 	circumference	Umfang
 	week	Woche
 	soldier	Soldat
@@ -312,18 +312,18 @@
 	drawing (n.)	Zeichnung
 	scratch (v.)	ritzen	kratzen
 	attack (v.)	angreifen
-	fail	unterliegen	verlieren	scheitern
-	deliberately	mit Absicht	absichtlich	vorsätzlich
+	fail	scheitern
+	deliberately	absichtlich
 	rescue (v.)	retten
-	revere	achten	respektieren	ehren	verehren
+	revere	verehren
 	spacious	geräumig
 	say	sagen
 	police (n.)	Polizei
 	plan (n.)	Plan
 	prison	Gefängnis
 	condemn	verurteilen	tadeln	anprangern
-	instruction	Belehrung	Unterweisung
-	talk (n.)	Rede	Gerede
+	instruction	Unterweisung
+	talk (n.)	Rede
 	poem	Gedicht
 	language	Sprache
 	read (v.)	lesen
@@ -335,14 +335,14 @@
 	halberd	Hellebarde
 	or	oder
 	burglar	Dieb	Räuber	Einbrecher
-	laden	beladen sein mit	beladen
+	laden	beladen
 	iron (n.)	Eisen
 	lush	üppig
 	turn into	werden zu
 	city	Stadt
 	sincere	aufrichtig
 	might (n.)	Macht
-	destroy	löschen	ausmachen	vernichten
+	destroy	vernichten
 	everybody	alle
 	reduce	verringern
 	list (n.)	Liste
@@ -357,22 +357,22 @@
 	agree	zustimmen
 	look forward to	auf Zehenspitzen stehen	herbeisehnen	sich erhoffen
 	years of age	Lebensjahr
-	military (adj.)	militärisch	kriegerisch
-	levy (n.)	Besteuerung	besteuern
-	correct (v./adj.)	korrekt	richtig
+	military (adj.)	militärisch
+	levy (n.)	Besteuerung
+	correct (v./adj.)	korrekt
 	politics	Politik
-	settle on	bestimmen	festsetzen	beschließen
+	settle on	festsetzen	beschließen
 	walk (v.)	laufen
-	transcend	übersteigen	super-
+	transcend	super-
 	surpass	überschreiten	übersteigen	je mehr … desto …
 	be	sein
 	topic	Thema
-	build	erbauen	errichten	bauen
+	build	bauen	errichten
 	prolong	verlängern
 	nativity	Geburt
 	clear (adj.)	klar
 	foundation	Fundament
-	clothing	Kleidung	Gewand
+	clothing	Kleidung
 	inside	innen	das Innere
 	grief	Trauer	Kummer
 	Yuan	Yuan
@@ -387,7 +387,7 @@ KARTE	elementary	elementar
 	help (v.)	helfen
 	market (n.)	Markt
 	lungs	Lunge
-	sash	Gurt	Gürtel
+	sash	Gürtel
 	stagnant	stocken	stagnieren	stauen
 	thorn	Dorn
 	system	System
@@ -401,7 +401,7 @@ KARTE	elementary	elementar
 	ice (n.)	Eis
 	winter	Winter
 	heavens	Himmel
-	die young	früh sterben	jung sterben
+	die young	jung sterben
 	pretend	sich verkleiden	vortäuschen
 	bridge (n.)	Brücke
 	attractive	zart	reizend	bezaubernd
@@ -429,23 +429,23 @@ KARTE	elementary	elementar
 	purpose	Zweck
 	grease (n.)	Fett
 	every	jeder	jedes	jedes Mal
-	small plum	Japanische Pflaume	Asiatische Pflaume
+	small plum	Asiatische Pflaume
 	sea	Meer
 	beg	betteln
 	eat	essen
 	dry (adj.)	trocken
-	duplicate (v.)	duplizieren	verdoppeln
+	duplicate (v.)	verdoppeln
 	abdomen	Unterleib
 	lack (v.)	mangeln
 	blow (v.)	blasen
 	song	Lied
 	soft	weich
-	next	nächst	nächster
+	next	nächster
 	assets	Kapital
-	looks (n.)	Aussehen	Antlitz
-	consult with	konsultieren	zu Rate ziehen
-	compensate	kompensieren	entschädigen
-	cultivate	um etw. Erde anhäufen	heranbilden	kultivieren
+	looks (n.)	Antlitz
+	consult with	zu Rate ziehen
+	compensate	entschädigen
+	cultivate	um etw. Erde anhäufen	kultivieren
 	sound (n.)	Ton	Laut	Klang
 	dark (adj.)	dunkel
 	rhyme (n.)	Reim
@@ -461,7 +461,7 @@ KARTE	elementary	elementar
 	direction	Richtung
 	hinder	hindern
 	release (v.)	freilassen
-	excite	erregen	anreizen	anregen
+	excite	erregen	anregen
 	(all-purpose preposition)	(Allzweckpräposition)
 	side (n.)	Seite
 	convert (v.)	wechseln	umtauschen
@@ -469,7 +469,7 @@ KARTE	elementary	elementar
 	speak	sprechen
 	formerly	schon einmal	früher einmal	einst
 	increase (v.)	vermehren	zunehmen
-	make a present of	schenken	überreichen	Geschenke machen
+	make a present of	schenken	Geschenke machen
 	east	Osten
 	building	Gebäude
 	freeze (v.)	gefrieren
@@ -497,7 +497,7 @@ KARTE	elementary	elementar
 	ocean	Ozean
 	fresh	frisch
 	reach (v.)	erreichen	gelangen nach
-	appearance	Aussehen	Erscheinungsbild
+	appearance	Erscheinungsbild
 	fall short of	hinter etwas zurückbleiben	Abweichung
 	gather	sammeln
 	advance (v.)	vorwärtsgehen	vorrücken
@@ -552,7 +552,7 @@ KARTE	elementary	elementar
 	righteousness	Gerechtigkeit	Rechtschaffenheit
 	deliberate (v.)	beratschlagen	Meinungen austauschen	besprechen
 	ant	Ameise
-	embrace	in die Arme nehmen	in den Armen halten	umarmen
+	embrace	in die Arme nehmen	umarmen
 	combat	Widerstand leisten	bekämpfen	verweigern	trotzen
 	criticize	kritisieren
 	beckon	winken	herbeiwinken
@@ -577,13 +577,13 @@ KARTE	elementary	elementar
 	mold (v.)	Gussform
 	genius	Genie
 	riches	Vermögen	Reichtum
-	deposit (v.)	hinterlegen	deponieren	speichern	lagern
+	deposit (v.)	hinterlegen	deponieren
 	at	sich befinden	bei
 	only then	erst dann
 	milk (n.)	Milch
 	catch up with	gleichkommen	erreichen
 	inhale	einatmen	inhalieren
-	history	Geschichte	Historie
+	history	Geschichte
 	even more	noch mehr
 	hard	hart
 	again	wieder
@@ -680,23 +680,23 @@ KARTE	elementary	elementar
 	regulations	Gepflogenheit	Vorschrift
 	replace	ersetzen	an die Stelle treten von
 	lose	verlieren
-	feudal official	Beamter	Feudalbeamter
-	be about to	kurz vor	kurz davor sein
+	feudal official	Feudalbeamter
+	be about to	kurz davor sein
 	worthy	tugendhaft	pflichtgetreu	würdig
 	firm (adj.)	standhaft
 	power	Kraft
 	another	anderer
-	don‘t	nicht tun!	nicht …!
+	don‘t	nicht …!
 	turn (v.)	abbiegen
 	male (n.)	Mann
-	achievement	Errungenschaft	Leistung	Verdienst
+	achievement	Errungenschaft
 	slave (n.)	Sklave
 	toil (v.)	sich anstrengen
 	add	addieren	hinzufügen
 	congratulate	gratulieren
 	shelf (n.)	Regal
 	cooperate	kooperieren
-	line of business	Branche	Geschäftsbereich
+	line of business	Branche
 	law	Gesetz
 	recover	wiederherstellen	wiedererlangen
 	must (aux. v.)	müssen
@@ -704,7 +704,7 @@ KARTE	elementary	elementar
 	toward	gen
 	tiny	winzig
 	street	Straße
-	morality	Tugend	Moral
+	morality	Moral
 	listen	horchen	zuhören
 	hall	Halle
 	standing grain	stehendes Getreide
@@ -713,7 +713,7 @@ KARTE	elementary	elementar
 	shift (v.)	verlagern	verlegen	verschieben
 	autumn	Herbst
 	gloomy	betrübt	bedrückt	bekümmert
-	profit (n.)	Gewinn	Profit
+	profit (n.)	Profit
 	perfume (n.)	Parfüm
 	seasons (n.)	Jahreszeit
 	committee	Komitee	Kommission
@@ -736,7 +736,7 @@ KARTE	elementary	elementar
 	person	Mensch
 	prisoner	Häftling
 	portion	Portion
-	occupy	einnehmen	etw. in Besitz nehmen	erobern	sich aneignen	besetzen
+	occupy	einnehmen
 	furniture	Möbel
 	you	du
 	you (respectful)	Sie
@@ -757,13 +757,13 @@ KARTE	elementary	elementar
 	individual	einzelner
 	healthy	gesund
 	halt (v.)	anhalten
-	upside down	verkehrt herum	rückwärts	umgekehrt
+	upside down	verkehrt herum	umgekehrt
 	benevolence	Menschlichkeit	Herzensgüte	Gutherzigkeit	Humanität
 	excellent	vorzüglich	exzellent
 	wound (n.)	Wunde
 	safeguard (v.)	sichern	gewährleisten	garantieren	versichern
-	fort	Festung	Burg
-	pay (v.)	bezahlen		geben	übergeben	überlassen
+	fort	Burg
+	pay (v.)	bezahlen
 	government office	Regierungssitz
 	bow one‘s head	den Kopf neigen
 	substitute for	vertreten	ersetzen
@@ -777,7 +777,7 @@ KARTE	elementary	elementar
 	use (v.)	benutzen	verwenden	gebrauchen
 	long time	lange Zeit
 	Chinese acre	chinesischer Morgen
-	third	das dritte	drittes
+	third	drittes
 	handle (n.)	Griff
 	meat	Fleisch
 	rotten	verfaulen	faulig	Tofu
@@ -791,7 +791,7 @@ KARTE	elementary	elementar
 	drink (v.)	trinken
 	thirsty	durstig
 	appoint	ernennen
-	royal court	Hof eines feudalen Herrschers	Königshof
+	royal court	Königshof
 	court of law	Gerichtshof
 	by means of	mittels
 	similar	ähnlich sein	ähneln	gleichend
@@ -802,7 +802,7 @@ KARTE	elementary	elementar
 	glory (n.)	Ruhm
 	labor (n.)	Arbeit	Mühsal	Maloche
 	camp	Feldlager
-	virtuous	tugendhaft	wohlwollend	gutherzig	mildtätig	gütig
+	virtuous	tugendhaft	gutherzig	mildtätig	gütig
 	year	Jahr
 	night	Nacht
 	liquid	Flüssigkeit
@@ -822,17 +822,17 @@ KARTE	elementary	elementar
 	woolen cloth	Wollstoff
 	mud	Schlamm
 	habitation	Haus	Zimmer
-	grip (v.)	fassen	erfassen
+	grip (v.)	fassen
 	reside	wohnen	leben	residieren
 	saw (n.)	Säge
 	story	Schicht	Schichtung	Stockwerk
-	bureau	Amt	Büro	Behörde
+	bureau	Amt	Behörde
 	door	Tür
 	domicile	Domizil	Zimmer
 	hire (v.)	jn einstellen	anstellen
 	look back	sich herumdrehen und schauen	sich umsehen	berücksichtigen
 	show (v.)	zeigen
-	society	Gesellschaft	Verein
+	society	Gesellschaft
 	inspect	sehen	inspizieren
 	happiness	Glückseligkeit
 	prohibit	verbieten	Tabu

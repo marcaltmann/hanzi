@@ -1055,7 +1055,7 @@ KARTE	elementary	elementar
 	courageous	mutig	kühn	tapfer
 	criminal (n.)	Verbrecher	Straftäter
 	danger	Gefahr
-	fragile	brüchig	spröde	knusprig	zerbrechlich
+	fragile	brüchig
 	print (n./v.)	drucken
 	excitement	Begeisterung	Interesse	Freude
 	liquor	Alkohol
@@ -1073,8 +1073,8 @@ KARTE	elementary	elementar
 	kitchen	Küche
 	timber	Baum
 	blood	Blut
-	exhausted	zu Ende	erschöpft	am Ende	nicht mehr weiter	äußerst
-	to the utmost	bis zum Möglichsten	mit allen Mitteln	mit aller Kraft		äußerst
+	exhausted	zu Ende	erschöpft	am Ende	nicht mehr weiter
+	to the utmost	bis zum Möglichsten	äußerst
 	lid	Deckel
 	temperature	Temperatur
 	supervise	überwachen
@@ -1089,15 +1089,15 @@ KARTE	elementary	elementar
 	retreat (v.)	sich zurückziehen	zurückbewegen	zurücktreten	abtreten	(Dienst usw.) quittieren
 	leg	Bein
 	limit (n./v.)	limitieren	beschränken	begrenzen
-	eyelet	kleines Loch	enge Öffnung	Öse
-	high-quality (adj.)	von guter Qualität	hochwertig
-	breakers	Woge	Brecher
+	eyelet	Öse
+	high-quality (adj.)	hochwertig
+	breakers	Woge
 	mom	Mutti
 	food	Essen
 	meal	Mahlzeit
-	dine	speisen	eine Mahlzeit einnehmen
-	Bldg.	Unterkunft für Gäste	Stätte für kulturelle Aktivitäten	Gbde.
-	raise (v.)	ernähren	großziehen
+	dine	speisen
+	Bldg.	Gbde.
+	raise (v.)	großziehen
 	since	da
 	approximate (adj.)	allgemein	im allgemeinen	ungefähr	generell
 	even (adj.)	eben	platt	flach
@@ -1107,7 +1107,7 @@ KARTE	elementary	elementar
 	shout (v.)	ausatmen	herausschreien	rufen	schreien
 	hope (v.)	hoffen
 	scarce	spärlich
-	study (v.)	lernen	studieren
+	study (v.)	studieren
 	senses (n.)	Sinne	spüren
 	stir (v.)	umrühren	rühren
 	sinister	unheildrohend	verhängnisvoll
@@ -1148,7 +1148,7 @@ KARTE	elementary	elementar
 	competition	Wettkampf
 	poison (n.)	Gift
 	vegetarian diet	vegetarische Kost
-	blue or green	grün-blau	blau oder grün
+	blue or green	grün-blau
 	refined	raffiniert	verfeinert
 	invite	bitten	einladen
 	feelings	Gefühl
@@ -1228,7 +1228,7 @@ KARTE	elementary	elementar
 	drought	Dürre
 	hurry (v.)	eilen
 	Yu	Yu
-	eaves	Dachtraufe	Dachrinne	Dachvorsprung
+	eaves	Dachvorsprung
 	moi	moi
 	excess	Rest	Überschuss
 	eliminate	loswerden	entfernen	beseitigen
@@ -1255,7 +1255,7 @@ KARTE	elementary	elementar
 	look up to	zu jemandem aufschauen	aufschauen
 	greet	begrüßen
 	ascend	in die Höhe gehen	nach oben steigen	besteigen
-	lamp	Leuchte	Lampe
+	lamp	Leuchte
 	evidence	Nachweis	Beweis	Beleg	Ausweis
 	send out	senden	absenden	aussenden
 	discard (v.)	abschaffen	fallenlassen	aufgeben	etwas aufgeben
@@ -1276,14 +1276,14 @@ KARTE	rare	kostbar	selten
 	tumble (v.)	auf den Boden fallen	stürzen	abstürzen
 	center	Zentrum
 	England	England
-	crust	etwas Eingetrocknetes	Kruste	Bodenkruste
+	crust	Kruste
 	grasp (v.)	halten	greifen	ergreifen	Griff	Handgriff	Henkel
 	papa	Papa
 	bar (n.)	Bar
 	color (n.)	Farbe
 	discontinue	abbrechen
-	sweet	gefällig	wohltuend	süß
-	such and such (adj.)	gewisser	soundso
+	sweet	süß
+	such and such (adj.)	gewisser
 	his-hers-its-theirs	ihr sein
 	period of time	Periode
 	base (n.)	Grundlage

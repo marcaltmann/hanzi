@@ -653,12 +653,12 @@ KARTE	elementary	elementar
 	political party	Partei
 	often	oft
 	main room	Saal
-	covering (n.)	Haut	Umhüllung
+	covering (n.)	Umhüllung
 	waves	Welle
 	old woman	alte Frau
 	break (v.)	zerschlagen	beschädigen	kaputt machen
-	quilt (n.)	Bettdecke	Steppdecke
-	malicious	bösartig	böse
+	quilt (n.)	Steppdecke
+	malicious	bösartig
 	line up	einordnen	eine Aufstellung machen	aufreihen
 	intense	heftig	intensiv
 	death	Tod
@@ -705,7 +705,7 @@ KARTE	elementary	elementar
 	tiny	winzig
 	street	Straße
 	morality	Moral
-	listen	horchen	zuhören
+	listen	zuhören
 	hall	Halle
 	standing grain	stehendes Getreide
 	journey (n.)	Reise	Reiseabschnitt	Fahrt
@@ -716,13 +716,13 @@ KARTE	elementary	elementar
 	profit (n.)	Profit
 	perfume (n.)	Parfüm
 	seasons (n.)	Jahreszeit
-	committee	Komitee	Kommission
+	committee	Komitee
 	elegant	elegant
 	penetrate	durchdringen
 	entice	verführen	verlocken	verleiten
 	experience (n./v.)	etwas erleben	erleben
 	rice	Reis
-	lost	verirren	verirrt
+	lost	verirrt
 	riddle	Rätsel
 	kind (n.)	Sorte	Typ	Kategorie	Art
 	bamboo	Bambus
@@ -757,11 +757,11 @@ KARTE	elementary	elementar
 	individual	einzelner
 	healthy	gesund
 	halt (v.)	anhalten
-	upside down	verkehrt herum	umgekehrt
+	upside down	verkehrt herum
 	benevolence	Menschlichkeit	Herzensgüte	Gutherzigkeit	Humanität
 	excellent	vorzüglich	exzellent
 	wound (n.)	Wunde
-	safeguard (v.)	sichern	gewährleisten	garantieren	versichern
+	safeguard (v.)	sichern	gewährleisten	versichern
 	fort	Burg
 	pay (v.)	bezahlen
 	government office	Regierungssitz
@@ -780,7 +780,7 @@ KARTE	elementary	elementar
 	third	drittes
 	handle (n.)	Griff
 	meat	Fleisch
-	rotten	verfaulen	faulig	Tofu
+	rotten	faulig
 	multitude	Menschenmasse
 	sit	sitzen
 	seat (n.)	Sitz
@@ -852,7 +852,7 @@ KARTE	elementary	elementar
 	gods	Gottheit
 	fruit	Frucht
 	lesson	Lektion
-	granule	Kügelchen	Körnchen			Korn
+	granule	Kügelchen	Körnchen
 	catty (n.)	Pfund	Jin
 	place (n.)	Stelle
 	near	nah
@@ -867,7 +867,7 @@ KARTE	elementary	elementar
 	yesterday	gestern
 	do	tun	machen	schreiben	verfassen	(künstlerisch) schaffen
 	snow (n.)	Schnee
-	anxious	es eilig haben	auf etw. brennen	ungeduldig
+	anxious	es eilig haben	ungeduldig
 	seek	suchen
 	married woman	verheiratete Frau
 	sweep	kehren	fegen
@@ -886,7 +886,7 @@ KARTE	elementary	elementar
 	crowd (n.)	Meute
 	and	und
 	need (v.)	brauchen	bedürfen	etw. nötig haben
-	Confucian	Konfuzianische Schule	konfuzianisch
+	Confucian	konfuzianisch
 	auspicious	Gutes verheißend	glückbringend	günstig
 	upright	aufrecht
 	bent	krumm
@@ -896,9 +896,9 @@ KARTE	elementary	elementar
 	utilize	benutzen	anwenden	verwenden	gebrauchen
 	times past	Vergangenheit
 	borrow	leihen
-	mistaken	irrtümlich	irrig
-	scattered	verstreut	auseinander	sich lösen	sich lockern	auseinandergehen	lose
-	scatter	streuen	ausstreuen	spritzen	verstreuen	zerstreuen	verschütten
+	mistaken	irrtümlich
+	scattered	verstreut
+	scatter	streuen
 	prepare	vorbereiten
 	twenty	zwanzig
 	mat	Matte
@@ -908,7 +908,7 @@ KARTE	elementary	elementar
 	partner	Partner
 	fat (adj.)	fett	beleibt
 	judge (v.)	urteilen	beurteilen
-	dependents	Familienangehöriger	Angehöriger
+	dependents	Angehöriger
 	boxing (n.)	Boxen
 	victory	Sieg
 	slice (n.)	Scheibe
@@ -923,7 +923,7 @@ KARTE	elementary	elementar
 	blink (v.)	blinzeln
 	no	nein	nicht	negativ
 	negate	verneinen
-	cup	Tasse	Becher
+	cup	Tasse
 	dart (n.)	Pfeil
 	tribe	ethnische Gruppe
 	know	wissen
@@ -939,7 +939,7 @@ KARTE	elementary	elementar
 	wild (adj.)	wild
 	class (n.)	Klasse
 	bow (n.)	Bogen
-	draw (v.)	ziehen	anspannen	anziehen
+	draw (v.)	anziehen	anspannen
 	strong	stark
 	weak	schwach
 	bullet	Projektil	Geschoss
@@ -947,8 +947,8 @@ KARTE	elementary	elementar
 	expense	Kosten	Gebühr
 	younger brother	jüngerer Bruder
 	No.	Nr.
-	adroit	geschickt	gewandt
-	somebody	Rumpf	Körper	Leib
+	adroit	gewandt
+	somebody	Leib
 	shoot (v.)	schießen
 	thank	danken
 	old man	alter Mann
@@ -957,27 +957,27 @@ KARTE	elementary	elementar
 	filial piety	Kindespflicht
 	teach	lehren
 	someone	jemand	jemand mit einer Eigenschaft	derjenige mit einer Eigenschaft	Person
-	-ing	gerade …	-nd
+	-ing	-nd
 	pig	Schwein
 	chase	verfolgen
-	commander	Oberbefehlshaber	Oberkommandierender
+	commander	Oberbefehlshaber
 	teacher	Lehrer
 	lion	Löwe
-	bureaucrat	Beamter	Bürokrat
+	bureaucrat	Bürokrat
 	pipe	Rohr
 	father	Vater
 	mingle	Umgang pflegen mit
 	effect (n.)	Effekt
-	relatively	relativ	vergleichsweise
+	relatively	relativ
 	school (n.)	Schule
 	lower leg	Fuß	Bein	Unterschenkel
 	run (v.)	rennen
 	jump (v.)	springen
 	path	Pfad
-	dew	Tau	Tautropfen
+	dew	Tau
 	skeleton	Skelett
 	slippery	rutschig
-	cross (v.)	hinübergehen	überqueren
+	cross (v.)	überqueren
 	Apollo	die Alpen
 	aah!	Ah!	Ach!
 	occasion	Gelegenheit	Grenze	Rand	Anlass

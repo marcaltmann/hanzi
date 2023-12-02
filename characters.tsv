@@ -981,7 +981,7 @@ KARTE	elementary	elementar
 	Apollo	die Alpen
 	aah!	Ach!
 	occasion	Gelegenheit	Grenze	Rand	Anlass
-	perilous	Gefahr	Risiko	schwer passierbare Stelle	enger Pass
+	perilous	Gefahr	Risiko	heimtückisch	gefährlich
 	as you wish	nach Belieben
 	Yang	Yang
 	exhibit (v.)	ausstellen
@@ -1046,7 +1046,7 @@ KARTE	elementary	elementar
 	stay (v.)	bleiben
 	slide (v.)	gleiten	rutschen	glatt	flutschen
 	chat (v.)	plaudern
-	willow	Weide	Weidenbaum
+	willow	Weidenbaum
 	orders (n.)	Befehl
 	cold	kalt	eiskalt
 	zero	Null	null
@@ -1069,11 +1069,11 @@ KARTE	elementary	elementar
 	ceremony	Ritual	Zeremonie
 	body	Körper
 	drum	Trommel
-	joyful	Freude	sich freuen	freudig
+	joyful	freudig
 	kitchen	Küche
 	timber	Baum
 	blood	Blut
-	exhausted	zu Ende	erschöpft	am Ende	nicht mehr weiter
+	exhausted	erschöpft	am Ende
 	to the utmost	bis zum Möglichsten	äußerst
 	lid	Deckel
 	temperature	Temperatur
@@ -1108,11 +1108,11 @@ KARTE	elementary	elementar
 	hope (v.)	hoffen
 	scarce	spärlich
 	study (v.)	studieren
-	senses (n.)	Sinne	spüren
-	stir (v.)	umrühren	rühren
+	senses (n.)	Sinne
+	stir (v.)	rühren
 	sinister	unheildrohend	verhängnisvoll
 	cruel	böse	furchterregend	schrecklich
-	bosom	Brust	Busen
+	bosom	Brust
 	leave (v.)	verlassen
 	fowl	Geflügel
 	peppery	würzig	scharf
@@ -1121,7 +1121,7 @@ KARTE	elementary	elementar
 	partition (n.)	Trennwand	Mauer
 	evade	ausweichen
 	new	neu
-	fuel	Brennholz	Brennstoff
+	fuel	Brennstoff
 	relatives	Verwandter
 	inner garments	Futterstoff
 	good fortune	zum Glück	glücklicherweise	Glück

@@ -667,7 +667,7 @@ KARTE	elementary	elementar
 	take	holen	nehmen
 	interest	Interesse
 	most (adv.)	am meisten
-	job	Beruf
+	job	Job
 	holy	heilig
 	brave (adj.)	wagen	wagemutig	mutig
 	strict	streng	strikt
@@ -1256,24 +1256,24 @@ KARTE	elementary	elementar
 	greet	begrüßen
 	ascend	in die Höhe gehen	nach oben steigen	besteigen
 	lamp	Leuchte
-	evidence	Nachweis	Beweis	Beleg	Ausweis
+	evidence	Beweis
 	send out	senden	absenden	aussenden
 	discard (v.)	abschaffen	fallenlassen	aufgeben	etwas aufgeben
 	shape (n.)	Form
 	shadow (n.)	Schatten
 	hue	Farbe	Buntheit	Farbigkeit	Färbung	vielfarbig
 	have to	nötig sein
-KARTE	rare	kostbar	selten
+	rare	kostbar	selten
 	participate	teilnehmen
 	wretched	jämmerlich
 	repair (v.)	reparieren
 	literature	Schrift
 	mosquito	Mücke
 	erudite	intelligenter und ehrenhafter Mensch	versiert	distinguiert	gebildet	kultiviert
-	countenance (n.)	Gesichtsausdruck	Antlitz
+	countenance (n.)	Antlitz
 	products	Produkt
-	rate (n.)	-satz	Rate	Quote
-	tumble (v.)	auf den Boden fallen	stürzen	abstürzen
+	rate (n.)	Quote
+	tumble (v.)	stürzen
 	center	Zentrum
 	England	England
 	crust	Kruste
@@ -1301,7 +1301,7 @@ KARTE	rare	kostbar	selten
 	assist (v.)	assistieren
 	side by side	Seite an Seite
 	universal	allgemein	universal
-	profession	Beruf	Job	Branche
+	profession	Beruf	Branche
 	that‘s right	das stimmt
 	together	gemeinsam
 	supply (n./v.)	liefern	versorgen
@@ -1313,7 +1313,7 @@ KARTE	rare	kostbar	selten
 	Asia	Asien
 	evil (n./adj.)	böse	das Böse
 	angle	Ecke	Winkel
-	untie	aufbinden	aufschnüren
+	untie	aufschnüren
 	orifice	Mündung	Öffnung
 	once more	noch einmal	nochmals
 	weigh	abwiegen
@@ -1350,7 +1350,7 @@ KARTE	rare	kostbar	selten
 	boat	Boot
 	ship (n.)	Schiff
 	sort (n.)	Art	Weise	Sorte
-	tray	Teller	Tablett
+	tray	Teller
 	relocate	an einen anderen Platz legen	umstellen	umziehen	verlagern
 	melon	Melone
 	orphan	Waise
@@ -1358,16 +1358,16 @@ KARTE	rare	kostbar	selten
 	vacation (n.)	Urlaub	Ferien
 	shrimp	Garnele
 	air (n.)	Luft
-	vapor	Dampf	Wasserdampf
+	vapor	Dampf
 	fly (v.)	fliegen
 	face-to-face	von Angesicht zu Angesicht
 	noodles	Nudel
 	leather (n.)	Leder
 	shoes	Schuh
-	fragrant	Wohlgeruch	wohlriechend
+	fragrant	wohlriechend
 	voice (n.)	Stimme
-	Wu	Wu	das Reich Wu
-	amusement	Vergnügung	Unterhaltung
+	Wu	Wu
+	amusement	Vergnügung
 	error	Fehler
 	undertake	übernehmen
 	steam (v.)	dämpfen	verdunsten
@@ -1377,7 +1377,7 @@ KARTE	rare	kostbar	selten
 	explain	erklären
 	try (n.)	Mal	Dransein
 	turn over	umdrehen
-	broadcast (v.)	säen	die Saat ausstreuen	übertragen
+	broadcast (v.)	ausstrahlen	senden
 	fur	Fell
 	tail	Schwanz
 	dwelling (n.)	Haus	Wohnung	Wohnstätte
@@ -1386,13 +1386,13 @@ KARTE	rare	kostbar	selten
 	bogus	gefälscht
 	long	lang
 	stretch (v.)	spannen
-	swell (v.)	durch Wasser aufschwellen	quellen	schwellen
+	swell (v.)	quellen
 	cover (n.)	Hülle
-	hair of the head	Kopfhaar	Haupthaar
+	hair of the head	Kopfhaar
 	unfold	entfalten
 	funeral	Bestattung
 	wild goose	Wildgans
-	ought to	sollen	es gebührt sich
+	ought to	es gebührt sich
 	bird	Vogel
 	hawk	Falke
 	duck (n.)	Ente
@@ -1402,7 +1402,7 @@ KARTE	rare	kostbar	selten
 	stride (v.)	schreiten
 	ridge of a hill	Hügelkamm
 	just now	gerade eben	soeben
-	deficient	mangeln	mangelhaft	unzulänglich
+	deficient	unzulänglich
 	treasure (n.)	Schatz
 	remote (adj.)	fern
 	shake (v.)	schütteln
@@ -1411,7 +1411,7 @@ KARTE	rare	kostbar	selten
 	avoid	vermeiden
 	nightfall	Abend
 	elephant	Elefant
-	likeness	Porträt	Ebenbild	Abbild
+	likeness	Ebenbild
 	horse	Pferd
 	mama	Mama
 	scold (v.)	schimpfen
@@ -1422,9 +1422,9 @@ KARTE	rare	kostbar	selten
 	tiger	Tiger
 	ponder	denken	nachdenken	überlegen	grübeln
 	location	Ort	Stelle
-	frolic	Späße machen	scherzen	herumtollen
+	frolic	Späße machen
 	drama	Theater
-	certificate	Nachweis	Zertifikat
+	certificate	Nachweis	gemäß
 	deer	Reh
 	dust (n.)	Staub
 	lovely	hübsch
@@ -2445,7 +2445,7 @@ KARTE	drag (v.)	schleppen
 	reclaim	urbar machen	Neuland gewinnen
 	leopard	Leopard
 	cat	Katze
-	mien	Gesichtszüge	äußere Gestalt	Erscheinung
+	mien	Gesichtszüge	äußere Gestalt	Erscheinung	Miene?
 	lucent	laut und deutlich
 	wolf	Wolf
 	starving	ausgehungert

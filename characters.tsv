@@ -561,7 +561,7 @@ KARTE	elementary	elementar
 	support (v.)	aufrechterhalten	bewahren
 	include	einschließlich
 	bring up	erwähnen
-	brandish	schwingen	schwenken
+	brandish	schwingen
 	push	schieben
 	welcome (v.)	empfangen
 	hang	aufhängen
@@ -794,7 +794,7 @@ KARTE	elementary	elementar
 	royal court	Königshof
 	court of law	Gerichtshof
 	by means of	mittels
-	similar	ähnlich sein	ähneln	gleichend
+K	similar	scheinbar
 	combine (v.)	verschmelzen	verbinden	zusammenlegen	kombinieren
 	piece together	zusammenfügen	zusammensetzen
 	spine	musikalische Note	Rückgrat
@@ -1473,7 +1473,7 @@ KARTE	elementary	elementar
 	extensive	ausgedehnt
 	horizontal	waagerecht
 	window	Fenster
-	general (adj.)	total
+K	general (adj.)	total
 	verbose	wortreich
 	assume	schultern
 	number (n.)	Zahl
@@ -1517,7 +1517,7 @@ HALB	brand (n.)	Marke
 	big	riesig
 	lay brick	mauern
 	whistle (n.)	Trillerpfeife
-	sway (v.)	schwenken
+K	sway (v.)	schwenken
 	moor (v.)	anlegen
 	get rid of	aussondern
 	soak	benetzen

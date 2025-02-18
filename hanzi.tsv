@@ -378,7 +378,7 @@
 	Yuan	Yuan
 	distant	fern
 	bad	schlecht
-KARTE	elementary	elementar
+	elementary	elementar
 	towel	Tuch
 	cloth	Stoff
 	hat	Hut
@@ -794,7 +794,7 @@ KARTE	elementary	elementar
 	royal court	Königshof
 	court of law	Gerichtshof
 	by means of	mittels
-K	similar	anscheinend
+	similar	anscheinend
 	combine (v.)	verschmelzen	verbinden	zusammenlegen	kombinieren
 	piece together	zusammenfügen	zusammensetzen
 	spine	musikalische Note	Rückgrat
@@ -943,7 +943,7 @@ K	similar	anscheinend
 	strong	stark
 	weak	schwach
 	bullet	Geschoss
-K	Buddha	Buddha
+	Buddha	Buddha
 	expense	Kosten
 	younger brother	jüngerer Bruder
 	No.	Nr.
@@ -1473,7 +1473,7 @@ K	Buddha	Buddha
 	extensive	ausgedehnt
 	horizontal	waagerecht
 	window	Fenster
-K	general (adj.)	total
+	general (adj.)	total
 	verbose	wortreich
 	assume	schultern
 	number (n.)	Zahl
@@ -1484,12 +1484,12 @@ K	general (adj.)	total
 	orchid	Orchidee
 	follow	folgen
 	vertical	senkrecht
-KARTE	identical	symmetrisch
-KARTE	relieve (v.)	lindern	unterstützen
-KARTE	clown	Clown
-KARTE	twist (v.)	verdrehen
-KARTE	lowly	nieder
-HALB	brand (n.)	Marke
+	identical	symmetrisch
+	relieve (v.)	lindern	unterstützen
+	clown	Clown
+	twist (v.)	verdrehen
+	lowly	nieder
+	brand (n.)	Marke
 	appellation	Bezeichnung
 	peculiar	seltsam	sonderbar
 	crimson	blutrot
@@ -1517,7 +1517,7 @@ HALB	brand (n.)	Marke
 	big	riesig
 	lay brick	mauern
 	whistle (n.)	Trillerpfeife
-K	sway (v.)	schwenken
+	sway (v.)	schwenken
 	moor (v.)	anlegen
 	get rid of	aussondern
 	soak	benetzen
@@ -1553,7 +1553,7 @@ K	sway (v.)	schwenken
 	Song	Song
 	drench	begießen
 	burn (v.)	verbrennen
-KARTE	obscure (adj./v.)	finster	verschleiert
+	obscure (adj./v.)	finster	verschleiert
 	vermilion	zinnoberrot
 	tree trunk	Baumstamm
 	roof beam	Dachbalken
@@ -1665,7 +1665,7 @@ KARTE	obscure (adj./v.)	finster	verschleiert
 	jujube	Jujube
 	flower bud	Knospe
 	gulp down	verschlingen
-KARTE	bewitching	betörend	verführerisch
+	bewitching	betörend	verführerisch
 	fertile	fruchtbar
 	sedan chair	Sänfte
 	garbage	Müll
@@ -1814,7 +1814,7 @@ KARTE	bewitching	betörend	verführerisch
 	abandon	aufgeben	auf etw. verzichten
 	wipe away	wegwischen
 	yank (v.)	zerren
-KARTE	drag (v.)	schleppen
+	drag (v.)	schleppen
 	publicize	bekanntmachen
 	engage in	betreiben	befassen mit	verrichten
 	bump into	kollidieren
@@ -2959,15 +2959,15 @@ KARTE	drag (v.)	schleppen
 	impede	aufhalten
 	tracks	Fußabdruck	Spur	Fußspur
 	shrug (v.)	mit den Achseln zucken
-KARTE	pharmaceutical (n.)	Pharmazeutikum
-KARTE	abstain from food	fasten
-KARTE	squeeze (v.)	pressen
-KARTE	push button (n.)	Knopf	Schaltfläche
-KARTE	shy	schüchtern
-KARTE	New York	New York
-KARTE	spleen	Milz
-KARTE	beer	Bier
-KARTE	stele	Stele	Denkmal
+	pharmaceutical (n.)	Pharmazeutikum
+	abstain from food	fasten
+	squeeze (v.)	pressen
+	push button (n.)	Knopf	Schaltfläche
+	shy	schüchtern
+	New York	New York
+	spleen	Milz
+	beer	Bier
+	stele	Stele	Denkmal
 	illustrious	prominent
 	terrify	einen Schrecken einjagen	erschrecken
 	radiating vitality	Kraft und Energie ausstrahlen	frisch und munter
@@ -3033,8 +3033,8 @@ KARTE	stele	Stele	Denkmal
 	search for	Frühlingsjagd	sammeln
 	hibiscus	Hibiskus	Eibisch	Hibiskus (A)
 	cottonrose hibiscus	Mandeleibisch	Hibiskus (B)
-	tricks of the trade	Kniff	Trick	Kunstgriff	Reimspruch							訣	-
-	titanium	Titan										鈦	-
+訣	tricks of the trade	Kniff	Trick	Kunstgriff	Reimspruch
+鈦	titanium	Titan
 	hemorrhoids	Hämorrhoiden
 	Biang	Biang
 	xun	räuchern

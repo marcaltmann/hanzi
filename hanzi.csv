@@ -1645,7 +1645,7 @@ trip,None,False,Tour,,,,,,,
 dike,None,False,Deich,,,,,,,
 keyboard keys,None,False,Taste,,,,,,,
 son-in-law,None,False,Schwiegersohn,,,,,,,
-tailor (v.),None,False,schneiden,zuschneiden,abschneiden,ausschneiden,beschneiden,verringern,reduzieren,entlassen
+tailor (v.),裁,False,zuschneiden,,,,,,,
 socks,None,False,Socke,,,,,,,
 trundle (v.),None,False,rollen,wälzen,,,,,,
 decline (v.),None,False,verfallen,,,,,,,

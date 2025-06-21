@@ -518,7 +518,7 @@ round,圓,False,rund,,,,
 cause (n.),因,False,Ursache,,,,
 park (n.),園,False,Park,,,,
 return (v.),回,False,zurückkehren,wiederkehren,,,
-revolve,迴,False,sich drehen,rotieren,Umdrehung
+revolve,迴,False,sich drehen,rotieren,Umdrehung,,
 picture (n.),圖,False,Bild,,,,
 store (n.),店,False,Laden,,,,
 warehouse,庫,False,Lagerhaus,,,,

@@ -1,6 +1,6 @@
 import csv
 
-EXPECTED_ROW_LENGTH = 10
+EXPECTED_ROW_LENGTH = 8
 
 with open("hanzi.csv") as f:
     reader = csv.reader(f)

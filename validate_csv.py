@@ -18,6 +18,11 @@ for row in rows:
         row.pop()
 
 by_length = sorted(rows, key=len)
+
+for row in by_length:
+    if len(row) == EXPECTED_ROW_LENGTH:
+        print(row)
+
 longest = by_length[-1]
 print(f"Longest row ({len(longest)}):")
 print(longest)

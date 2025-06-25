@@ -9,9 +9,9 @@ with open("hanzi.csv") as f:
 
 for (i, length) in enumerate(lengths):
     if length < EXPECTED_ROW_LENGTH:
-        print(f"Line {i + 1} is too short.")
+        print(f"Line {i + 1} is {EXPECTED_ROW_LENGTH - length} column(s) too short.")
     elif length > EXPECTED_ROW_LENGTH:
-        print(f"Line {i + 1} is too long.")
+        print(f"Line {i + 1} is {length - EXPECTED_ROW_LENGTH} column(s) too long.")
 
 for row in rows:
     while row[-1] == "":
@@ -19,10 +19,10 @@ for row in rows:
 
 by_length = sorted(rows, key=len)
 
-for row in by_length:
-    if len(row) == EXPECTED_ROW_LENGTH:
-        print(row)
 
-longest = by_length[-1]
-print(f"Longest row ({len(longest)}):")
-print(longest)
+longest_rows = [row for row in by_length if len(row) == EXPECTED_ROW_LENGTH]
+
+if (longest_rows):
+    print(f"\n{len(longest_rows)} row(s) that match EXPECTED_ROW_LENGTH of {EXPECTED_ROW_LENGTH} columns:")
+    for row in longest_rows:
+        print(row)

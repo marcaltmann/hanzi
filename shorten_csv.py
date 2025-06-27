@@ -19,5 +19,5 @@ for row in rows:
     row.pop()
 
 with open("hanzi_shortened.csv", "w") as f:
-    writer = csv.writer(f)
+    writer = csv.writer(f, lineterminator="\n")
     writer.writerows(rows)

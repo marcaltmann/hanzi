@@ -2715,7 +2715,7 @@ Vol.,冊,False,Buchband,Bd.,Heft,
 delete,刪,True,wegstreichen,,,
 palisade,柵,False,Gatter,Gitter,Zaun,Palisade
 coral,珊,True,Koralle,,,
-everywhere,遍,False,mal,Mal,überall,,
+everywhere,遍,False,mal,Mal,überall,
 partial,偏,False,parteiisch,Neigung,,
 sink (v.),淪,False,versinken,untergehen,,
 human relationships,倫,False,Ordnung der zwischenmenschlichen Beziehungen,,,

@@ -1,6 +1,6 @@
 import csv
 
-EXPECTED_ROW_LENGTH = 7
+EXPECTED_ROW_LENGTH = 6
 
 with open("hanzi.csv") as f:
     reader = csv.reader(f)
@@ -26,17 +26,15 @@ by_length = sorted(rows, key=len)
 
 longest_rows = [row for row in by_length if len(row) == EXPECTED_ROW_LENGTH]
 
-has_three_translations = [row for row in by_length if len(row) == EXPECTED_ROW_LENGTH - 1]
-has_two_translations = [row for row in by_length if len(row) == EXPECTED_ROW_LENGTH - 2]
-has_one_translation = [row for row in by_length if len(row) == EXPECTED_ROW_LENGTH - 3]
+has_two_translations = [row for row in by_length if len(row) == EXPECTED_ROW_LENGTH - 1]
+has_one_translation = [row for row in by_length if len(row) == EXPECTED_ROW_LENGTH - 2]
 
 print(f"{len(has_one_translation)} row(s) with one translation…")
 print(f"{len(has_two_translations)} row(s) with two translations…")
-print(f"{len(has_three_translations)} row(s) with three translations…")
 
 if (longest_rows):
     if printed_row_length_errors:
         print()
-    print(f"{len(longest_rows)} row(s) with four translations:")
+    print(f"{len(longest_rows)} row(s) with three translations:")
     for row in longest_rows:
         print(row)

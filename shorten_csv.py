@@ -4,10 +4,6 @@ with open("hanzi.csv") as f:
     reader = csv.reader(f)
     rows = [row for row in reader]
 
-with open("hanzi_test.csv", "w") as f:
-    writer = csv.writer(f)
-    writer.writerows(rows)
-
 # Check first
 for row in rows:
     if row[-1] != "":

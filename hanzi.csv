@@ -1589,18 +1589,18 @@ paper money,鈔,False,Geldschein,
 put up for sale,銷,False,absetzen,
 lock (n./v.),鎖,True,Schloss,
 drill (n./v.),鑽,True,Bohrer,
-compel,迫,False,dringend,genötigt sein
-press (v.),逼,False,zwingen,
-escape (v.),逃,False,entkommen,fliehen
-flaunt,逞,False,zur Schau stellen,protzen
-rumble (n./v.),轟,False,krachen,Bums!
-rails,軌,False,Gleis,Schiene
+compel,迫,False,zwingen,
+press (v.),逼,False,drängen,
+escape (v.),逃,False,fliehen
+flaunt,逞,False,zur Schau stellen,
+rumble (n./v.),轟,False,Dröhnen,
+rails,軌,False,Gleis,
 flatten,軋,True,walzen,
 spokes,輻,True,Speiche,
 sauté (v.),煎,True,braten,
 figure of speech,喻,True,Metapher,
 elm,榆,True,Ulme,
-abbreviation,略,False,Auslassung,sprachliche Abkürzung
+abbreviation,略,False,Kürzel,sprachliche Abkürzung
 dizzy,暈,False,schwindelig,
 muddled,渾,False,unklar,undurchsichtig
 ointment,膏,False,Creme,

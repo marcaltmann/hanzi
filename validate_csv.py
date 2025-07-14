@@ -22,9 +22,7 @@ has_one_translation = [row for row in by_length if len(row) == EXPECTED_ROW_LENG
 print(f"{len(has_one_translation)} row(s) with one translation…")
 
 if (longest_rows):
-    print(f"{len(longest_rows)} row(s) with two translations:")
-    for row in longest_rows:
-        print(row)
+    print(f"{len(longest_rows)} row(s) with two translations…")
 
 for (i, length) in enumerate(lengths):
     if length < EXPECTED_ROW_LENGTH:

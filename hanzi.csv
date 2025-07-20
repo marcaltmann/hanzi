@@ -198,64 +198,64 @@ withered,枯,verdorrt,
 village,村,Dorf,
 one another,相,einander,
 notebook,本,Heft,
-case,案,Rechtsfall,
+case,案,Rechtsfall,Fall
 not yet,未,noch nicht,
-last (n./adj.),末,letzter,
+last (n./adj.),末,letzter,letzter Abschnitt
 foam,沫,Schaum,
 flavor (n.),味,Geschmack,
 younger sister,妹,jüngere Schwester,
-investigate,查,nachsehen,nachschlagen
+investigate,查,nachsehen,untersuchen
 sediment,渣,Bodensatz,
 dye (v.),染,färben,
 plum,李,Pflaume,
 table,桌,Tisch,
 as if,若,als ob,
 grass,草,Gras,
-suffering (n.),苦,bitter,
-wide,寬,weiträumig,
+suffering (n.),苦,bitter,Leid
+wide,寬,breit,weit
 leaf,葉,Blatt,
 nobody,莫,niemand,
-imitate,模,nachahmen,
+imitate,模,nachahmen,Modell
 desert (n.),漠,Wüste,
 grave,墓,Grab,
 seedling,苗,Setzling,
 aim (v.),瞄,zielen,
-portent,兆,Vorzeichen,
+portent,兆,Vorzeichen,Omen
 peach,桃,Pfirsich,
-pooch,犬,Hündchen,
-remarkable,尤,besonders,
+pooch,犬,Canide,Hund (formell)
+remarkable,尤,besonders,hervorstechend
 silent,默,still,
 sort of thing,然,-artig,
 cry (v.),哭,weinen,
 utensil,器,Gerät,
-stinking (adj.),臭,stinkend,
+stinking (adj.),臭,stinkend,übel riechend
 dog,狗,Hund,
 detest,厭,verabscheuen,
 pressure (n.),壓,Druck,
-cow,牛,Kuh,
-special (adj.),特,speziell,
-declare,告,mitteilen,
-vast,浩,gewaltig,
-before,先,voraus,
+cow,牛,Kuh,Rind
+special (adj.),特,speziell,besonders
+declare,告,mitteilen,verkünden
+vast,浩,ungeheuer,gewaltig
+before,先,vorher,
 wash (v.),洗,waschen,
 introduce,介,einführen,
 world,界,Welt,
 tea,茶,Tee,
-meeting,會,Zusammenkunft,
+meeting,會,Versammlung,Treffen
 fit (v.),合,passen,
 ha!,哈,Ha!,
 pagoda,塔,Pagode,
 king,王,König,
 jade,玉,Jade,
 ball,球,Ball,
-present (adj.),現,gegenwärtig,
+present (adj.),現,gegenwärtig,jetzig
 play (v.),玩,spielen,
 crazy,狂,verrückt,
 emperor,皇,Kaiser,
 resplendent,煌,strahlend,
 submit,呈,einreichen,
 whole,全,ganz,
-logic,理,Logik,
+logic,理,Logik,Vernunft
 lord,主,Herr,
 pour,注,eingießen,
 gold,金,Gold,
@@ -264,29 +264,29 @@ go fishin‘,釣,angeln,
 needle (n.),針,Nadel,
 nail (n.),釘,Nagel,
 inscription,銘,Inschrift,
-at ease,鎮,gelassen,
+at ease,鎮,gelassen,beruhigen
 way,道,Weg,
 guide (v.),導,leiten,führen
 speedy,迅,rasch,
 create,造,erschaffen,
 patrol (v.),巡,patrouillieren,
-stroll (v.),逛,einen Bummel machen,
-car,車,Wagen,
-one after another,連,aufeinanderfolgend,
+stroll (v.),逛,bummeln,flanieren
+car,車,Wagen,Auto
+one after another,連,aufeinanderfolgend,aneinander
 lotus,蓮,Lotus,
 in front,前,vor,
 shears,剪,Schere,
 transport (v.),輸,transportieren,
 exceed,逾,überschreiten,
 each,各,je,
-pattern,格,Muster,
+pattern,格,Muster,Struktur
 guest,客,Gast,
 forehead,額,Stirn,
 summer,夏,Sommer,
 L.A.,洛,Los Angeles,
-fall (v.),落,landen,
+fall (v.),落,fallen,landen
 superfluous,冗,überflüssig,
-profound,沉,tiefgründig,
+profound,沉,versunken,tiefgründig
 army,軍,Armee,
 radiance,輝,(Licht-)glanz,
 carry,運,überbringen,befördern
@@ -1514,7 +1514,7 @@ baby,嬰,Säugling,Kleinkind
 father‘s sister,姑,Tante väterlicherseits,
 nanny,姆,Kindermädchen,Amme
 cautious,兢,vorsichtig,achtsam
-big,碩,gewaltig,riesengroß
+big,碩,gewaltig,riesig
 lay brick,砌,mauern,
 whistle (n.),哨,Signalpfeife,
 sway (v.),晃,schwanken,
@@ -2717,7 +2717,7 @@ palisade,柵,Palisade,
 coral,珊,Koralle,
 everywhere,遍,überall,Mal
 partial,偏,parteiisch,tendenziös
-sink (v.),淪,untergehen,
+sink (v.),淪,untergehen,sinken
 human relationships,倫,zwischenmenschliche Ordnung,Ethik
 resist,抵,widerstehen,
 hoodlum,氓,gemeines Volk,Nomade
